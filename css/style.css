@@ -37,8 +37,12 @@ $color5: rgba(200, 213, 185, 1);
 }
 
 .barra{
-  background-color:rgba(112, 145, 118, 0.8);
+
+  background-color:rgba(112, 145, 118, 0.8) !important;
   color: rgba(36,28,28,0.9);
+  position: fixed;
+  z-index:9999;
+  width: 100%;
 
 
 
