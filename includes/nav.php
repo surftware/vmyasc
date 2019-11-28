@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top barra">
-    <a class="navbar-brand" href="#"><img src="img/logo.png" class="ml-auto logo" alt="logo">
+    <a class="navbar-brand" href="#"><img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
         <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
         <p class="p-logo-base">Despacho legal</p>
     </a>
