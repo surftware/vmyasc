@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top barra">
-    <a class="navbar-brand" href="#"><img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
+    <a class="navbar-brand" href="#"><img src="img/logo.png" class="ml-auto logo" alt="logo">
         <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
         <p class="p-logo-base">Despacho legal</p>
     </a>
@@ -10,11 +10,12 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+    <div class="collapse navbar-collapse"  id="navbarSupportedContent">
+        
+        <ul class="navbar-nav d-block mx-auto">
             <li class="nav-item active dropdown">
                 <i class="fas fa-balance-scale icono"></i>
-                <span class="span-menus">La Firma</span>
+                <span class="span-menus" >La Firma</span>
                 <div class="dropdown-content">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
@@ -49,9 +50,6 @@
             </li>
 
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
+        
     </div>
 </nav>
