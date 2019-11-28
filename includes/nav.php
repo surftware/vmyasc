@@ -13,7 +13,7 @@
     <div class="collapse navbar-collapse"  id="navbarSupportedContent">
         
         <ul class="navbar-nav d-block mx-auto">
-            <li class="nav-item active dropdown ml-sm-0 col-sm-12 text-sm-center">
+            <li class="nav-item active dropdown">
                 <i class="fas fa-balance-scale icono"></i>
                 <span class="span-menus" >La Firma</span>
                 <div class="dropdown-content">
@@ -23,7 +23,7 @@
                 </div>
             </li>
 
-            <li class="nav-item dropdown ml-sm-0 col-sm-12 text-sm-center">
+            <li class="nav-item dropdown">
                 <i class="fas fa-play-circle icono"></i>
                 <span class="span-menus">Conócenos</span>
                 <div class="dropdown-content">
@@ -35,7 +35,7 @@
 
                 </div>
             </li>
-            <li class="nav-item dropdown ml-sm-0 col-sm-12 text-sm-center">
+            <li class="nav-item dropdown">
                 <i class="fas fa-gavel icono"></i>
                 <span class="span-menus">Áreas de Práctica</span>
                 <div class="dropdown-content">
@@ -44,7 +44,7 @@
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Mercantil</p>
                 </div>
             </li>
-            <li class="nav-item dropdown ml-sm-0 col-sm-12 text-sm-center">
+            <li class="nav-item dropdown">
                 <i class="fas fa-envelope icono"></i>
                 <span class="span-menus">Contacto</span>
             </li>

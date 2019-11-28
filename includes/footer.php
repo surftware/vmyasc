@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
 
-        <div class="p-4 col-md-3">
+        <div class="p-4 col-12 col-sm-12 col-md-3">
           <h1 class=" h1-footer mb-4">Índice del Sitio</h1>
           <ul class="list-unstyled text-footer">
             <p>
@@ -28,16 +28,16 @@
             </p>
             <p>
               <i class="fas fa-envelope text-footer"></i>
-              <a href="#" class="">Contacto</a>
+              <a href="contacto.php" class="">Contacto</a>
             </p>
 
           </ul>
         </div>
 
-        <div class="p-4 col-md-3 text-center">
+        <div class="p-4 col-12 col-sm-12 col-md-3 text-center">
           <h1 class=" h1-footer mb-4">Contacto</h1>
           <p>
-            <a href="" class="text-footer">
+            <a href="contacto.php" class="text-footer">
               <i class="fa d-inline mr-3 text-secondary fa-phone"></i>Tels:5282-1930 / 5282-2030
             </a>
           </p>
@@ -53,15 +53,15 @@
             <a href="https://goo.gl/maps/JEB5dTLGNrA2" class="text-footer" target="_blank">
               <p class="">
                 <i class="fas fa-location-arrow"></i>
-                Miguel Ángel de Quevedo; 621-3B; <br>
-                Barrio Cuadrante de San Francisco;<br>
-                Coyoacán; CP.04320; Ciudad de México.
+                Calle Kappa numero 11,interior 11; <br>
+                colonia Romero de Terreros;<br>
+                Coyoacán; CP.04310; Ciudad de México.
               </p>
             </a>
           </p>
         </div>
 
-        <div class="p-4 col-md-3">
+        <div class="p-4 col-12 col-sm-12 col-md-3">
           <h1 class=" h1-footer mb-4">Horario de Atención</h1>
           <p class="text-footer">Lunes a Viernes de:<br><br>
             10:00 am a 3:00 pm <br>
@@ -71,7 +71,7 @@
           </p>
         </div>
 
-        <div class="p-4 col-md-3">
+        <div class="p-4 col-12 col-sm-12 col-md-3">
           <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h2>
             <h2 class="h2-footer footer-logo-base">Despacho Legal.</h2>
 
@@ -85,7 +85,7 @@
 
       </div>
       <div class="row">
-        <div class="col-md-12 ">
+        <div class="col-md-12 text-center ">
           <a href="https:surftware.me" class="surftware" target="_blank">
 
             <p class=""> <i class="fas fa-copyright"></i>Página diseñada por Surftware </p>
