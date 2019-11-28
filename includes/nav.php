@@ -1,54 +1,40 @@
-<body>
-  <div class="header navbar-fixed-top">
-    <div class="container-fluid">
-      <div class="row navbar navbar-fixed-top barra">
-        <div class="col-md-2">
-        <img src="img/logo.png" class="center-blocK logo" alt="logo">
-      </div>
-        <div class="col-md-2">
-          <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
-          <p class="p-logo-base">Despacho legal</p>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="img/logo.png" class="d-block mx-auto logo" alt="logo"><p class="p-logo">VICTOR MONTES Y ASOCIADOS</p><p class="p-logo-base">Despacho legal</p></a>
+
+        
+  <button class="navbar-toggler" type="button" data-toggle="collapse" 
+          data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+          aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
+           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
         </div>
-
-        <div class="col-md-8 menus-dropdown">
-
-              <!--Menús -->
-              <div class="dropdown">
-                <i class="fas fa-balance-scale icono"></i>
-                <span class="span-menus">La Firma</span>
-                <div class="dropdown-content">
-                <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
-                <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros cliente</p>
-              </div>
-            </div>
-            
-              <div class="dropdown">
-                <i class="fas fa-play-circle icono"></i>
-                <span class="span-menus">Conócenos</span>
-                <div class="dropdown-content">
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros clientes</p>
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Logros Destacados</p>
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Nuestro Equipo</p>
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Fechas importantes</p>
-
-                </div>
-              </div>
-              <div class="dropdown">
-                <i class="fas fa-gavel icono"></i>
-                <span class="span-menus">Áreas de Práctica</span>
-                <div class="dropdown-content">
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Penal</p>
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Civil</p>
-                  <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Mercantil</p>
-                </div>
-              </div>
-              <div class="dropdown">
-                <i class="fas fa-envelope icono"></i>
-                <span class="span-menus">Contacto</span>
-              </div>
-
-
-        </div>
-      </div>
-    </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
   </div>
+</nav>

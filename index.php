@@ -1,38 +1,55 @@
-<?php
-  define('BASE_PATH', '/var/www/vmyasc.com/');
-  include (BASE_PATH."includes/head.php");
-  include (BASE_PATH."includes/nav.php");
-?>
+<!DOCTYPE html>
+<html>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+<?php
+	 
+	$tituloPagina="Inicio | Víctor Montes y Asociados";
+	include_once ("includes/head.php"); 	  
+ ?>
+
+<body>
+  <?php
+
+  /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
+  include_once ("includes/nav.php");	  
+  
+ ?>
+
+
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+      </div>
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
-    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
 
 
-<?php
-  include (BASE_PATH."includes/footer.php");
-  include (BASE_PATH."includes/js.php");
-?>
+  <?php
+  include_once ("includes/footer.php");
+  include_once ("includes/js.php");
+  
+  ?>
+
+</body>
+
+</html>
