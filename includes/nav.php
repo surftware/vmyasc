@@ -12,8 +12,8 @@
 
     <div class="collapse navbar-collapse "  id="navbarSupportedContent">
         
-        <ul class="navbar-nav d-block mx-auto ">
-            <li class="menuResp nav-item active dropdown">
+        <ul class="navbar-nav d-block mx-auto centradoM">
+            <li class="menuResp nav-item active dropdown centradoM">
                 <i class="fas fa-balance-scale icono"></i>
                 <span class="span-menus" >La Firma</span>
                 <div class="dropdown-content">
