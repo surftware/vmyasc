@@ -10,9 +10,9 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse"  id="navbarSupportedContent">
+    <div class="collapse navbar-collapse "  id="navbarSupportedContent">
         
-        <ul class="navbar-nav d-block mx-auto">
+        <ul class="navbar-nav d-block mx-auto ">
             <li class="nav-item active dropdown">
                 <i class="fas fa-balance-scale icono"></i>
                 <span class="span-menus" >La Firma</span>
@@ -26,7 +26,7 @@
             <li class="nav-item dropdown">
                 <i class="fas fa-play-circle icono"></i>
                 <span class="span-menus">Conócenos</span>
-                <div class="dropdown-content">
+                <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
                         clientes</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Logros Destacados</p>
@@ -38,7 +38,7 @@
             <li class="nav-item dropdown">
                 <i class="fas fa-gavel icono"></i>
                 <span class="span-menus">Áreas de Práctica</span>
-                <div class="dropdown-content">
+                <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Penal</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Civil</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Mercantil</p>
