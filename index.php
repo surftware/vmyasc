@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<?php
-	 
+<?php	 
 	$tituloPagina="Inicio | Víctor Montes y Asociados";
 	include_once ("includes/head.php"); 	  
  ?>
