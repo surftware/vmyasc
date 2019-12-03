@@ -18,8 +18,7 @@
                 <span class="span-menus" >La Firma</span>
                 <div class="dropdown-content">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
-                    <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
-                        cliente</p>
+                    <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros cliente</p>
                 </div>
             </li>
 
@@ -54,4 +53,5 @@
         </ul>
         
     </div>
+    
 </nav>
