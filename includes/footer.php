@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class=" h1-footer m-4">Mapa de sitio</h1>
           <ul class="list-unstyled text-footer">
             <p class="mb-1">
@@ -29,7 +29,7 @@
           </ul>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class="h1-footer m-4">Contacto</h1>
           <p class="text-footer mb-1">
             <a href="contacto.php" class="">
@@ -37,8 +37,8 @@
             </a>
           </p>
           <p class="text-footer mb-1">
-            <a href="mailto:contacto@vmyasc.com.mx" class="text-footer">
-              <i class="fas fa-at mr-1"></i> contacto@vmyasc.com.mx
+            <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">
+              <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
             </a>
           </p>
           <p class="text-footer mb-1">
