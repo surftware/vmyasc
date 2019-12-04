@@ -52,7 +52,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
           <p class="text-footer mb-0">
             Lunes a Viernes de: 10:00 am a 3:00 pm
