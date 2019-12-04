@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
 
-<?php
-	 
+<?php	 
 	$tituloPagina="Inicio | Víctor Montes y Asociados";
 	include_once ("includes/head.php"); 	  
  ?>
 
 <body>
   <?php
-
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
   include_once ("includes/nav.php");	  
-  
  ?>
+
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -23,12 +21,21 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Despacho jurídico</p>
+        </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Avisos</p>
+        </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Despacho jurídico</p>
+        </div>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -41,11 +48,22 @@
     </a>
   </div>
 
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <h1 class="h1-section d-block mx-auto"> Conoce nuestro despacho</h1>
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+        </div>
+      </div>
+    </div>
+  </div>
+
 
   <?php
   include_once ("includes/footer.php");
-  include_once ("includes/js.php");
-  
+  include_once ("includes/js.php");  
   ?>
 
 </body>

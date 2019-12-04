@@ -3,96 +3,81 @@
     <div class="container">
       <div class="row">
 
-        <div class="p-4 col-12 col-sm-12 col-md-3">
-          <h1 class=" h1-footer mb-4">Índice del Sitio</h1>
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
+          <h1 class=" h1-footer m-4">Mapa de sitio</h1>
           <ul class="list-unstyled text-footer">
-            <p>
-              <i class="fas fa-balance-scale"></i>
-              <a href="index.html" class="">Inicio</a>
-              <br>
+            <p class="mb-1">
+              <i class="fas fa-balance-scale mr-1"></i>
+              <a href="index.html" class=""><span class="">Inicio</span></a>
             </p>
-            <p>
-              <i class="fas fa-gavel text-footer"></i>
-              <a href="#" class="">La Firma</a>
-              <br>
+            <p class="mb-1">
+              <i class="fas fa-gavel mr-1"></i>
+              <a href="firma.php" class=""><span class="">La Firma</span></a>
             </p>
-            <p>
-              <i class="fab fa-accusoft text-footer"></i>
-              <a href="#" class="">Áreas de práctica</a>
-              <br>
+            <p class="mb-1">
+              <i class="fab fa-accusoft mr-1"></i>
+              <a href="areas.php" class=""><span class="">&Aacute;reas de pr&aacute;ctica</span></a>
             </p>
-            <p>
-              <i class="fas fa-play-circle text-footer"></i>
-              <a href="#" class="">Conócenos</a>
-              <br>
+            <p class="mb-1">
+              <i class="fas fa-play-circle mr-1"></i>
+              <a href="conocenos.php" class="">Conócenos</a>
             </p>
-            <p>
-              <i class="fas fa-envelope text-footer"></i>
+            <p class="mb-1">
+              <i class="fas fa-envelope mr-1"></i>
               <a href="contacto.php" class="">Contacto</a>
             </p>
-
           </ul>
         </div>
 
-        <div class="p-4 col-12 col-sm-12 col-md-3 text-center">
-          <h1 class=" h1-footer mb-4">Contacto</h1>
-          <p>
-            <a href="contacto.php" class="text-footer">
-              <i class="fa d-inline mr-3 text-secondary fa-phone"></i>Tels:5282-1930 / 5282-2030
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
+          <h1 class="h1-footer m-4">Contacto</h1>
+          <p class="text-footer mb-1">
+            <a href="contacto.php" class="">
+              <i class="fa fa-phone mr-1"></i>Tels: 5282-1930 / 5282-2030
             </a>
           </p>
-          <p>
-            <a href="mailto:contacto@vmyasc.com.mx" class="text-footer">
-              <p class="">
-                <i class="fas fa-at"></i>
-                contacto@vmyasc.com.mx
-              </p>
+          <p class="text-footer mb-1">
+            <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">
+              <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
             </a>
           </p>
-          <p>
-            <a href="https://goo.gl/maps/JEB5dTLGNrA2" class="text-footer" target="_blank">
-              <p class="">
-                <i class="fas fa-location-arrow"></i>
-                Calle Kappa numero 11,interior 11; <br>
-                colonia Romero de Terreros;<br>
-                Coyoacán; CP.04310; Ciudad de México.
+          <p class="text-footer mb-1">
+            <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
+              <p>
+                <i class="fas fa-location-arrow mr-1"></i>
+                Kappa #11 Interior 4; Col. Romero de Terreros;
+                CP.04310, Coyoac&aacute;n; Ciudad de M&eacute;xico
               </p>
             </a>
           </p>
         </div>
 
-        <div class="p-4 col-12 col-sm-12 col-md-3">
-          <h1 class=" h1-footer mb-4">Horario de Atención</h1>
-          <p class="text-footer">Lunes a Viernes de:<br><br>
-            10:00 am a 3:00 pm <br>
-            y <br>
-            5:00 pm a 8:00 pm
-
+        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+          <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
+          <p class="text-footer mb-0">
+            Lunes a Viernes de: 10:00 am a 3:00 pm
+            y 5:00 pm a 8:00 pm
           </p>
+
         </div>
 
-        <div class="p-4 col-12 col-sm-12 col-md-3">
-          <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h2>
-            <h2 class="h2-footer footer-logo-base">Despacho Legal.</h2>
-
-
-
-            <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+        <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+          <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
+          <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
+          <img src="img/logoFooter.png" class="logo-footer" alt="logo">
         </div>
-
-
-
 
       </div>
-      <div class="row">
+      <div class="row mt-5">
         <div class="col-md-12 text-center ">
-          <a href="https:surftware.me" class="surftware" target="_blank">
-
+          <a href="https://surftware.me" class="surftware" target="_blank">
             <p class=""> <i class="fas fa-copyright"></i>Página diseñada por Surftware </p>
           </a>
         </div>
       </div>
     </div>
   </div>
+
+
 
 </footer>

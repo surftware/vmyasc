@@ -42,9 +42,68 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
+  <div class="block contacts " id="contacts">
+    <div class="center">
+      <div class="block__title  wow bounceInLeft">
+        <span>contactanos</span>
+      </div>
+      <div class="contacts__block col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
+
+        <div class="  wow bounceInRight">
+          <form action="index.php" method="post">
+            <div class="row">
+              <input name="nombre" type="text" class="input" placeholder="Nombre*" required>
+            </div>
+            <div class="row">
+              <input name="telefono" type="text" class="input" placeholder="Telefono*">
+            </div>
+            <div class="row">
+              <input name="correo" type="text" class="input" placeholder="Email*" required>
+            </div>
+            <div class="row">
+              <textarea name="mensaje" placeholder="Asunto / Mensaje" class="textarea" rows="5" required></textarea>
+            </div>
+            <div class="row">
+              <div class="btn__wrap__right">
+                <input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold" value="Enviar">
+              </div>
+            </div>
+          </form>
+
+        </div>
+
+      </div>
+    </div>
+    <?php
+    $remitente = $_POST['correo'];
+    $destinatario = 'and_3406@hotmail.com'; // en esta línea va el mail del destinatario.
+    $asunto = 'E-mail enviado desde la página principal vmyasc.com'; // acá se puede modificar el asunto del mail
+    if (!$_POST)
+    {
+
+    }
+    else
+    {
+      $cuerpo =  "Nombre:   " . $_POST["nombre"]    . "\r\n"; 
+      $cuerpo .= "Teléfono: " . $_POST["telefono"]  . "\r\n";
+      $cuerpo .= "Email:    " . $_POST["correo"]    . "\r\n";
+      $cuerpo .= "Mensaje:  " . $_POST["mensaje"]   . "\r\n";
+      //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
+	    // Si se agrega un campo al formulario, hay que agregarlo acá.
+
+      $headers  = "MIME-Version: 1.0\n";
+      $headers .= "Content-type: text/plain; charset=utf-8\n";
+      $headers .= "X-Priority: 3\n";
+      $headers .= "X-MSMail-Priority: Normal\n";
+      $headers .= "X-Mailer: php\n";
+      $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
+
+      mail($destinatario, $asunto, $cuerpo, $headers);
+    }
+?>
 
 
-  <?php
+    <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");
   
