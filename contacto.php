@@ -56,24 +56,13 @@
           <ul>
             <li><a href="mailto:exampleemail@gmail.com"><i
                   class="fa fa-envelope"></i>contact@conversationalspanishmx.com</a></li>
-            <li><a href="tel:+52 5613524552"><i class="fa fa-phone"></i>+52 56-13-52-45-52</a></li>
-            <li><a href="https://goo.gl/maps/X8ZRwoqS8MvsVzP39" target="_blank"><i class="fa fa-map-marker"></i>Mexico
+            <li><a href="Tels: 5282-1930 / 5282-2030"><i class="fa fa-phone"></i>+52 56-13-52-45-52</a></li>
+            <li><a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" target="_blank"><i class="fa fa-map-marker"></i>Mexico
                 City</a></li>
             <li><a href="skype:contact@conversationalspanishmx.com"><i
                   class="fab fa-skype"></i></i>contact@conversationalspanishmx.com</a></li>
           </ul>
-          <div class="soc">
-            <div class="title">
-              Social Networks
-            </div>
-            <div class="links">
-              <a href="https://blog.conversationalspanishmx.com"><i class="fab fa-wordpress-simple"></i></a>
-              <a href="skype:contact@conversationalspanishmx.com?chat"><i class="fab fa-skype"></i></a>
-              <a href="https://www.instagram.com/conversationalspanishmx/"><i class="fab fa-instagram"></i></a>
-              <a href="https://www.facebook.com/Conversational-Spanish-108934343810844"><i
-                  class="fab fa-facebook"></i></a>
-            </div>
-          </div>
+
         </div>
         <div class="right_side  wow bounceInRight">
           <form action="index.php" method="post">

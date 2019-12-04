@@ -42,7 +42,7 @@
             </a>
           </p>
           <p class="text-footer mb-1">
-            <a href="https://goo.gl/maps/JEB5dTLGNrA2" class="text-footer" target="_blank">
+            <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>
                 <i class="fas fa-location-arrow mr-1"></i>
                 Kappa #11 Interior 4; Col. Romero de Terreros;
