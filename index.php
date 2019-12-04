@@ -50,11 +50,25 @@
 
   <div class="section">
     <div class="container">
-      <div class="row">
-        <h1 class="h1-section d-block mx-auto"> Conoce nuestro despacho</h1>
-        <div class="col-md-6">
-        </div>
-        <div class="col-md-6">
+      <div class="row vertical-row">
+      <div class="col-md-8 col-sm-6">
+        <h1 class="h1-section d-block mx-auto mt-5"> Conoce nuestro despacho</h1>
+        
+        <div class="mt-5">
+        <p> La Asociación de Prevención de Lavado de Dinero y Delitos Económicos –ASPLDE— es una 
+        organización compuesta por socios y miembros, expertos en la prevención y detección del lavado de dinero 
+        y otros delitos económicos, cuya finalidad radica en conformar la red más amplia de expertos en México, 
+        en la construcción permanente de las mejores prácticas en la materia.
+        </p>
+        <p> En ASPLDE, estamos convencidos, de que contar con herramientas y conocimientos de vanguardia, 
+        permitiran que la prevención del lavado de dinero, financiamiento al terrorismo y otros delitos económicos
+         se realicen de manera técnica, integral y profesional.
+         </p>
+         </div>
+         </div>
+         <div class="col-md-4  col-sm-6 text-right imagen_m">
+         <img src="img/logoFooter.png">
+         </div>
         </div>
       </div>
     </div>
