@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  
+
 <?php	 
 	$tituloPagina="Inicio | Víctor Montes y Asociados";
 	include_once ("includes/head.php"); 	  
@@ -21,12 +21,21 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Despacho jurídico</p>
+        </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Avisos</p>
+        </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+        <div class="transparencia1 d-block mx-auto">
+          <p>Despacho jurídico</p>
+        </div>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -37,6 +46,18 @@
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <h1 class="h1-section d-block mx-auto"> Conoce nuestro despacho</h1>
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+        </div>
+      </div>
+    </div>
   </div>
 
 
