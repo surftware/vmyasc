@@ -71,7 +71,7 @@
           </p>
         </div>
         <div class="col-md-4 col-sm-6 text-right">
-          <img src=" img/logoFooter.png" class="imagen_m">
+          <img src=" img/abogados-cdmx.png" class="imagen_m">
         </div>
 
       </div>
