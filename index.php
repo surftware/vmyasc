@@ -73,7 +73,9 @@
         <div class="col-md-4 col-sm-6 text-right">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
         </div>
+        <div a href= "" class="circle-button btn btn-sm">  Arcerca de nosotros </a>
 
+        </div>
       </div>
     </div>
   </div>
