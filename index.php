@@ -58,15 +58,16 @@
       </div>
 
       <div class="row">
-        <div class="col-md-8 col-sm-6">
-          <p> La Asociación de Prevención de Lavado de Dinero y Delitos Económicos –ASPLDE— es una
-            organización compuesta por socios y miembros, expertos en la prevención y detección del lavado de dinero
-            y otros delitos económicos, cuya finalidad radica en conformar la red más amplia de expertos en México,
-            en la construcción permanente de las mejores prácticas en la materia.
+        <div class="col-md-8 col-sm-6 text-justify">
+          <p> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez, fecha desde
+            la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
+            desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
-          <p> En ASPLDE, estamos convencidos, de que contar con herramientas y conocimientos de vanguardia,
-            permitiran que la prevención del lavado de dinero, financiamiento al terrorismo y otros delitos económicos
-            se realicen de manera técnica, integral y profesional.
+
+          <p> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en diferentes ramas y
+            especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
+            Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
+            Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
         </div>
         <div class="col-md-4 col-sm-6 text-right">
