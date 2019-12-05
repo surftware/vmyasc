@@ -22,7 +22,7 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p>Despacho jurídico</p>
+          <p class="letrasTransparencia1">Despacho jurídico</p>
         </div>
       </div>
       <div class="carousel-item">
