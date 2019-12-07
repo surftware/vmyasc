@@ -88,19 +88,19 @@
           <div class="row">
 
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado1.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado2.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado3.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado4.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado5.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado6.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado8.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado9.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
 
           </div>
