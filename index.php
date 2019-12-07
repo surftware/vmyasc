@@ -125,7 +125,7 @@
                 <li class="cLetra">
                   Servicio 1
                 </li>
-                <li class="cLetra"">
+                <li class="cLetra">
                   Servicio 2
                 </li>
                 <li class="cLetra">
