@@ -48,17 +48,14 @@
     </a>
   </div>
 
-  <div class="section">
-    <div class="container-fluid">
+  <div class="section mt-5 mb-5 ">
+    <div class="container">
 
-      <div class="row mt-5 mb-3">
-        <div class="col-md-12 col-sm-12">
-          <h1 class="h1-section"> Conozca nuestro despacho</h1>
-        </div>
-      </div>
 
       <div class="row">
-        <div class="col-md-6 col-sm-6 text-justify">
+        <div class="col-md-6 col-sm-6 text-justify mb-5">
+        <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
+        
           <p> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez, fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
@@ -70,19 +67,21 @@
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
+          
+          <a href="contacto.php " class="btn btn-sm botones rounded-pill  mt-4 mb-5" role="button">Saber m&aacute;s</a>
+
         </div>
-        <div class="col-md-6 col-sm-6 text-right">
+        <div class="col-md-6 col-sm-6 text-right mb-5">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
         </div>
-        <a href="contacto.php" class="circle-button btn btn-sm botones" role="button">Saber m&aacute;s</a>
-
+       
       </div>
     </div>
   </div>
 
 
   <div class="section">
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
 
         <div class="col-md-6">
@@ -127,23 +126,23 @@
                   Servicio 1
                 </li>
                 <li>
-                Servicio 2
+                  Servicio 2
                 </li>
                 <li>
-                Servicio 3
+                  Servicio 3
                 </li>
               </ul>
             </div>
             <div class="col-md-6">
-            <ul>
+              <ul>
                 <li>
-                Servicio 4
+                  Servicio 4
                 </li>
                 <li>
-                Servicio 5
+                  Servicio 5
                 </li>
                 <li>
-                Servicio 6
+                  Servicio 6
                 </li>
               </ul>
             </div>
@@ -155,9 +154,14 @@
       </div>
     </div>
   </div>
+  <div class="section">
+    <div class="container">
+      <h4 class="text-center"> Principales miebros </4>
+        <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el proyecto
+          de ASPLDE </p>
 
 
-  <?php
+        <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");  
   ?>
