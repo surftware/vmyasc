@@ -68,7 +68,7 @@
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
           
-          <a href="contacto.php " class="btn btn-sm botones rounded-pill  mt-4 mb-5" role="button">Saber m&aacute;s</a>
+          <a href="contacto.php " class="btn btn-sm botones rounded-pill  mt-5 mb-5" role="button">Saber m&aacute;s</a>
 
         </div>
         <div class="col-md-6 col-sm-6 text-right mb-5">
