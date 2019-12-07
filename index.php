@@ -3,7 +3,7 @@
 
 <?php	 
 	$tituloPagina="Inicio | Víctor Montes y Asociados";
-	include_once ("includes/head.php"); 	  
+  include_once ("includes/head.php"); 	  
  ?>
 
 <body>
@@ -49,17 +49,18 @@
   </div>
 
   <div class="section">
-    <div class="container">
+    <div class="container-fluid">
 
       <div class="row mt-5 mb-3">
         <div class="col-md-12 col-sm-12">
-          <h1 class="h1-section text-left"> Conozca nuestro despacho</h1>
+          <h1 class="h1-section"> Conozca nuestro despacho</h1>
         </div>
       </div>
 
       <div class="row">
-        <div class="col-md-8 col-sm-6 text-justify">
-          <p> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez, fecha desde
+        <div class="col-md-6 col-sm-6 text-justify">
+          <p> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez, fecha
+            desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
@@ -70,16 +71,90 @@
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
         </div>
-        <div class="col-md-4 col-sm-6 text-right">
+        <div class="col-md-6 col-sm-6 text-right">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
         </div>
-        <div a href= "http://vmyasc.local/contacto.php" class="circle-button btn btn-sm">  Arcerca de nosotros </a>
+        <a href="contacto.php" class="circle-button btn btn-sm botones" role="button">Saber m&aacute;s</a>
 
-        </div>
       </div>
     </div>
   </div>
 
+
+  <div class="section">
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-md-6">
+          <div class="row">
+
+            <div class="col-md-4">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-6">
+
+          <div class="row ml-5 mt-5">
+            <h1 class="h1-section"> Servicios</h1>
+            <div class="col-md-12">
+              <p>Las opciones son variadas, el objetivo es el mismo
+                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
+              <p>Las opciones son variadas, el objetivo es el mismo
+
+                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
+            </div>
+          </div>
+          <div class="row ml-5 mt-3">
+            <div class="col-md-6">
+              <ul>
+                <li>
+                  Servicio 1
+                </li>
+                <li>
+                Servicio 2
+                </li>
+                <li>
+                Servicio 3
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+            <ul>
+                <li>
+                Servicio 4
+                </li>
+                <li>
+                Servicio 5
+                </li>
+                <li>
+                Servicio 6
+                </li>
+              </ul>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
 
 
   <?php
