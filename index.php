@@ -88,19 +88,19 @@
           <div class="row">
 
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-3" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
             </div>
 
           </div>
@@ -122,26 +122,26 @@
           <div class="row ml-5 mt-3">
             <div class="col-md-6">
               <ul>
-                <li>
+                <li class="cLetra">
                   Servicio 1
                 </li>
-                <li>
+                <li class="cLetra"">
                   Servicio 2
                 </li>
-                <li>
+                <li class="cLetra">
                   Servicio 3
                 </li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul>
-                <li>
+                <li class="cLetra">
                   Servicio 4
                 </li>
-                <li>
+                <li class="cLetra">
                   Servicio 5
                 </li>
-                <li>
+                <li class="cLetra">
                   Servicio 6
                 </li>
               </ul>
