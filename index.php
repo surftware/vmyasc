@@ -88,19 +88,19 @@
           <div class="row">
 
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
             <div class="col-md-4">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
-              <img src="img/carrusel/x3.png" class="imgServicios mb-2 ml-2" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/carrusel/x3.png" class="imgServicios mb-3 ml-1" alt="">
             </div>
 
           </div>
