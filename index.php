@@ -22,19 +22,19 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jurídico</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jurídico</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jurídico</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
@@ -53,10 +53,12 @@
 
 
       <div class="row">
-        <div class="col-md-6 col-sm-6 text-justify mb-5">
-        <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
-        
-          <p> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez, fecha
+
+        <div class="col-sm-12 col-md-6 text-justify mb-5">
+          <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
+
+          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
+            fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
@@ -67,15 +69,23 @@
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
-          
-          <a href="contacto.php " class="btn btn-sm botones rounded-pill  mt-5 mb-5" role="button">Saber m&aacute;s</a>
+
+
 
         </div>
-        <div class="col-md-6 col-sm-6 text-right mb-5">
+
+        <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
         </div>
-       
+
       </div>
+      <div class="row">
+        <div class="col-md-12">
+        <a href="contacto.php " class="btn btn-sm botones rounded-pill mb-5" role="button">Saber m&aacute;s</a>
+        </div>
+      </div>
+
+
     </div>
   </div>
 
@@ -154,14 +164,31 @@
       </div>
     </div>
   </div>
+
   <div class="section">
     <div class="container">
-      <h4 class="text-center"> Principales miebros </4>
-        <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el proyecto
-          de ASPLDE </p>
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="text-center"> Principales miebros </4>
+            <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
+              proyecto
+              de ASPLDE
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
-        <?php
+
+
+
+
+
+
+
+
+  <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");  
   ?>
