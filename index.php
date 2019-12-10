@@ -81,7 +81,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-        <a href="contacto.php " class="btn btn-sm botones rounded-pill mb-5" role="button">Saber m&aacute;s</a>
+          <a href="contacto.php " class="btn btn-sm botones rounded-pill mb-5" role="button">Saber m&aacute;s</a>
         </div>
       </div>
 
@@ -178,6 +178,85 @@
       </div>
     </div>
   </div>
+
+  <div class="section mt-5 mb-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12    text-center">
+          <h4 class="text-center"> Testimonios </4>
+            <h6 class="text-center"> La experiencia de nuestros miembros asesores </h6>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3 col-center text-center">
+          <p class="text-center"> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+
+          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+
+
+          <p>Marcos Czacki</p>
+
+        </div>
+
+        <div class="col-md-3">
+          <p class="text-center"> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="col-md-3">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+          </div>
+          <div class="col-md-3">
+            <p>Marcos Czacki</p>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <p class="text-center"> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="col-md-3">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+          </div>
+          <div class="col-md-3">
+            <p>Marcos Czacki</p>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <p class="text-center"> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="col-md-3">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+          </div>
+          <div class="col-md-3">
+            <p>Marcos Czacki</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
 
 
 
