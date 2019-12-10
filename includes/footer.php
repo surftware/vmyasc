@@ -11,12 +11,8 @@
               <a href="index.html" class=""><span class="">Inicio</span></a>
             </p>
             <p class="mb-1">
-              <i class="fas fa-gavel mr-1"></i>
-              <a href="firma.php" class=""><span class="">La Firma</span></a>
-            </p>
-            <p class="mb-1">
               <i class="fab fa-accusoft mr-1"></i>
-              <a href="areas.php" class=""><span class="">&Aacute;reas de pr&aacute;ctica</span></a>
+              <a href="servicios.php" class=""><span class="">Servicios</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-play-circle mr-1"></i>

@@ -175,34 +175,34 @@
           <div class="flexslider carousel">
   <ul class="slides">
     <li>
-      <img src="img/abogado1.png" />
+      <img src="img/ab01.png" />
     </li>
     <li>
-      <img src="img/abogado2.png" />
+      <img src="img/ab02.png" />
     </li>
     <li>
-      <img src="img/abogado3.png" />
+      <img src="img/ab03.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab04.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab05.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab06.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab01.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab01.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab01.png" />
     </li>
     <li>
-      <img src="img/abogado4.png" />
+      <img src="img/ab01.png" />
     </li>
     <!-- items mirrored twice, total of 12 -->
   </ul>

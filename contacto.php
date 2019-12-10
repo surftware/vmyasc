@@ -90,6 +90,31 @@
 
     </div>
   </div>
+     <!-- contacts area start -->
+     <div class="contacts ptb-100" id="contacts">
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                              <h2 class="title tc">
+                                 Contact Us
+                              </h2>
+                              <p class="contacts_description tc">If you have any questions, please fill out the form below.</p>
+                           </div>
+                        </div>
+                        <div class="row justify-content-center">
+                           <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
+                              <div class="form">
+                                 <form action="../php/contact-form.php" class="form form--contacts">
+                                    <input type="text" class="form_field" placeholder="Name" required="">
+                                    <input type="text" class="form_field" placeholder="Email" required="">
+                                    <textarea class="form_textarea" placeholder="Message"></textarea>
+                                    <button class="button button_orange button_medium" type="submit">SUBMIT</button>
+                                 </form>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- contacts area end -->
   <?php
     $remitente = $_POST['correo'];
     $destinatario = 'and_3406@hotmail.com'; // en esta línea va el mail del destinatario.
