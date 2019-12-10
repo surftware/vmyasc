@@ -48,6 +48,8 @@
     </a>
   </div>
 
+  <!-- Termina Carrusel-->
+
   <div class="section mt-5 mb-5 ">
     <div class="container">
 
@@ -180,7 +182,7 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center">
+        <div class="col-sm-12 col-md-12 text-center mt-5">
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
@@ -237,10 +239,6 @@
       </div>
     </div>
   </div>
-
-
-
-
 
 
 

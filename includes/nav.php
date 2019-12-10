@@ -14,8 +14,10 @@
 
         <ul class="navbar-nav d-block mx-auto centradoM">
             <li class="menuResp nav-item active dropdown centradoM">
-            <a href="firma.php"><i class="fas fa-balance-scale icono"></i>
-                <span class="span-menus">La Firma</span></a>
+            <a href="firma.php">
+                <i class="fas fa-balance-scale icono"></i>
+                <span class="span-menus">La Firma</span>
+            </a>
                 <div class="dropdown-content">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
