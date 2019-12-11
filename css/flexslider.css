@@ -278,3 +278,27 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+/*Letras de flexslider */
+.caption  {
+
+  
+  
+  
+  display: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  position: absolute;
+  top: 0;
+  z-index: 1;
+}
+/*Letras de flexslider prueva 2 */
+.details{
+  position: relative;
+  top: -350px;
+  width: 500px;
+  margin:auto;
+  padding: 10px;
+  text-align: center;
+}
