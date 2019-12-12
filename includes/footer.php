@@ -29,8 +29,10 @@
           <h1 class="h1-footer m-4">Contacto</h1>
           <p class="text-footer mb-1">
             <a href="contacto.php" class="">
-              <i class="fa fa-phone mr-1"></i>Tels: 5282-1930 / 5282-2030
+              <li><a href="tel:+52 5552821930  "><i class="fa fa-phone"></i>&nbsp; 52-82-19-30 </a></li>
+              <li><a href="tel:+52 5552822030  "><i class="fa fa-phone"></i>&nbsp; 52-82-20-30 </a></li>
             </a>
+            
           </p>
           <p class="text-footer mb-1">
             <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">

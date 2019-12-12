@@ -48,10 +48,10 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-          <h2 class="title tc">
+          <h1 class="title tc">
             Contactanos
-          </h2>
-          <p class="contacts_description tc">Contestaremos a la brevedad.</p>
+          </h1>
+          <p class="tc">Contestaremos a la brevedad.</p>
         </div>
       </div>
       <div class="row justify-content-center">
