@@ -58,8 +58,9 @@
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
           <div class="form">
             <form action="../php/contact-form.php" class="form form--contacts">
-              <input type="text" class="form_field" placeholder="nombre" required="">
-              <input type="text" class="form_field" placeholder="Email" required="">
+              <input type="text" class="form_field" placeholder="Nombre" required="">
+              <input type="text" class="form_field" placeholder="Telefono" required="">
+              <input type="text" class="form_field" placeholder="Email" required=""> 
               <textarea class="form_textarea" placeholder="Mensage"></textarea>
               <button class="button button_agua button_medium mb-5" type="submit">SUBMIT</button>
             </form>
