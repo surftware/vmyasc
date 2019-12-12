@@ -61,7 +61,7 @@
                                     <input type="text" class="form_field" placeholder="nombre" required="">
                                     <input type="text" class="form_field" placeholder="Email" required="">
                                     <textarea class="form_textarea" placeholder="Mensage"></textarea>
-                                    <button class="button button_agua button_medium" type="submit">SUBMIT</button>
+                                    <button class="button button_agua button_medium mb-5" type="submit">SUBMIT</button>
                                  </form>
                               </div>
                            </div>
