@@ -280,25 +280,41 @@ html[xmlns] .flexslider .slides {
 }
 /*Letras de flexslider */
 .caption  {
-
-  
-  
-  
-  display: center;
-  justify-content: center;
-  align-items: center;
+  font-size: 8px;
+  line-height: 15px;
+  letter-spacing: .2px;
+  font-weight: bold;
   text-align: center;
-
-  position: absolute;
-  top: 0;
-  z-index: 1;
-}
-/*Letras de flexslider prueva 2 */
-.details{
+  padding: 7px 7px 0 7px;
+  background-color: #fff;
+  z-index: 9;
   position: relative;
-  top: -350px;
-  width: 500px;
-  margin:auto;
-  padding: 10px;
-  text-align: center;
+
+}
+/*intento 2*/
+div.img{
+  display:table;
+}
+div.img img{
+ margin:0;
+ padding:0;
+}
+div.img span{
+ line-height:normal;
+ font-size:11px;
+ display:table-caption;
+ margin:0;
+ padding:0;
+ background:#646464;
+ color:white;
+ font-style:italic;
+ text-align:center;
+ position:relative;
+ height:0;
+}
+div.img span span{
+ background:rgba(0, 0, 0, 0.4);
+ display:block;
+ padding:3px;
+ text-shadow:0 0 15px white;
 }

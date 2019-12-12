@@ -178,59 +178,59 @@
 
                 <li>
                   <img src="img/ab01.png">
-                  <div class="details">
+                  <div class="">
                     <h4> Presidente de la firma </h4>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </div>
+                  </div>
                 </li>
                 <li>
                   <img src="img/ab02.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab03.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab04.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab05.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab06.png" />
                   <section class="caption">
                     <p class="font-size:small"> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab06.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <li>
                   <img src="img/ab06.png" />
                   <section class="caption">
                     <p> Presidente de la firma </p>
                     <p>titular de la unidad de inteligencia financiera</p>
-                    </section>
+                  </section>
                 </li>
                 <!-- items mirrored twice, total of 12 -->
               </ul>
@@ -241,7 +241,147 @@
 
     </div>
   </div>
+  <!-- Carrusel boostrap -->
+  <div class="container">
 
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+      </ol>
+      <div class="carousel-inner">
+
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="img/ab01.png" alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100" src="img/ab02.png" alt="Second slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100" src="img/ab03.png" alt="Third slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100" src="img/ab04.png" alt="Fourth slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100" src="img/ab05.png" alt="Fifth slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100" src="img/ab06.png" alt="Sixth slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Carrusel boostrap final-->
+  <!-- Carrusel boostrap multiples items-->
+  <div class="container-fluid">
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="9000">
+        <div class="carousel-inner row w-10 mxauto" role="listbox">
+            <div class="carousel-item col-md-4 active">
+                <img class="img-fluid mx-auto d-bloc" src="img/ab01.png" alt="slide 1">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab02.png" alt="slide 2">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab03.png" alt="slide 3">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab04.png" alt="slide 4">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab05.png" alt="slide 5">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab06.png" alt="slide 6">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab07.png" alt="slide 7">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+            <div class="carousel-item col-md-4">
+                <img class="img-fluid mx-auto d-block" src="img/ab07.png" alt="slide 7">
+                <div class="carousel-caption d-none d-md-block">
+            <h5>Presidente de la firma</h5>
+            <p>titular de la unidad de inteligencia financiera</p>
+          </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+            <i class="fa fa-chevron-left fa-lg text-muted"></i>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next text-faded" href="#carouselExample" role="button" data-slide="next">
+            <i class="fa fa-chevron-right fa-lg text-muted"></i>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+  <!-- Carrusel boostrap multiples items final -->
   <div class="section bg-light mt-5 mb-5">
     <div class="container">
 
@@ -253,19 +393,19 @@
       </div>
 
       <div class="row">
-        <div class="col-sm-12 col-md-4 text-justify">
+        <div class="col-sm-12 col-md-4 text-justify ">
           <p class=""> "Ante una realidad cada vez más exigente y
             riesgosa en materia de cumplimiento normativo y frente a los complejos
             atajos que toma la delincuencia organizada para mover sus fondos ilegales
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
 
-
-          <p>Marcos Czacki</p>
-
+            <p><b>Marcos Czacki</b></p>
+          </div>
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
@@ -275,12 +415,12 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
 
-
-          <p>Marcos Czacki</p>
-
+            <p><b>Marcos Czacki</b></p>
+          </div>
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
@@ -291,12 +431,12 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
 
-
-          <p>Armando Arciniega</p>
-
+            <p><b>Armando Arciniega</b></p>
+          </div>
         </div>
 
 
