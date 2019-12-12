@@ -14,7 +14,7 @@
 
         <ul class="navbar-nav d-block mx-auto centradoM">
             <li class="menuResp nav-item active dropdown centradoM">
-            <a href="firma.php">
+            <a href="index.php">
                 <i class="fas fa-balance-scale icono"></i>
                 <span class="span-menus">La Firma</span>
             </a>
