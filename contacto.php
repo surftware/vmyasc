@@ -48,7 +48,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-          <h1 class="title tc">
+          <h1 class="h1-section tc">
             Contactanos
           </h1>
           <p class="tc">Contestaremos a la brevedad.</p>
