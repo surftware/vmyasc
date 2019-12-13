@@ -56,7 +56,7 @@
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6 text-justify mb-5">
+        <div class="col-sm-12 col-md-6 text-justify mb-5 ">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
@@ -71,14 +71,12 @@
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
-
-
-
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 " role="button">Saber m&aacute;s</a>
         </div>
 
         <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 ml-5" role="button">Saber m&aacute;s</a>
+
         </div>
 
       </div>
@@ -88,35 +86,35 @@
   </div>
 
 
-  <div class="section m-5">
+  <div class="section m-5 ">
     <div class="container">
       <div class="row">
 
         <div class="col-md-6">
           <div class="row">
 
-            <div class="col-md-4 ">
-              <img src="img/abogado1.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado2.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado3.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado1.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado2.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado3.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-md-4  ">
-              <img src="img/abogado4.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado5.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado6.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado4.png" class="imgServicios  mb-2 ml-1" alt="">
+              <img src="img/abogado5.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado6.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-md-4 ">
-              <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado8.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado9.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado7.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado8.png" class="imgServicios  mb-2 ml-1" alt="">
+              <img src="img/abogado9.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
 
           </div>
         </div>
 
-        <div class="col-md-6 ">
+        <div class="col-md-6">
 
-          <div class="row ml-5 mt-5 m-5">
+          <div class="row ml-5 mt-5">
             <h1 class="h1-section"> Servicios</h1>
             <div class="col-md-12">
               <p>Las opciones son variadas, el objetivo es el mismo
@@ -127,8 +125,8 @@
                 Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
             </div>
           </div>
-          <div class="row ml-5 mt-3 ">
-            <div class="col-md-6 ">
+          <div class="row ml-5 mt-3">
+            <div class="col-md-6">
               <ul>
                 <li class="cLetra">
                   Servicio 1
@@ -167,7 +165,7 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-md-12 ">
+        <div class="col-md-12">
           <h1 class="h1-section text-center"> Principales miembros </h1>
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
@@ -221,14 +219,14 @@
                 <li>
                   <img src="img/ab06.png" />
                   <section class="caption">
-                  <h5> Presidente de la firma </h5>
+                    <h5> Presidente de la firma </h5>
                     <p>titular de la unidad de inteligencia financiera</p>
                   </section>
                 </li>
                 <li>
                   <img src="img/ab06.png" />
                   <section class="caption">
-                  <h5> Presidente de la firma </h5>
+                    <h5> Presidente de la firma </h5>
                     <p>titular de la unidad de inteligencia financiera</p>
                   </section>
                 </li>
@@ -241,12 +239,12 @@
 
     </div>
   </div>
-  
+
   <div class="section bg-light mt-5 mb-5 m-5">
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center mt-5 ">
+        <div class="col-sm-12 col-md-12 text-center mt-5">
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
