@@ -170,6 +170,7 @@
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
           </p>
+          <!-- Place somewhere in the <body> of your page -->
           <div class="flexslider carousel">
             <div class="flexslider carousel">
               <ul class="slides">
