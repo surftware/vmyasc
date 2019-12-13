@@ -10,21 +10,24 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse "  id="navbarSupportedContent">
-        
+    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+
         <ul class="navbar-nav d-block mx-auto centradoM">
             <li class="menuResp nav-item active dropdown centradoM">
+            <a href="index.php">
                 <i class="fas fa-balance-scale icono"></i>
-                <span class="span-menus" >La Firma</span>
+                <span class="span-menus">La Firma</span>
+            </a>
                 <div class="dropdown-content">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
-                    <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros cliente</p>
+                    <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
+                        cliente</p>
                 </div>
             </li>
 
             <li class="menuResp nav-item dropdown">
-                <i class="fas fa-play-circle icono"></i>
-                <span class="span-menus">Conócenos</span>
+            <a href="conocenos.php"><i class="fas fa-play-circle icono"></i>
+                <span class="span-menus">Conócenos</span></a>
                 <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
                         clientes</p>
@@ -36,8 +39,10 @@
             </li>
 
             <li class="menuResp nav-item dropdown">
+            <a href="servicios.php">
                 <i class="fas fa-gavel icono"></i>
-                <span class="span-menus">Áreas de Práctica</span>
+                <span class="span-menus">Servicios</span>
+                </a>
                 <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Penal</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Civil</p>
@@ -46,12 +51,14 @@
             </li>
 
             <li class="menuResp nav-item dropdown">
+                <a href="contacto.php">
                 <i class="fas fa-envelope icono"></i>
-                <a href="contacto.php"><span class="span-menus">Contacto</span></a>
+                    <span class="span-menus">Contacto</span>
+                    </a>
             </li>
 
         </ul>
-        
+
     </div>
 
 </nav>

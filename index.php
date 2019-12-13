@@ -3,7 +3,7 @@
 
 <?php	 
 	$tituloPagina="Inicio | Víctor Montes y Asociados";
-	include_once ("includes/head.php"); 	  
+  include_once ("includes/head.php"); 	  
  ?>
 
 <body>
@@ -12,66 +12,304 @@
   include_once ("includes/nav.php");	  
  ?>
 
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <div id="carouselndex" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      <li data-target="#carouselndex" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselndex" data-slide-to="1"></li>
+      <li data-target="#carouselndex" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner">
+    <div class="carousel-inner carrusel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p>Despacho jurídico</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-          <p>Avisos</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-          <p>Despacho jurídico</p>
+          <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#carouselndex" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <a class="carousel-control-next" href="#carouselndex" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
   </div>
 
+  <!-- Termina Carrusel-->
+
+  <div class="section mt-5 mb-5 ">
+    <div class="container">
+
+
+      <div class="row">
+
+        <div class="col-sm-12 col-md-6 text-justify mb-5">
+          <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
+
+          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
+            fecha
+            desde
+            la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
+            desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
+          </p>
+
+          <p> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en diferentes ramas y
+            especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
+            Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
+            Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
+          </p>
+
+
+
+        </div>
+
+        <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
+          <img src=" img/abogados-cdmx.png" class="imagen_m">
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 ml-5" role="button">Saber m&aacute;s</a>
+        </div>
+
+      </div>
+
+
+    </div>
+  </div>
+
+
   <div class="section">
     <div class="container">
       <div class="row">
-      <h1 class="h1-section d-block mx-auto mt-5 mb-5"> Conoce nuestro despacho</h1>
-        <div class="col-md-8 col-sm-6">         
 
-          <p> La Asociación de Prevención de Lavado de Dinero y Delitos Económicos –ASPLDE— es una
-            organización compuesta por socios y miembros, expertos en la prevención y detección del lavado de dinero
-            y otros delitos económicos, cuya finalidad radica en conformar la red más amplia de expertos en México,
-            en la construcción permanente de las mejores prácticas en la materia.
-          </p>
-          <p> En ASPLDE, estamos convencidos, de que contar con herramientas y conocimientos de vanguardia,
-            permitiran que la prevención del lavado de dinero, financiamiento al terrorismo y otros delitos económicos
-            se realicen de manera técnica, integral y profesional.
-          </p>
+        <div class="col-md-6">
+          <div class="row">
 
+            <div class="col-md-4">
+              <img src="img/abogado1.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado2.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado3.png" class="imgServicios mb-3 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="img/abogado4.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado5.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado6.png" class="imgServicios mb-3 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+              <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado8.png" class="imgServicios mb-3 ml-1" alt="">
+              <img src="img/abogado9.png" class="imgServicios mb-3 ml-1" alt="">
+            </div>
+
+          </div>
         </div>
-        <div class="col-md-4  col-sm-6 text-right">
-          <img src=" img/logoFooter.png" class="imagen_m">
+
+        <div class="col-md-6">
+
+          <div class="row ml-5 mt-5">
+            <h1 class="h1-section"> Servicios</h1>
+            <div class="col-md-12">
+              <p>Las opciones son variadas, el objetivo es el mismo
+                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
+              <p>Las opciones son variadas, el objetivo es el mismo
+
+                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
+            </div>
+          </div>
+          <div class="row ml-5 mt-3">
+            <div class="col-md-6">
+              <ul>
+                <li class="cLetra">
+                  Servicio 1
+                </li>
+                <li class="cLetra">
+                  Servicio 2
+                </li>
+                <li class="cLetra">
+                  Servicio 3
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              <ul>
+                <li class="cLetra">
+                  Servicio 4
+                </li>
+                <li class="cLetra">
+                  Servicio 5
+                </li>
+                <li class="cLetra">
+                  Servicio 6
+                </li>
+              </ul>
+            </div>
+
+          </div>
+
         </div>
 
       </div>
     </div>
   </div>
+
+  <div class="section mt-5 mb-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="h1-section text-center"> Principales miembros </h1>
+          <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
+            proyecto
+          </p>
+          <div class="flexslider carousel">
+            <div class="flexslider carousel">
+              <ul class="slides">
+
+                <li>
+                  <img src="img/ab01.png">
+                  <div class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </div>
+                </li>
+                <li>
+                  <img src="img/ab02.png" />
+                  <section class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab03.png" />
+                  <section class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab04.png" />
+                  <section class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab05.png" />
+                  <section class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab06.png" />
+                  <section class="caption">
+                    <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab06.png" />
+                  <section class="caption">
+                  <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <li>
+                  <img src="img/ab06.png" />
+                  <section class="caption">
+                  <h5> Presidente de la firma </h5>
+                    <p>titular de la unidad de inteligencia financiera</p>
+                  </section>
+                </li>
+                <!-- items mirrored twice, total of 12 -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+  <div class="section bg-light mt-5 mb-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-sm-12 col-md-12 text-center mt-5">
+          <h1 class="h1-section text-center"> Testimonios </h1>
+          <p class="text-center"> La experiencia de nuestros miembros asesores </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12 col-md-4 text-justify ">
+          <p class=""> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
+
+
+            <p><b>Marcos Czacki</b></p>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-md-4 text-justify">
+          <p class=""> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
+
+
+            <p><b>Marcos Czacki</b></p>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-md-4 text-justify">
+
+          <p class=""> "Ante una realidad cada vez más exigente y
+            riesgosa en materia de cumplimiento normativo y frente a los complejos
+            atajos que toma la delincuencia organizada para mover sus fondos ilegales
+            es encomiable el surgimiento de una organización dedicada a la profesionalización
+            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
+            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <div class="tc">
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
+
+
+            <p><b>Armando Arciniega</b></p>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
 
 
 

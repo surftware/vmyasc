@@ -8,19 +8,15 @@
           <ul class="list-unstyled text-footer">
             <p class="mb-1">
               <i class="fas fa-balance-scale mr-1"></i>
-              <a href="index.html" class=""><span class="">Inicio</span></a>
-            </p>
-            <p class="mb-1">
-              <i class="fas fa-gavel mr-1"></i>
-              <a href="firma.php" class=""><span class="">La Firma</span></a>
-            </p>
-            <p class="mb-1">
-              <i class="fab fa-accusoft mr-1"></i>
-              <a href="areas.php" class=""><span class="">&Aacute;reas de pr&aacute;ctica</span></a>
+              <a href="index.php" class=""><span class="">La Firma</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-play-circle mr-1"></i>
               <a href="conocenos.php" class="">Conócenos</a>
+            </p>
+            <p class="mb-1">
+            <i class="fas fa-gavel"></i>
+              <a href="servicios.php" class=""><span class="">Servicios</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-envelope mr-1"></i>
@@ -33,9 +29,10 @@
           <h1 class="h1-footer m-4">Contacto</h1>
           <p class="text-footer mb-1">
             <a href="contacto.php" class="">
-              <i class="fa fa-phone mr-1"></i>Tels: 5282-1930 / 5282-2030
+              <i class="fa fa-phone mr-1"></i>Tels:<a href="tel:+52 5552821930"> 5282-1930</a>/<a href="tel:+52 5552822030"> 5282-2030</a>
             </a>
           </p>
+
           <p class="text-footer mb-1">
             <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">
               <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
@@ -61,12 +58,17 @@
 
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+        <a  href="index.php"> </a>
+          <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+          <a  class="navbar-brand ml-4" href="index.php">
           <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
           <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
           <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+          </a>
+          </a>
         </div>
-
+        
+          
       </div>
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
