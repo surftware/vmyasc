@@ -78,7 +78,7 @@
 
         <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
           <img src=" img/abogados-cdmx.png" class="imagen_m">
-          <a href="contacto.php " class="btn btn-sm botones rounded-pill mt-4 ml-5" role="button">Saber m&aacute;s</a>
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 ml-5" role="button">Saber m&aacute;s</a>
         </div>
 
       </div>

@@ -58,12 +58,17 @@
 
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+        <a  href="index.php"> </a>
+          <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+          <a  class="navbar-brand ml-4" href="index.php">
           <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
           <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
-          <a  href="index.php"><img src="img/logo.png" class="d-block mx-auto logo-footer" alt="logo">
-          
+          <img src="img/logoFooter.png" class="logo-footer" alt="logo">
           </a>
+          </a>
+        </div>
+        
+          
       </div>
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
