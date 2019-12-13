@@ -8,14 +8,14 @@
           <ul class="list-unstyled text-footer">
             <p class="mb-1">
               <i class="fas fa-balance-scale mr-1"></i>
-              <a href="index.html" class=""><span class="">La Firma</span></a>
+              <a href="index.php" class=""><span class="">La Firma</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-play-circle mr-1"></i>
               <a href="conocenos.php" class="">Conócenos</a>
             </p>
             <p class="mb-1">
-              <i class="fas fa-gavel icono"></i>
+            <i class="fas fa-gavel"></i>
               <a href="servicios.php" class=""><span class="">Servicios</span></a>
             </p>
             <p class="mb-1">
@@ -29,10 +29,10 @@
           <h1 class="h1-footer m-4">Contacto</h1>
           <p class="text-footer mb-1">
             <a href="contacto.php" class="">
-              <li><a href="tel:+52 5552821930  "><i class="fa fa-phone"></i>&nbsp; 52-82-19-30 </a></li>
-              <li><a href="tel:+52 5552822030  "><i class="fa fa-phone"></i>&nbsp; 52-82-20-30 </a></li>
+              <i class="fa fa-phone mr-1"></i>Tels:<a href="tel:+52 5552821930"> 5282-1930</a>/<a href="tel:+52 5552822030"> 5282-2030</a>
             </a>
           </p>
+
           <p class="text-footer mb-1">
             <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">
               <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
