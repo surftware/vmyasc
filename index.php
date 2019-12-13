@@ -56,7 +56,7 @@
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6 text-justify mb-5 ">
+        <div class="col-sm-12 col-md-6">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
@@ -71,13 +71,18 @@
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 " role="button">Saber m&aacute;s</a>
-        </div>
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill" role="button">Saber m&aacute;s</a>
 
-        <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
-          <img src=" img/abogados-cdmx.png" class="imagen_m">
+
 
         </div>
+
+        <div class="col-sm-12 col-md-6">
+        <h2 class="transparenciaImagenes">Presidente de la Firma<h2>
+          <img src=" img/abogados-cdmx.png" class="imagen_m img-fluid">
+          
+        </div>
+
 
       </div>
 
@@ -172,68 +177,34 @@
           </p>
           <!-- Place somewhere in the <body> of your page -->
           <div class="flexslider carousel">
-            <div class="flexslider carousel">
-              <ul class="slides">
+            <ul class="slides">
+              <li>
+                <img src="img/ab01.png" />
+                <div class="transparencia2">
+                  <h5>Presidente de la Fimar<h5>
+                </div>
+              </li>
+              <li>
+                <img src="img/ab02.png" />
 
-                <li>
-                  <img src="img/ab01.png">
-                  <div class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </div>
-                </li>
-                <li>
-                  <img src="img/ab02.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab03.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab04.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab05.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <!-- items mirrored twice, total of 12 -->
-              </ul>
-            </div>
+              </li>
+              <li>
+                <img src="img/ab03.png" />
+              </li>
+              <li>
+                <img src="img/ab04.png" />
+              </li>
+              <li>
+                <img src="img/ab05.png" />
+              </li>
+              <li>
+                <img src="img/ab06.png" />
+              </li>
+              <li>
+                <img src="img/ab07.png" />
+              </li>
+              <!-- items mirrored twice, total of 12 -->
+            </ul>
           </div>
         </div>
       </div>
