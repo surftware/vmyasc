@@ -172,76 +172,30 @@
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
           </p>
+          <!-- Place somewhere in the <body> of your page -->
           <div class="flexslider carousel">
-            <div class="flexslider carousel">
-              <ul class="slides">
-
-                <li>
-                  <img src="img/ab01.png">
-                  <div class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </div>
-                </li>
-                <li>
-                  <img src="img/ab02.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab03.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab04.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab05.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                  <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                  <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <!-- items mirrored twice, total of 12 -->
-              </ul>
-            </div>
+            <ul class="slides">
+              <li>
+                <img src="img/ab01.png" />
+              </li>
+              <li>
+                <img src="img/ab02.png" />
+              </li>
+              <li>
+                <img src="img/ab03.png" />
+              </li>
+              <li>
+                <img src="img/ab04.png" />
+              </li>
+              <!-- items mirrored twice, total of 12 -->
+            </ul>
           </div>
         </div>
       </div>
 
     </div>
   </div>
-  
+
   <div class="section bg-light mt-5 mb-5">
     <div class="container">
 
