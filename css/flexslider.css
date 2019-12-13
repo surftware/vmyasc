@@ -214,7 +214,7 @@ html[xmlns] .flexslider .slides {
   width: 11px;
   height: 11px;
   display: block;
-  background: #666;
+  background: #709176;
   background: rgba(0, 0, 0, 0.5);
   cursor: pointer;
   text-indent: -9999px;
@@ -227,7 +227,7 @@ html[xmlns] .flexslider .slides {
   border-radius: 20px;
 }
 .flex-control-paging li a:hover {
-  background: #333;
+  background: #709176;
   background: rgba(0, 0, 0, 0.7);
 }
 .flex-control-paging li a.flex-active {
@@ -284,7 +284,7 @@ html[xmlns] .flexslider .slides {
   line-height: 15px;
   letter-spacing: .2px;
   font-weight: bold;
-  text-align: center;
+
   padding: 7px 7px 0 7px;
   background-color: #fff;
   z-index: 9;
