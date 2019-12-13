@@ -50,7 +50,7 @@
 
   <!-- Termina Carrusel-->
 
-  <div class="section mt-5 mb-5 ">
+  <div class="section m-5 ">
     <div class="container">
 
 
@@ -88,35 +88,35 @@
   </div>
 
 
-  <div class="section">
+  <div class="section m-5">
     <div class="container">
       <div class="row">
 
         <div class="col-md-6">
           <div class="row">
 
-            <div class="col-md-4">
-              <img src="img/abogado1.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado2.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado3.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-md-4 ">
+              <img src="img/abogado1.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado2.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado3.png" class="imgServicios mb-5 ml-1" alt="">
             </div>
-            <div class="col-md-4">
-              <img src="img/abogado4.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado5.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado6.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-md-4  ">
+              <img src="img/abogado4.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado5.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado6.png" class="imgServicios mb-5 ml-1" alt="">
             </div>
-            <div class="col-md-4">
-              <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado8.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado9.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-md-4 ">
+              <img src="img/abogado7.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado8.png" class="imgServicios mb-5 ml-1" alt="">
+              <img src="img/abogado9.png" class="imgServicios mb-5 ml-1" alt="">
             </div>
 
           </div>
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-6 ">
 
-          <div class="row ml-5 mt-5">
+          <div class="row ml-5 mt-5 m-5">
             <h1 class="h1-section"> Servicios</h1>
             <div class="col-md-12">
               <p>Las opciones son variadas, el objetivo es el mismo
@@ -127,8 +127,8 @@
                 Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
             </div>
           </div>
-          <div class="row ml-5 mt-3">
-            <div class="col-md-6">
+          <div class="row ml-5 mt-3 ">
+            <div class="col-md-6 ">
               <ul>
                 <li class="cLetra">
                   Servicio 1
@@ -163,11 +163,11 @@
     </div>
   </div>
 
-  <div class="section mt-5 mb-5">
+  <div class="section mt-5 mb-5 m-5">
     <div class="container">
 
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 ">
           <h1 class="h1-section text-center"> Principales miembros </h1>
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
@@ -242,11 +242,11 @@
     </div>
   </div>
   
-  <div class="section bg-light mt-5 mb-5">
+  <div class="section bg-light mt-5 mb-5 m-5">
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center mt-5">
+        <div class="col-sm-12 col-md-12 text-center mt-5 ">
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
