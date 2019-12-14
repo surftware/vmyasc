@@ -72,16 +72,17 @@
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
 
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">Saber
-            m&aacute;s</a>
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
+            <p class="captionBtn mb-0"> Saberm&aacute;s</p>
+          </a>
 
         </div>
 
         <div class="col-sm-12 col-md-6">
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
-          <div class="transparenciaImagenes">
-            <h2 class="">Presidente de la Firma</h2>
+          <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Presidente de la Firma</p>
           </div>
 
 
