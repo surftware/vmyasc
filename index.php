@@ -70,17 +70,21 @@
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
+
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill" role="button">Saber m&aacute;s</a>
-
-
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">Saber
+            m&aacute;s</a>
 
         </div>
 
         <div class="col-sm-12 col-md-6">
-        <h2 class="transparenciaImagenes">Presidente de la Firma<h2>
-          <img src=" img/abogados-cdmx.png" class="imagen_m img-fluid">
-          
+
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
+          <div class="transparenciaImagenes">
+            <h2 class="">Presidente de la Firma</h2>
+          </div>
+
+
         </div>
 
 
