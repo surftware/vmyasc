@@ -100,44 +100,68 @@
   <!-- Inicia Servicios-->
   <div class="section m-5 ">
     <div class="container">
+
       <div class="row">
 
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">          
+
           <div class="row">
-
-            <div class="col-mx-2">
-              <img src="img/abogado1.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado2.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado3.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
             </div>
-            <div class="col-mx-2">
-              <img src="img/abogado4.png" class="imgServicios  mb-2 ml-1" alt="">
-              <img src="img/abogado5.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado6.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-sm-4 col-md-4  ">
+            <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
             </div>
-            <div class="col-mx-2">
-              <img src="img/abogado7.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado8.png" class="imgServicios  mb-2 ml-1" alt="">
-              <img src="img/abogado9.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
             </div>
-
           </div>
+
+          <div class="row my-4">
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+            </div>
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+            </div>
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+            </div>
+            <div class="col-sm-4 col-md-4  ">
+            <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+            </div>
+            <div class="col-sm-4 col-md-4 ">
+            <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+            </div>
+          </div>
+
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">
 
           <div class="row ml-5 mt-5">
             <h1 class="h1-section"> Servicios</h1>
-            <div class="col-md-12">
-              <p>Las opciones son variadas, el objetivo es el mismo
-                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero
-              </p>
-              <p>Las opciones son variadas, el objetivo es el mismo
 
-                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
+            <div class="col-md-12">
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios 
+              que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
+               que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
             </div>
+            
+
           </div>
+          
           <div class="row ml-5 mt-3">
+
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
@@ -170,12 +194,12 @@
         </div>
 
       </div>
+
     </div>
   </div>
   <!-- Termina Servicios-->
 
-  <!-- Inicia Principales miembros-->
-  <div class="section mt-5 mb-5 m-5">
+  <div class="section mt-5 mb-5">
     <div class="container">
 
       <div class="row">
