@@ -33,9 +33,9 @@
           <p class="mb-1">
               <i class="fa fa-phone mr-1"></i>
               <span class="text-footer">Tels:
-                <a href="tel:+52 5552821930"> 5282-1930</a>
+                <a class="text-footer" href="tel:+52 5552821930"> 5282-1930</a>
                 /
-                <a href="tel:+52 5552822030"> 5282-2030</a>
+                <a class="text-footer" href="tel:+52 5552822030"> 5282-2030</a>
               </span>            
           </p>
 
