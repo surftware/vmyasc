@@ -73,7 +73,7 @@
 
           </p>
           <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
-            <p class="captionBtn mb-0"> Saberm&aacute;s</p>
+            <p class="captionBtn mb-0"> Saber m&aacute;s</p>
           </a>
 
         </div>
@@ -82,7 +82,7 @@
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
           <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Presidente de la Firma</p>
+            <p class="captionImg my-0">Lic. Víctor Montes</p>
           </div>
 
 
@@ -266,17 +266,16 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          <div class="tc">
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
-
-
+          
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
             <p><b>Armando Arciniega</b></p>
-          </div>
+          
         </div>
-
-
       </div>
+
+
     </div>
+  </div>
   </div>
 
 
