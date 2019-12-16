@@ -13,7 +13,7 @@
 @color9: rgba(96, 123, 125, 1);
 @colorX: rgba(200, 213, 185, 1);
 
-@colorLetra:#637280;
+@colorLetra: #637280;
 
 /*-----------------------------       Fuentes       --------------------------*/
 
@@ -31,7 +31,7 @@
 /*-----------------------------   Globales        --------------------------*/
 h1 {
   font-family: "ubuntu";
-  
+
 
 }
 
@@ -40,17 +40,22 @@ h2 {
   font-weight: bold;
 
 }
+
 h5 {
   font-family: "ubuntu";
   color: #709176;
-  
+
 
 }
 
 p {
   font-family: "ubuntu";
   color: @colorLetra;
-  font-size: 15px;
+}
+
+a {
+  font-family: "ubuntu";
+  color: @color7;
 }
 
 
@@ -66,20 +71,15 @@ p {
 }
 
 .barra {
-
   background-color: rgba(112, 145, 118, 0.8) !important;
   color: rgba(36, 28, 28, 0.9);
   position: fixed;
   z-index: 9999;
   width: 100%;
-
-
-
 }
 
 .logo {
   height: 35px;
-
 }
 
 .p-logo {
@@ -163,21 +163,6 @@ p {
 
 
 
-/*----------------------------------------------------body--------------------*/
-
-body {
-
-  margin-top: 0px;
-
-}
-
-a {
-
-  color: rgba(96, 123, 125, 1) !important;
-
-}
-
-
 /*-----------------------------     Carrusel       --------------------------*/
 
 .dimensiones {
@@ -236,32 +221,38 @@ a {
 }
 
 
-.transparencia2 {
+.transparenciaImg {
 
-  width: 50%;
-  height: 60px;
-  background-color: rgba(36, 28, 28, 0.9);
-  bottom: 50px;
+  width: 90%;
+  height: 30px;
+  background-color: rgba(112, 145, 118, 0.8) !important;
+  bottom: 0%;
   right: 0px;
-  left: 50px;
-
-  border-radius: 15px !important;
-
-
-  font-family: "ubuntu";
-  font-size: 18px;
-  color: #ffffff;
-  text-align: center;
-  font-weight: bold;
-
+  left: 0px;
+  border-radius: 5px;
   position: absolute;
+  z-index: 9999;
   /*top:0px;*/
   /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
+
+
+}
+
+.captionImg {
+  color: @color7;
+  text-align: center;
+
+}
+
+.captionBtn {
+  text-align: center;
+  color: @color7;
+
 }
 
 .transparencia3 {
 
-  width: 50%;
+  width: 90%;
   height: 60px;
   background-color: rgba(36, 28, 28, 0.9);
   bottom: 50px;
@@ -284,7 +275,7 @@ a {
 
 /*----------------------------------------------footer------------------------*/
 
-.carrusel-inner{
+.carrusel-inner {
   height: 450px;
 }
 
@@ -310,7 +301,7 @@ a {
 
 .text-footer {
   font-size: 13px;
-  color: rgba(96, 123, 125, 1);
+  color: @color9;
   font-weight: bold;
 
 }
@@ -350,11 +341,10 @@ footer {
 
 }
 
-.imagen_m{
-  width:  450px;
-  height: 400px;
-  margin-left:70px;
-  margin-right: 70px;
+.imagen_m {
+  height: 100%;
+  width: 100% !important;
+
 }
 
 .surftware {
@@ -364,6 +354,7 @@ footer {
 
 
 }
+
 .cLetra {
   font-family: "ubuntu";
   color: #637280;
@@ -376,13 +367,13 @@ footer {
   margin-bottom: 30px;
 }
 
-.botones{
+.botones {
   background-color: @color2;
   color: #f9f9f9 !important;
-  }
+}
 
-.imgServicios{
-  width:170px;
+.imgServicios {
+  width: 170px;
   height: 140px;
 }
 
@@ -417,7 +408,6 @@ footer {
 
 }
 
-/*Contacto.php inicio*/
 
 .contacts .form_field {
   display: block;
@@ -493,77 +483,8 @@ footer {
 .container {
   max-width: 100%;
 }
-.tc {
-  text-align: center;
-}
-
-/*Contacto final*/
-
-/*carrucel 3
-@media (min-width: 768px) {
-
-  /* show 3 items 
-  .carousel-inner .active,
-  .carousel-inner .active + .carousel-item,
-  .carousel-inner .active + .carousel-item + .carousel-item {
-      display: block;
-  }
-  
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item,
-  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
-      transition: none;
-      margin-right: initial;
-  }
-  
-  .carousel-inner .carousel-item-next,
-  .carousel-inner .carousel-item-prev {
-    position: relative;
-    transform: translate3d(0, 0, 0);
-  }
-  
-  .carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item {
-      position: absolute;
-      top: 0;
-      right: -33.3333%;
-      z-index: -1;
-      display: block;
-      visibility: visible;
-  }
-  
-  /* left or forward direction 
-  .active.carousel-item-left + .carousel-item-next.carousel-item-left,
-  .carousel-item-next.carousel-item-left + .carousel-item,
-  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
-  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
-      position: relative;
-      transform: translate3d(-100%, 0, 0);
-      visibility: visible;
-  }
-  
-  /* farthest right hidden item must be abso position for animations 
-  .carousel-inner .carousel-item-prev.carousel-item-right {
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: -1;
-      display: block;
-      visibility: visible;
-  }
-  
-  /* right or prev direction 
-  .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
-  .carousel-item-prev.carousel-item-right + .carousel-item,
-  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
-  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
-      position: relative;
-      transform: translate3d(100%, 0, 0);
-      visibility: visible;
-      display: block;
-      visibility: visible;
-  }
-
-}
-*/
 
 
+/*Contacto.php inicio
+
+Contacto final*/

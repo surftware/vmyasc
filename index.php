@@ -50,13 +50,13 @@
 
   <!-- Termina Carrusel-->
 
-  <div class="section mt-5 mb-5 ">
+  <div class="section m-5 ">
     <div class="container">
 
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6 text-justify mb-5">
+        <div class="col-sm-12 col-md-6">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
@@ -70,16 +70,24 @@
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
+
           </p>
+          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
+            <p class="captionBtn mb-0"> Saber m&aacute;s</p>
+          </a>
 
+        </div>
+
+        <div class="col-sm-12 col-md-6">
+
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
+          <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Lic. Víctor Montes</p>
+          </div>
 
 
         </div>
 
-        <div class="col-sm-12 col-md-6 d-block mx-auto mb-5">
-          <img src=" img/abogados-cdmx.png" class="imagen_m">
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill mt-4 ml-5" role="button">Saber m&aacute;s</a>
-        </div>
 
       </div>
 
@@ -88,27 +96,27 @@
   </div>
 
 
-  <div class="section">
+  <div class="section m-5 ">
     <div class="container">
       <div class="row">
 
         <div class="col-md-6">
           <div class="row">
 
-            <div class="col-md-4">
-              <img src="img/abogado1.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado2.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado3.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado1.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado2.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado3.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-md-4">
-              <img src="img/abogado4.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado5.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado6.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado4.png" class="imgServicios  mb-2 ml-1" alt="">
+              <img src="img/abogado5.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado6.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-md-4">
-              <img src="img/abogado7.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado8.png" class="imgServicios mb-3 ml-1" alt="">
-              <img src="img/abogado9.png" class="imgServicios mb-3 ml-1" alt="">
+            <div class="col-mx-2">
+              <img src="img/abogado7.png" class="imgServicios mb-2 ml-1" alt="">
+              <img src="img/abogado8.png" class="imgServicios  mb-2 ml-1" alt="">
+              <img src="img/abogado9.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
 
           </div>
@@ -163,7 +171,7 @@
     </div>
   </div>
 
-  <div class="section mt-5 mb-5">
+  <div class="section mt-5 mb-5 m-5">
     <div class="container">
 
       <div class="row">
@@ -172,77 +180,44 @@
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
           </p>
+          <!-- Place somewhere in the <body> of your page -->
           <div class="flexslider carousel">
-            <div class="flexslider carousel">
-              <ul class="slides">
+            <ul class="slides">
+              <li>
+                <img src="img/ab01.png" />
+                <div class="transparencia2">
+                  <h5>Presidente de la Fimar<h5>
+                </div>
+              </li>
+              <li>
+                <img src="img/ab02.png" />
 
-                <li>
-                  <img src="img/ab01.png">
-                  <div class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </div>
-                </li>
-                <li>
-                  <img src="img/ab02.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab03.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab04.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab05.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                    <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                  <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <li>
-                  <img src="img/ab06.png" />
-                  <section class="caption">
-                  <h5> Presidente de la firma </h5>
-                    <p>titular de la unidad de inteligencia financiera</p>
-                  </section>
-                </li>
-                <!-- items mirrored twice, total of 12 -->
-              </ul>
-            </div>
+              </li>
+              <li>
+                <img src="img/ab03.png" />
+              </li>
+              <li>
+                <img src="img/ab04.png" />
+              </li>
+              <li>
+                <img src="img/ab05.png" />
+              </li>
+              <li>
+                <img src="img/ab06.png" />
+              </li>
+              <li>
+                <img src="img/ab07.png" />
+              </li>
+              <!-- items mirrored twice, total of 12 -->
+            </ul>
           </div>
         </div>
       </div>
 
     </div>
   </div>
-  
-  <div class="section bg-light mt-5 mb-5">
+
+  <div class="section bg-light mt-5 mb-5 m-5">
     <div class="container">
 
       <div class="row">
@@ -291,17 +266,16 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          <div class="tc">
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
-
-
+          
+            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
             <p><b>Armando Arciniega</b></p>
-          </div>
+          
         </div>
-
-
       </div>
+
+
     </div>
+  </div>
   </div>
 
 

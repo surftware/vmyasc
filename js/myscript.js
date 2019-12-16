@@ -173,7 +173,8 @@ $(window).load(function() {
 	$('.flexslider').flexslider({
 	  animation: "slide",
 	  animationLoop: false,
-	  itemWidth: 210,
-	  itemMargin: 5
+	  itemWidth: 300,
+	  itemMargin: 10
 	});
+
   });

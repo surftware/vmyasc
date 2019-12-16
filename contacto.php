@@ -48,33 +48,34 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-          <h1 class="h1-section tc">
+          <h1 class="h1-section text-center ">
             Contactanos
           </h1>
-          <p class="tc">Contestaremos a la brevedad.</p>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
-          <div class="form">
-            <form action="../php/contact-form.php" class="form form--contacts">
-              <input type="text" class="form_field" placeholder="Nombre" required="">
-              <input type="text" class="form_field" placeholder="Telefono" required="">
-              <input type="text" class="form_field" placeholder="Email" required=""> 
-              <textarea class="form_textarea" placeholder="Mensage"></textarea>
-              <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
-            </form>
-          </div>
+          <p class="text-center">Contestaremos a la brevedad.</p>
         </div>
       </div>
     </div>
-    <!-- contacts area end -->
-    <div class= "tc">
+    <div class="row justify-content-center">
+      <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
+        <div class="form">
+          <form action="../php/contact-form.php" class="form form--contacts">
+            <input type="text" class="form_field" placeholder="Nombre" required="">
+            <input type="text" class="form_field" placeholder="Telefono" required="">
+            <input type="text" class="form_field" placeholder="Email" required="">
+            <textarea class="form_textarea" placeholder="Mensage"></textarea>
+            <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- contacts area end -->
+  <div class="text-center mb-5">
     <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.553615587871!2d-99.17735778509469!3d19.34516698693408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44f731a01%3A0x5eba228778ee32ab!2sInterior%204%2C%20Kappa%2011%2C%20Romero%20de%20Terreros%2C%2004310%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1576175341286!5m2!1ses-419!2smx"
       width="900" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-      </div>
-    <?php
+  </div>
+  <?php
     $remitente = $_POST['correo'];
     $destinatario = 'and_3406@hotmail.com'; // en esta línea va el mail del destinatario.
     $asunto = 'E-mail enviado desde la página principal vmyasc.com'; // acá se puede modificar el asunto del mail
@@ -103,7 +104,7 @@
 ?>
 
 
-    <?php
+  <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");
   
