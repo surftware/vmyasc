@@ -2,9 +2,9 @@
   <div class="section">
     <div class="container">
 
-      <div class="row">
+      <div class="row p-5">
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class=" h1-footer m-4">Mapa de sitio</h1>
           <ul class="list-unstyled text-footer">
             <p class="mb-1">
@@ -28,7 +28,7 @@
 
 
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class="h1-footer m-4">Contacto</h1>
           <p class="mb-1">
             <i class="fa fa-phone mr-1"></i>
@@ -55,7 +55,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-left text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
           <p class="text-footer mb-0">
             Lunes a Viernes de: 10:00 am a 3:00 pm
@@ -65,7 +65,7 @@
         </div>
 
 
-        <div class="col-12 col-sm-12 col-md-3 mt-5 text-sm-center text-extrasm">
+        <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
             <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
             <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
