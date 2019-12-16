@@ -11,7 +11,7 @@
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
   include_once ("includes/nav.php");	  
  ?>
-
+  <!-- Inicia Carrusel index-->
   <div id="carouselndex" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselndex" data-slide-to="0" class="active"></li>
@@ -48,8 +48,9 @@
     </a>
   </div>
 
-  <!-- Termina Carrusel-->
+  <!-- Termina Carrusel index-->
 
+  <!-- Inicia Conozca nuestro despacho-->
   <div class="section m-5 ">
     <div class="container">
 
@@ -94,8 +95,9 @@
 
     </div>
   </div>
+  <!-- Termina Conozca nuestro despacho-->
 
-
+  <!-- Inicia Servicios-->
   <div class="section m-5 ">
     <div class="container">
       <div class="row">
@@ -170,7 +172,9 @@
       </div>
     </div>
   </div>
+  <!-- Termina Servicios-->
 
+  <!-- Inicia Principales miembros-->
   <div class="section mt-5 mb-5 m-5">
     <div class="container">
 
@@ -210,13 +214,16 @@
               </li>
               <!-- items mirrored twice, total of 12 -->
             </ul>
+
           </div>
         </div>
       </div>
 
     </div>
   </div>
+  <!-- Termina Principales miembros-->
 
+  <!-- Inicia Testimonios-->
   <div class="section bg-light mt-5 mb-5 m-5">
     <div class="container">
 
@@ -235,12 +242,12 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          <div class="tc">
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
+
+          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
 
-            <p><b>Marcos Czacki</b></p>
-          </div>
+          <p><b>Marcos Czacki</b></p>
+
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
@@ -249,13 +256,14 @@
             atajos que toma la delincuencia organizada para mover sus fondos ilegales
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          <div class="tc">
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
+            que van desde el lavado de dinero hasta la corrupción internacional."
+          </p>
+
+          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
 
-            <p><b>Marcos Czacki</b></p>
-          </div>
+          <p><b>Marcos Czacki</b></p>
+
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
@@ -266,27 +274,17 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
-            <p><b>Armando Arciniega</b></p>
-          
+
+          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
+          <p><b>Armando Arciniega</b></p>
+
         </div>
       </div>
 
 
     </div>
   </div>
-  </div>
-
-
-
-
-
-
-
-
-
-
+  <!-- Termina Testimonios-->
   <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");  

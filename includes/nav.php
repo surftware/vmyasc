@@ -14,10 +14,10 @@
 
         <ul class="navbar-nav d-block mx-auto centradoM">
             <li class="menuResp nav-item active dropdown centradoM">
-            <a href="index.php">
-                <i class="fas fa-balance-scale icono"></i>
-                <span class="span-menus">La Firma</span>
-            </a>
+                <a href="index.php">
+                    <i class="fas fa-balance-scale icono"></i>
+                    <span class="span-menus">La Firma</span>
+                </a>
                 <div class="dropdown-content">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Quiénes somos</p>
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
@@ -26,8 +26,8 @@
             </li>
 
             <li class="menuResp nav-item dropdown">
-            <a href="conocenos.php"><i class="fas fa-play-circle icono"></i>
-                <span class="span-menus">Conócenos</span></a>
+                <a href="conocenos.php"><i class="fas fa-play-circle icono"></i>
+                    <span class="span-menus">Conócenos</span></a>
                 <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Algunos de nuestros
                         clientes</p>
@@ -39,9 +39,9 @@
             </li>
 
             <li class="menuResp nav-item dropdown">
-            <a href="servicios.php">
-                <i class="fas fa-gavel icono"></i>
-                <span class="span-menus">Servicios</span>
+                <a href="servicios.php">
+                    <i class="fas fa-gavel icono"></i>
+                    <span class="span-menus">Servicios</span>
                 </a>
                 <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="fa fa-check-circle" aria-hidden="true"></i>Derecho Penal</p>
@@ -52,9 +52,9 @@
 
             <li class="menuResp nav-item dropdown">
                 <a href="contacto.php">
-                <i class="fas fa-envelope icono"></i>
+                    <i class="fas fa-envelope icono"></i>
                     <span class="span-menus">Contacto</span>
-                    </a>
+                </a>
             </li>
 
         </ul>
