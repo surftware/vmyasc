@@ -96,46 +96,73 @@
   </div>
 
 
+
+
+
   <div class="section m-5 ">
     <div class="container">
+
       <div class="row">
 
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">          
+
           <div class="row">
-
-            <div class="col-mx-2">
-              <img src="img/abogado1.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado2.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado3.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-md-4">
+            <img src="img/abogado1.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-mx-2">
-              <img src="img/abogado4.png" class="imgServicios  mb-2 ml-1" alt="">
-              <img src="img/abogado5.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado6.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-md-4">
+            <img src="img/abogado2.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-            <div class="col-mx-2">
-              <img src="img/abogado7.png" class="imgServicios mb-2 ml-1" alt="">
-              <img src="img/abogado8.png" class="imgServicios  mb-2 ml-1" alt="">
-              <img src="img/abogado9.png" class="imgServicios mb-2 ml-1" alt="">
+            <div class="col-md-4">
+            <img src="img/abogado3.png" class="imgServicios mb-2 ml-1" alt="">
             </div>
-
           </div>
+
+          <div class="row">
+            <div class="col-md-4">
+            <img src="img/abogado4.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+            <img src="img/abogado5.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+            <img src="img/abogado6.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-4">
+            <img src="img/abogado7.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+            <img src="img/abogado8.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+            <div class="col-md-4">
+            <img src="img/abogado9.png" class="imgServicios mb-2 ml-1" alt="">
+            </div>
+          </div>
+
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">
 
           <div class="row ml-5 mt-5">
             <h1 class="h1-section"> Servicios</h1>
-            <div class="col-md-12">
-              <p>Las opciones son variadas, el objetivo es el mismo
-                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero
-              </p>
-              <p>Las opciones son variadas, el objetivo es el mismo
 
-                Conoce las vertientes de los servicios que ofrecemos para la Prevención de Lavado de Dinero</p>
+            <div class="col-md-12">
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios 
+              que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
+               que ofrecemos para la Prevención de Lavado de Dinero
+              </p>
             </div>
+            
+
           </div>
+          
           <div class="row ml-5 mt-3">
+
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
@@ -168,10 +195,13 @@
         </div>
 
       </div>
+
     </div>
   </div>
 
-  <div class="section mt-5 mb-5 m-5">
+  <!------------------------------------ Aqui termina la sección servicios------------------------------->
+
+  <div class="section mt-5 mb-5">
     <div class="container">
 
       <div class="row">
@@ -217,8 +247,8 @@
     </div>
   </div>
 
-  <div class="section bg-light mt-5 mb-5 m-5">
-    <div class="container">
+  <div class="section  mt-5 mb-5 m-5">
+    <div class="container-fluid bg-light">
 
       <div class="row">
         <div class="col-sm-12 col-md-12 text-center mt-5">
@@ -266,25 +296,16 @@
             es encomiable el surgimiento de una organización dedicada a la profesionalización
             de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
             que van desde el lavado de dinero hasta la corrupción internacional." </p>
-          
-            <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
-            <p><b>Armando Arciniega</b></p>
-          
+
+          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
+          <p><b>Armando Arciniega</b></p>
+
         </div>
       </div>
 
 
     </div>
   </div>
-  </div>
-
-
-
-
-
-
-
-
 
 
   <?php
