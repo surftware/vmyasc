@@ -48,7 +48,8 @@ Ultima Actualización: Noviembre 2019
 
   <!-- wow -->
   <link rel="stylesheet" href="css/animate.css" />
-
+ 
+  <!-- flexslider -->
   <link rel="stylesheet" href="css/flexslider.css" type="text/css">
 
 
