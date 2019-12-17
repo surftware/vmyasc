@@ -18,21 +18,21 @@
       <li data-target="#carouselndex" data-slide-to="1"></li>
       <li data-target="#carouselndex" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner carrusel-inner">
+    <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
@@ -60,7 +60,7 @@
         <div class="col-sm-12 col-md-6">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
+          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l Montes Mart&iacute;nez,
             fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
@@ -83,7 +83,7 @@
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
           <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Lic. Víctor Montes</p>
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
 
 
@@ -125,7 +125,7 @@
             <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+            <img src="img/abogado6.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
@@ -153,7 +153,7 @@
               que ofrecemos para la Prevención de Lavado de Dinero
               </p>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
-               que ofrecemos para la Prevención de Lavado de Dinero
+               que ofrecemos para la Prevenci&oacute;n de Lavado de Dinero
               </p>
             </div>
             
@@ -165,26 +165,29 @@
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 1
+                Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
                 </li>
                 <li class="cLetra">
-                  Servicio 2
+                Laboral: Despidos, excedencias,sanciones, accidente de trabajo, 
+                enfermedad profesional, Seguridad Social.
                 </li>
                 <li class="cLetra">
-                  Servicio 3
+                Seguros: incumplimientos, reclamaciones a aseguradora.
+                </li>
                 </li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 4
+                Reclamaci&oacute;n de Gastos Hipotecarios.
                 </li>
                 <li class="cLetra">
-                  Servicio 5
+                Bancos: Cuestiones relacionadas con la contrataci&oacute;n de cuentas corrientes, 
+                tarjetas de cr&eacute;dito, pr&eacute;stamos, comisiones.
                 </li>
                 <li class="cLetra">
-                  Servicio 6
+                Vivienda habitual:Compra ,alquiler,deducciones,impuestos,etc.
                 </li>
               </ul>
             </div>
@@ -214,7 +217,7 @@
               <li>
                 <img src="img/ab01.png" />
                 <div class="transparencia2">
-                  <h5>Presidente de la Fimar<h5>
+                  <h5>Presidente de la Firma<h5>
                 </div>
               </li>
               <li>
@@ -260,44 +263,42 @@
 
       <div class="row">
         <div class="col-sm-12 col-md-4 text-justify ">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <p class=""> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi 
+          persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y profesionalidad 
+          en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema 
+          legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que 
+          realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
 
-          <p><b>Marcos Czacki</b></p>
+          <p><b>Luc&iacute;a Mendez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional."
+          <p class=""> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me 
+          di&oacute; el Lic. V&iacute;ctor Montes, ya que desde el primer d&iacute;a puso inter&eacute;s por mi causa y me informaba 
+          de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situaci&oacute;n 
+          problem&aacute;tica que se me habia presentado, puedo decir que es una excelente profesional.No tengo 
+          duda en recomendar su despacho si conozco a alguien que lo necesite."
           </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
 
-          <p><b>Marcos Czacki</b></p>
+          <p><b>Marcos Rodr&iacute;guez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
 
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <p class=""> "Yo que conozco el mundo de los abogados, 
+          puedo asegurar que nunca he visto una atenci&oacute;n al cliente 
+          tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente 
+          al  Lic.V&iacute;ctor Montes  para el que no tengo palabras suficientes de agradecimiento. Mi 
+          caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y 
+          resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
           <p><b>Armando Arciniega</b></p>
