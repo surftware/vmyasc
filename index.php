@@ -125,7 +125,7 @@
             <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+            <img src="img/abogado6.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
@@ -214,7 +214,7 @@
               <li>
                 <img src="img/ab01.png" />
                 <div class="transparencia2">
-                  <h5>Presidente de la Fimar<h5>
+                  <h5>Presidente de la Firma<h5>
                 </div>
               </li>
               <li>
@@ -260,44 +260,42 @@
 
       <div class="row">
         <div class="col-sm-12 col-md-4 text-justify ">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <p class=""> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi 
+          persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y profesionalidad 
+          en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema 
+          legal no dudaré en volver a contar con sus servicios. Enhorabuena por el trabajo que 
+          realizan, y por supuesto muchísimas GRACIAS." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
 
-          <p><b>Marcos Czacki</b></p>
+          <p><b>Lucía Mendez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional."
+          <p class=""> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me 
+          dió el Lic. Víctor Montes, ya que desde el primer día puso interés por mi causa y me informaba 
+          de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situación 
+          problemática que se me habia presentado, puedo decir que es una excelente profesional.No tengo 
+          duda en recomendar su despacho si conozco a alguien que lo necesite."
           </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
 
-          <p><b>Marcos Czacki</b></p>
+          <p><b>Marcos Rodríguez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
 
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
+          <p class=""> "Yo que conozco el mundo de los abogados, 
+          puedo asegurar que nunca he visto una atención al cliente 
+          tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente 
+          al  Lic.Víctor Montes  para el que no tengo palabras suficientes de agradecimiento. Mi 
+          caso era un tanto delicado y ha sido muy atento desde un principio ,informándome y 
+          resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
           <p><b>Armando Arciniega</b></p>
