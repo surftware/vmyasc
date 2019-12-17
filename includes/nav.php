@@ -19,14 +19,14 @@
                     <span class="span-menus">La Firma</span>
                 </a>
                 <div class="dropdown-content">
-                    <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp  Quiénes somos</p>
+                    <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp  Qui&eacute;nes somos</p>
                     <p class="p-dropdown"><i class="fas fa-id-card" aria-hidden="true"></i>&nbsp Testimonios</p>
                 </div>
             </li>
 
             <li class="menuResp nav-item dropdown">
                 <a href="conocenos.php"><i class="fas fa-play-circle icono"></i>
-                    <span class="span-menus">Conócenos</span></a>
+                    <span class="span-menus">Con&oacute;cenos</span></a>
                 <div class="dropdown-content ">
                 
                     <p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp Logros Destacados</p>
@@ -51,10 +51,10 @@
             <li class="menuResp nav-item dropdown">
                 <a href="contacto.php">
                     <i class="fas fa-envelope icono"></i>
-                    <span class="span-menus">Contacto</span>
+                    <span class="span-menus">Cont&aacute;cto</span>
                     <div class="dropdown-content ">
                     <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp Mensaje</p>
-                    <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>&nbsp Ubicacion</p>
+                    <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>&nbsp Ubicaci&oacute;n</p>
                 </div>
                 </a>
             </li>

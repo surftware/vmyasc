@@ -60,7 +60,7 @@
         <div class="col-sm-12 col-md-6">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
+          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l Montes Mart&iacute;nez,
             fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
@@ -83,7 +83,7 @@
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
           <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Lic. Víctor Montes</p>
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
 
 
@@ -153,7 +153,7 @@
               que ofrecemos para la Prevención de Lavado de Dinero
               </p>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
-               que ofrecemos para la Prevención de Lavado de Dinero
+               que ofrecemos para la Prevenci&oacute;n de Lavado de Dinero
               </p>
             </div>
             
