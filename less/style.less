@@ -1,19 +1,21 @@
-/*------------------------------Paletas de colores--------------------------
+/*------------------------------Paletas de colores--------------------------*/
 
 
-$color1: rgba(33, 137, 126, 1);
-$color2: rgba(112, 145, 118, 1);
-$color3: rgba(143, 203, 155, 1);
-$color4: rgba(80, 255, 177, 1);
-$color5: rgba(71, 247, 103, 1);
+@color1: rgba(33, 137, 126, 1);
+@color2: rgba(112, 145, 118, 1);
+@color3: rgba(143, 203, 155, 1);
+@color4: rgba(80, 255, 177, 1);
+@color5: rgba(71, 247, 103, 1);
 
-$color1: rgba(61, 51, 88, 1);
-$color2: rgba(238, 252, 206, 1);
-$color3: rgba(86, 163, 166, 1);
-$color4: rgba(96, 123, 125, 1);
-$color5: rgba(200, 213, 185, 1);
+@color6: rgba(61, 51, 88, 1);
+@color7: rgba(238, 252, 206, 1);
+@color8: rgba(86, 163, 166, 1);
+@color9: rgba(96, 123, 125, 1);
+@colorX: rgba(200, 213, 185, 1);
 
------------------------------       Fuentes       --------------------------*/
+@colorLetra: #637280;
+
+/*-----------------------------       Fuentes       --------------------------*/
 
 @font-face {
   font-family: 'ubuntu';
@@ -29,7 +31,7 @@ $color5: rgba(200, 213, 185, 1);
 /*-----------------------------   Globales        --------------------------*/
 h1 {
   font-family: "ubuntu";
-  font-weight: bold;
+
 
 }
 
@@ -39,8 +41,21 @@ h2 {
 
 }
 
+h5 {
+  font-family: "ubuntu";
+  color: #709176;
+
+
+}
+
 p {
   font-family: "ubuntu";
+  color: @colorLetra;
+}
+
+a {
+  font-family: "ubuntu";
+  color: @color7;
 }
 
 
@@ -56,20 +71,15 @@ p {
 }
 
 .barra {
-
   background-color: rgba(112, 145, 118, 0.8) !important;
   color: rgba(36, 28, 28, 0.9);
   position: fixed;
   z-index: 9999;
   width: 100%;
-
-
-
 }
 
 .logo {
   height: 35px;
-
 }
 
 .p-logo {
@@ -153,21 +163,6 @@ p {
 
 
 
-/*----------------------------------------------------body--------------------*/
-
-body {
-
-  margin-top: 0px;
-
-}
-
-a {
-
-  color: rgba(96, 123, 125, 1) !important;
-
-}
-
-
 /*-----------------------------     Carrusel       --------------------------*/
 
 .dimensiones {
@@ -208,54 +203,56 @@ a {
 .transparencia1 {
 
   width: 100%;
-  height: 80px;
-  background-color: rgba(36, 28, 28, 0.7);
+  height: 100%;
+  background-color: rgba(36, 28, 28, 0.1);
   /*bottom:300px;*/
-  top: 180px;
+  top: 0px;
   right: 0px;
   left: 0px;
-
-  border-radius: 15px !important;
-
-
+  /*border-radius: 15px !important;*/
   font-family: "ubuntu";
   font-size: 25px;
   color: #ffffff;
   text-align: center;
   font-weight: bold;
-
   position: absolute;
   /*top:0px;*/
   /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
 }
 
 
-.transparencia2 {
+.transparenciaImg {
 
-  width: 50%;
-  height: 60px;
-  background-color: rgba(36, 28, 28, 0.9);
-  bottom: 50px;
+  width: 90%;
+  height: 30px;
+  background-color: rgba(112, 145, 118, 0.8) !important;
+  bottom: 0%;
   right: 0px;
-  left: 50px;
-
-  border-radius: 15px !important;
-
-
-  font-family: "ubuntu";
-  font-size: 18px;
-  color: #ffffff;
-  text-align: center;
-  font-weight: bold;
-
+  left: 0px;
+  border-radius: 5px;
   position: absolute;
+  z-index: 9999;
   /*top:0px;*/
   /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
+
+
+}
+
+.captionImg {
+  color: @color7;
+  text-align: center;
+
+}
+
+.captionBtn {
+  text-align: center;
+  color: @color7;
+
 }
 
 .transparencia3 {
 
-  width: 50%;
+  width: 90%;
   height: 60px;
   background-color: rgba(36, 28, 28, 0.9);
   bottom: 50px;
@@ -278,10 +275,14 @@ a {
 
 /*----------------------------------------------footer------------------------*/
 
+.carrusel-inner {
+  height: 450px;
+}
+
 .h1-section {
   font-size: 30px;
-  color: rgba(112, 145, 118, 1);
-  margin-bottom: 10px !important;
+  font-weight: lighter;
+  color: @color2;
 }
 
 
@@ -289,20 +290,18 @@ a {
   font-size: 15px;
   color: rgba(112, 145, 118, 1);
   margin-bottom: 10px !important;
-
-
+  font-weight: bold;
 }
 
 .h2-footer {
   font-size: 12px;
   color: rgba(112, 145, 118, 1);
   text-align: center;
-
 }
 
 .text-footer {
   font-size: 13px;
-  color: rgba(96, 123, 125, 1);
+  color: @color9;
   font-weight: bold;
 
 }
@@ -342,7 +341,11 @@ footer {
 
 }
 
+.imagen_m {
+  height: 100%;
+  width: 100% !important;
 
+}
 
 .surftware {
   font-size: 10px;
@@ -352,12 +355,28 @@ footer {
 
 }
 
+.cLetra {
+  font-family: "ubuntu";
+  color: #637280;
+  font-size: 15px;
+}
 
 .subTextResp {
   font-size: 18px !important;
   line-height: 0.9em;
   margin-bottom: 30px;
 }
+
+.botones {
+  background-color: @color2;
+  color: #f9f9f9 !important;
+}
+
+.imgServicios {
+  
+  height: 140px;
+}
+
 
 @media screen and (max-width: 992px) {
   .barra {
@@ -388,3 +407,84 @@ footer {
 
 
 }
+
+
+.contacts .form_field {
+  display: block;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 60px;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  padding: 12px 35px;
+  margin-bottom: 30px;
+  font-size: 15px;
+  line-height: normal;
+  color: #47506d;
+  font-family: @colorLetra;
+  border: none;
+  font-weight: 300;
+  outline: 0;
+}
+.contacts .form_textarea {
+  display: block;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 140px;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  padding: 12px 35px;
+  margin-bottom: 30px;
+  font-size: 15px;
+  color:@color9;
+  resize: none;
+
+  border: none;
+  font-weight: 300;
+  font-family: @colorLetra;
+  outline: 0;
+}
+.button_agua {
+  color: #fff;
+  background: @color3;
+  border-color:@color3;
+}
+.contacts .form ::-moz-placeholder {
+  color: @color9;
+  opacity: 1;
+}
+.button_medium {
+  min-width: 151px;
+  padding: 13.5px;
+  font-size: 13px;
+}
+.button {
+  text-decoration: none;
+  position: relative;
+  font-style: normal;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.5;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  border: 2px solid;
+}
+.contacts .form {
+  text-align: center;
+}
+.ptb-100 {
+  padding: 100px 0;
+}
+.container {
+  max-width: 100%;
+}
+
+
+/*Contacto.php inicio
+
+Contacto final*/

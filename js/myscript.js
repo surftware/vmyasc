@@ -166,8 +166,15 @@ var customScript = function () {
 		alert("Quita esto ya Juan, porque molesta");
 	});
 
-	jQuery("#wowslider-container").wowSlider({effect:"rotate",prev:"",next:"",duration:20*100,delay:20*100,width:580,height:212,autoPlay:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,logo:"",images:0});
-
-	
+		
 
 }
+$(window).load(function() {
+	$('.flexslider').flexslider({
+	  animation: "slide",
+	  animationLoop: false,
+	  itemWidth: 300,
+	  itemMargin: 10
+	});
+
+  });
