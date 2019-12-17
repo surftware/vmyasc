@@ -13,7 +13,7 @@
             </p>
             <p class="mb-1">
               <i class="fas fa-play-circle mr-1"></i>
-              <a href="conocenos.php" class=""><span class="text-footer">Conócenos</span></a>
+              <a href="conocenos.php" class=""><span class="text-footer">Con&oacute;cenos</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-gavel mr-1"></i>
@@ -21,7 +21,7 @@
             </p>
             <p class="mb-1">
               <i class="fas fa-envelope mr-1"></i>
-              <a href="contacto.php" class=""><span class="text-footer">Contacto</span></a>
+              <a href="contacto.php" class=""><span class="text-footer">Cont&aacute;cto</span></a>
             </p>
           </ul>
         </div>
@@ -29,7 +29,7 @@
 
 
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
-          <h1 class="h1-footer m-4">Contacto</h1>
+          <h1 class="h1-footer m-4">Cont&aacute;cto</h1>
           <p class="mb-1">
             <i class="fa fa-phone mr-1"></i>
             <span class="text-footer">Tels:
