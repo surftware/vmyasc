@@ -18,21 +18,21 @@
       <li data-target="#carouselndex" data-slide-to="1"></li>
       <li data-target="#carouselndex" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner carrusel-inner">
+    <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
           <p class="carousel-caption">Despacho jur&iacute;dico</p>
         </div>
