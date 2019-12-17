@@ -214,7 +214,7 @@
               <li>
                 <img src="img/ab01.png" />
                 <div class="transparencia2">
-                  <h5>Presidente de la Fimar<h5>
+                  <h5>Presidente de la Firma<h5>
                 </div>
               </li>
               <li>
