@@ -53,7 +53,7 @@
                     <i class="fas fa-envelope icono"></i>
                     <span class="span-menus">Contacto</span>
                     <div class="dropdown-content ">
-                    <p class="p-dropdown"><i class="fas fa-at" aria-hidden="true"></i>&nbsp Mensaje</p>
+                    <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp Mensaje</p>
                     <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>&nbsp Ubicacion</p>
                 </div>
                 </a>
@@ -64,4 +64,3 @@
     </div>
 
 </nav>
-<i class="fas fa-coins"></i>
