@@ -152,8 +152,8 @@
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios 
               que ofrecemos para la Prevención de Lavado de Dinero
               </p>
-              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
-               que ofrecemos para la Prevención de Lavado de Dinero
+              <p>Consultas con nuestros abogados en materia civil, derecho de familia, penal, 
+                laboral, administrativa y mercantil.
               </p>
             </div>
             
@@ -165,26 +165,29 @@
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 1
+                Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
                 </li>
                 <li class="cLetra">
-                  Servicio 2
+                Laboral: Despidos, excedencias,sanciones, accidente de trabajo, 
+                enfermedad profesional, Seguridad Social.
                 </li>
                 <li class="cLetra">
-                  Servicio 3
+                Seguros: incumplimientos, reclamaciones a aseguradora.
+                </li>
                 </li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 4
+                Reclamaci&oacute;n de Gastos Hipotecarios.
                 </li>
                 <li class="cLetra">
-                  Servicio 5
+                Bancos: Cuestiones relacionadas con la contrataci&oacute;n de cuentas corrientes, 
+                tarjetas de cr&eacute;dito, pr&eacute;stamos, comisiones.
                 </li>
                 <li class="cLetra">
-                  Servicio 6
+                Vivienda habitual:Compra ,alquiler,deducciones,impuestos,etc.
                 </li>
               </ul>
             </div>
@@ -263,38 +266,38 @@
           <p class=""> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi 
           persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y profesionalidad 
           en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema 
-          legal no dudaré en volver a contar con sus servicios. Enhorabuena por el trabajo que 
-          realizan, y por supuesto muchísimas GRACIAS." </p>
+          legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que 
+          realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
 
-          <p><b>Lucía Mendez</b></p>
+          <p><b>Luc&iacute;a Mendez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
           <p class=""> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me 
-          dió el Lic. Víctor Montes, ya que desde el primer día puso interés por mi causa y me informaba 
-          de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situación 
-          problemática que se me habia presentado, puedo decir que es una excelente profesional.No tengo 
+          di&oacute; el Lic. V&iacute;ctor Montes, ya que desde el primer d&iacute;a puso inter&eacute;s por mi causa y me informaba 
+          de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situaci&oacute;n 
+          problem&aacute;tica que se me habia presentado, puedo decir que es una excelente profesional.No tengo 
           duda en recomendar su despacho si conozco a alguien que lo necesite."
           </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
 
 
-          <p><b>Marcos Rodríguez</b></p>
+          <p><b>Marcos Rodr&iacute;guez</b></p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
 
           <p class=""> "Yo que conozco el mundo de los abogados, 
-          puedo asegurar que nunca he visto una atención al cliente 
+          puedo asegurar que nunca he visto una atenci&oacute;n al cliente 
           tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente 
-          al  Lic.Víctor Montes  para el que no tengo palabras suficientes de agradecimiento. Mi 
-          caso era un tanto delicado y ha sido muy atento desde un principio ,informándome y 
+          al  Lic.V&iacute;ctor Montes  para el que no tengo palabras suficientes de agradecimiento. Mi 
+          caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y 
           resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
           <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
