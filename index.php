@@ -125,7 +125,7 @@
             <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado6.png" class="imgServicios img-fluid" alt="">
+            <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
