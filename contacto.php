@@ -49,7 +49,7 @@
       <div class="row justify-content-center">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <h1 class="h1-section text-center ">
-            Contactanos
+            Cont&aacute;ctanos
           </h1>
           <p class="text-center">Contestaremos a la brevedad.</p>
         </div>
@@ -70,9 +70,9 @@
     </div>
   </div>
   <!-- contacts area end -->
-  <div class="text-center mb-5">
-  <h1 class="h1-section text-center"> Ubicación </h1>
-          <p class="text-center"> Visítanos por primera vez, toda la información que necesites será 
+  <div class="text-center mb-5 ptb-100" id="ubicacion">
+  <h1 class="h1-section text-center"> Ubicaci&oacute;n </h1>
+          <p class="text-center"> Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute; 
           brindada personalmente . </p>
           <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
     <iframe

@@ -51,14 +51,14 @@
   <!-- Termina Carrusel index-->
 
   <!-- Inicia Conozca nuestro despacho-->
-  <div class="section m-5 ">
+  <div class="section m-5 " id="Conozca">
     <div class="container">
 
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-8">
-          <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
+        <div class="col-sm-12 col-md-8 ptb-100">
+          <h1 class="h1-section" mb-4 id="Conozca"> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l Montes Mart&iacute;nez,
             fecha
@@ -81,7 +81,7 @@
 
         <div class="col-sm-12 col-md-4">
 
-          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid ptb-100">
           <div class="transparenciaImg d-block mx-auto">
             <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
@@ -98,12 +98,12 @@
   <!-- Termina Conozca nuestro despacho-->
 
   <!-- Inicia Servicios-->
-  <div class="section m-5 ">
+  <div class="section m-5" id="Servicios" >
     <div class="container">
 
       <div class="row">
 
-        <div class="col-md-6 col-sm-12">          
+        <div class="col-md-6 col-sm-12 ptb-100">          
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
@@ -143,7 +143,7 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12">
+        <div class="col-md-6 col-sm-12 ptb-50">
 
           <div class="row ml-5 mt-5">
             <h1 class="h1-section"> Servicios</h1>
@@ -202,12 +202,12 @@
   </div>
   <!-- Termina Servicios-->
 
-  <div class="section mt-5 mb-5">
+  <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
 
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center"> Principales miembros </h1>
+          <h1 class="h1-section text-center ptb-100"> Nuestros Litigantes </h1>
           <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
             proyecto
           </p>
@@ -237,6 +237,7 @@
                 <img src="img/ab06.png" />
               </li>
               
+              
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
@@ -249,11 +250,11 @@
   <!-- Termina Principales miembros-->
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light mt-5 mb-5 m-5">
+  <div class="section bg-light mt-5 mb-5 m-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center mt-5">
+        <div class="col-sm-12 col-md-12 text-center mt-5 ptb-50">
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
