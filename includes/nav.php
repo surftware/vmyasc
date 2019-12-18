@@ -51,10 +51,10 @@
             <li class="menuResp nav-item dropdown">
                 <a href="contacto.php">
                     <i class="fas fa-envelope icono"></i>
-                    <span class="span-menus">Cont&aacute;cto</span>
+                    <span class="span-menus">Contacto</span>
                     <div class="dropdown-content ">
-                    <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp; Mensaje</p>
-                    <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>&nbsp; Ubicaci&oacute;n</p>
+                    <p class="p-dropdown" ><a href="contacto.php#contacts"><i class="far fa-comment-alt" aria-hidden="true" ></i>&nbsp; Mensaje</p></a>
+                    <p class="p-dropdown"><a href="contacto.php#ubicacion"><i class="fas fa-map-marked-alt" aria-hidden="true " ></i>&nbsp; Ubicaci&oacute;n</p></a>
                 </div>
                 </a>
             </li>

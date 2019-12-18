@@ -21,7 +21,7 @@
             </p>
             <p class="mb-1">
               <i class="fas fa-envelope mr-1"></i>
-              <a href="contacto.php" class=""><span class="text-footer">Cont&aacute;cto</span></a>
+              <a href="contacto.php" class=""><span class="text-footer">Contacto</span></a>
             </p>
           </ul>
         </div>
@@ -29,7 +29,7 @@
 
 
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
-          <h1 class="h1-footer m-4">Cont&aacute;cto</h1>
+          <h1 class="h1-footer m-4">Contacto</h1>
           <p class="mb-1">
             <i class="fa fa-phone mr-1"></i>
             <span class="text-footer">Tels:
@@ -67,7 +67,7 @@
 
         <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
-            <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
+            <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
             <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
             <img src="img/logoFooter.png" class="logo-footer" alt="logo">
           </a>
@@ -80,7 +80,7 @@
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
           <a href="https://surftware.me" class="surftware" target="_blank">
-            <p class=""><i class="fas fa-copyright"></i> Página diseñada por Surftware </p>
+            <p class=""><i class="fas fa-copyright"></i> P&aacute;gina dise&ntilde;ada por Surftware </p>
           </a>
         </div>
       </div>
