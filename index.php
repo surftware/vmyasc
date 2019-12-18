@@ -60,7 +60,8 @@
         <div class="col-sm-12 col-md-8 ptb-100">
           <h1 class="h1-section" mb-4 id="Conozca"> Conozca nuestro despacho</h1>
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l Montes Mart&iacute;nez,
+          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+            Montes Mart&iacute;nez,
             fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
@@ -98,46 +99,46 @@
   <!-- Termina Conozca nuestro despacho-->
 
   <!-- Inicia Servicios-->
-  <div class="section m-5" id="Servicios" >
+  <div class="section m-5" id="Servicios">
     <div class="container">
 
       <div class="row">
 
-        <div class="col-md-6 col-sm-12 ptb-100">          
+        <div class="col-md-6 col-sm-12 ptb-100">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
             </div>
           </div>
 
@@ -149,30 +150,30 @@
             <h1 class="h1-section"> Servicios</h1>
 
             <div class="col-md-12">
-              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios 
-              que ofrecemos para la Prevención de Lavado de Dinero
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
+                que ofrecemos para la Prevención de Lavado de Dinero
               </p>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
-               que ofrecemos para la Prevenci&oacute;n de Lavado de Dinero
+                que ofrecemos para la Prevenci&oacute;n de Lavado de Dinero
               </p>
             </div>
-            
+
 
           </div>
-          
+
           <div class="row ml-5 mt-3">
 
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
+                  Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
                 </li>
                 <li class="cLetra">
-                Laboral: Despidos, excedencias,sanciones, accidente de trabajo, 
-                enfermedad profesional, Seguridad Social.
+                  Laboral: Despidos, excedencias,sanciones, accidente de trabajo,
+                  enfermedad profesional, Seguridad Social.
                 </li>
                 <li class="cLetra">
-                Seguros: incumplimientos, reclamaciones a aseguradora.
+                  Seguros: incumplimientos, reclamaciones a aseguradora.
                 </li>
                 </li>
               </ul>
@@ -180,14 +181,14 @@
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                Reclamaci&oacute;n de Gastos Hipotecarios.
+                  Reclamaci&oacute;n de Gastos Hipotecarios.
                 </li>
                 <li class="cLetra">
-                Bancos: Cuestiones relacionadas con la contrataci&oacute;n de cuentas corrientes, 
-                tarjetas de cr&eacute;dito, pr&eacute;stamos, comisiones.
+                  Bancos: Cuestiones relacionadas con la contrataci&oacute;n de cuentas corrientes,
+                  tarjetas de cr&eacute;dito, pr&eacute;stamos, comisiones.
                 </li>
                 <li class="cLetra">
-                Vivienda habitual:Compra ,alquiler,deducciones,impuestos,etc.
+                  Vivienda habitual:Compra ,alquiler,deducciones,impuestos,etc.
                 </li>
               </ul>
             </div>
@@ -236,8 +237,8 @@
               <li>
                 <img src="img/ab06.png" />
               </li>
-              
-              
+
+
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
@@ -250,7 +251,7 @@
   <!-- Termina Principales miembros-->
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light mt-5 mb-5 m-5 " id="Testimonios">
+  <div class="section bg-light mt-5 mb-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
@@ -262,45 +263,49 @@
 
       <div class="row">
         <div class="col-sm-12 col-md-4 text-justify ">
-          <p class=""> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi 
-          persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y profesionalidad 
-          en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema 
-          legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que 
-          realizan, y por supuesto much&iacute;simas GRACIAS." </p>
+          <p class="heightTest"> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi
+            persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y
+            profesionalidad
+            en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema
+            legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
+            realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
-
-
-          <p><b>Luc&iacute;a Mendez</b></p>
-
-        </div>
-
-        <div class="col-sm-12 col-md-4 text-justify">
-          <p class=""> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me 
-          di&oacute; el Lic. V&iacute;ctor Montes, ya que desde el primer d&iacute;a puso inter&eacute;s por mi causa y me informaba 
-          de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situaci&oacute;n 
-          problem&aacute;tica que se me habia presentado, puedo decir que es una excelente profesional.No tengo 
-          duda en recomendar su despacho si conozco a alguien que lo necesite."
+            <p class="text-center"><img src="img/abogado6.png"
+              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+            <b>Armando Arciniega</b>
           </p>
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
+        </div>
 
+        <div class="col-sm-12 col-md-4 text-justify">
+          <p class="heightTest"> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me
+            di&oacute; el Lic. V&iacute;ctor Montes, ya que desde el primer d&iacute;a puso inter&eacute;s por mi causa
+            y me informaba
+            de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situaci&oacute;n
+            problem&aacute;tica que se me habia presentado, puedo decir que es una excelente profesional.No tengo
+            duda en recomendar su despacho si conozco a alguien que lo necesite."
+          </p>
 
-          <p><b>Marcos Rodr&iacute;guez</b></p>
+          <p class="text-center"><img src="img/abogado6.png"
+              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+            <b>Armando Arciniega</b>
+          </p>
 
         </div>
 
         <div class="col-sm-12 col-md-4 text-justify">
 
-          <p class=""> "Yo que conozco el mundo de los abogados, 
-          puedo asegurar que nunca he visto una atenci&oacute;n al cliente 
-          tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente 
-          al  Lic.V&iacute;ctor Montes  para el que no tengo palabras suficientes de agradecimiento. Mi 
-          caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y 
-          resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
+          <p class="heightTest"> "Yo que conozco el mundo de los abogados,
+            puedo asegurar que nunca he visto una atenci&oacute;n al cliente
+            tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
+            al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
+            caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
+            resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
-          <p><b>Armando Arciniega</b></p>
+          <p class="text-center"><img src="img/abogado6.png"
+              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+            <b>Armando Arciniega</b>
+          </p>
 
         </div>
       </div>

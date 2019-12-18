@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top barra">
-    <a class="navbar-brand ml-4" href="index.php"><img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
+    <a class="navbar-brand ml-4" href="index.php">
+        <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
         <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
         <p class="p-logo-base">Despacho legal</p>
     </a>
@@ -12,47 +13,53 @@
 
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
 
-        <ul class="navbar-nav d-block mx-auto centradoM">
-            <li class="menuResp nav-item active dropdown centradoM">
+        <ul class="navbar-nav d-block mx-auto">
+
+            <li class="menuResp nav-item active dropdown">
                 <a href="index.php">
                     <i class="fas fa-balance-scale icono"></i>
                     <span class="span-menus">La Firma</span>
                 </a>
                 <div class="dropdown-content">
                     <a href="index.php#Conozca">
-                    <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp; Conozca nustro despacho</p>
+                        <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp; Conozca nustro
+                            despacho</p>
                     </a>
                     <a href="index.php#Servicios">
-                    <p class="p-dropdown"><i class="fas fa-cogs" aria-hidden="true"></i>&nbsp; Servicios</p>
+                        <p class="p-dropdown"><i class="fas fa-cogs" aria-hidden="true"></i>&nbsp; Servicios</p>
                     </a>
                     <a href="index.php#Nuestros">
-                    <p class="p-dropdown"><i class="far fa-address-card" aria-hidden="true"></i>&nbsp; Nuestros litigantes</p>
+                        <p class="p-dropdown"><i class="far fa-address-card" aria-hidden="true"></i>&nbsp; Nuestros
+                            litigantes</p>
                     </a>
                     <a href="index.php#Testimonios">
-                    <p class="p-dropdown"><i class="far fa-comment" aria-hidden="true"></i>&nbsp; Testimonios</p>
+                        <p class="p-dropdown"><i class="far fa-comment" aria-hidden="true"></i>&nbsp; Testimonios</p>
                     </a>
                 </div>
             </li>
 
             <li class="menuResp nav-item dropdown">
                 <a href="conocenos.php"><i class="fas fa-play-circle icono"></i>
-                    <span class="span-menus">Con&oacute;cenos</span></a>
+                    <span class="span-menus">Con&oacute;cenos</span>
+                </a>
                 <div class="dropdown-content ">
-                
+
                     <p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp; Logros Destacados</p>
-                    <p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro Equipo</p>
-                    <p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas importantes</p>
+                    <p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro Equipo
+                    </p>
+                    <p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas
+                        Importantes</p>
 
                 </div>
             </li>
-            
+
             <li class="menuResp nav-item dropdown">
                 <a href="servicios.php">
                     <i class="fas fa-gavel icono"></i>
                     <span class="span-menus">Servicios</span>
                 </a>
                 <div class="dropdown-content ">
-                    <p class="p-dropdown"><i class="fas fa-stamp"" aria-hidden="true"></i>&nbsp; Derecho Penal</p>
+                    <p class="p-dropdown"><i class="fas fa-stamp"" aria-hidden=" true"></i>&nbsp; Derecho Penal</p>
                     <p class="p-dropdown"><i class="fas fa-fist-raised" aria-hidden="true"></i>&nbsp; Derecho Civil</p>
                     <p class="p-dropdown"><i class="fas fa-coins" aria-hidden="true"></i>&nbsp; Derecho Mercantil</p>
                 </div>
@@ -62,17 +69,19 @@
                 <a href="contacto.php">
                     <i class="fas fa-envelope icono"></i>
                     <span class="span-menus">Contacto</span>
-                    <div class="dropdown-content ">
+                </a>
+                <div class="dropdown-content ">
                     <a href="contacto.php#contacts">
-                    <p class="p-dropdown" ><i class="far fa-comment-alt" aria-hidden="true" ></i>&nbsp; Mensaje</p>
+                        <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp; Mensaje</p>
                     </a>
                     <a href="contacto.php#ubicacion">
-                    <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true " ></i>&nbsp; Ubicaci&oacute;n</p>
+                        <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true "></i>&nbsp;
+                            Ubicaci&oacute;n</p>
                     </a>
                 </div>
-                </a>
+
             </li>
-           
+
         </ul>
 
     </div>
