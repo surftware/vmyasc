@@ -57,7 +57,7 @@
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6">
+        <div class="col-sm-12 col-md-8">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l Montes Mart&iacute;nez,
@@ -79,7 +79,7 @@
 
         </div>
 
-        <div class="col-sm-12 col-md-6">
+        <div class="col-sm-12 col-md-4">
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
           <div class="transparenciaImg d-block mx-auto">
@@ -236,9 +236,7 @@
               <li>
                 <img src="img/ab06.png" />
               </li>
-              <li>
-                <img src="img/ab07.png" />
-              </li>
+              
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
