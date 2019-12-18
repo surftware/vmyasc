@@ -70,7 +70,7 @@
     </div>
   </div>
   <!-- contacts area end -->
-  <div class="text-center mb-5" id="ubicacion">
+  <div class="text-center mb-5 ptb-100" id="ubicacion">
   <h1 class="h1-section text-center"> Ubicaci&oacute;n </h1>
           <p class="text-center"> Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute; 
           brindada personalmente . </p>
