@@ -236,9 +236,7 @@
               <li>
                 <img src="img/ab06.png" />
               </li>
-              <li>
-                <img src="img/ab07.png" />
-              </li>
+              
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
