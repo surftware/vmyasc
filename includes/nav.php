@@ -19,8 +19,18 @@
                     <span class="span-menus">La Firma</span>
                 </a>
                 <div class="dropdown-content">
-                    <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp;  Qui&eacute;nes somos</p>
-                    <p class="p-dropdown"><i class="fas fa-id-card" aria-hidden="true"></i>&nbsp; Testimonios</p>
+                    <a href="index.php#Conozca">
+                    <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp; Conozca nustro despacho</p>
+                    </a>
+                    <a href="index.php#Servicios">
+                    <p class="p-dropdown"><i class="fas fa-cogs" aria-hidden="true"></i>&nbsp; Servicios</p>
+                    </a>
+                    <a href="index.php#Nuestros">
+                    <p class="p-dropdown"><i class="far fa-address-card" aria-hidden="true"></i>&nbsp; Nuestros litigantes</p>
+                    </a>
+                    <a href="index.php#Testimonios">
+                    <p class="p-dropdown"><i class="far fa-comment" aria-hidden="true"></i>&nbsp; Testimonios</p>
+                    </a>
                 </div>
             </li>
 

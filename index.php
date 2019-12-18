@@ -51,7 +51,7 @@
   <!-- Termina Carrusel index-->
 
   <!-- Inicia Conozca nuestro despacho-->
-  <div class="section m-5 ">
+  <div class="section m-5 " id="Conozca">
     <div class="container">
 
 
@@ -98,7 +98,7 @@
   <!-- Termina Conozca nuestro despacho-->
 
   <!-- Inicia Servicios-->
-  <div class="section m-5 ">
+  <div class="section m-5" id="Servicios" >
     <div class="container">
 
       <div class="row">
@@ -202,7 +202,7 @@
   </div>
   <!-- Termina Servicios-->
 
-  <div class="section mt-5 mb-5">
+  <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
 
       <div class="row">
@@ -237,6 +237,7 @@
                 <img src="img/ab06.png" />
               </li>
               
+              
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
@@ -249,7 +250,7 @@
   <!-- Termina Principales miembros-->
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light mt-5 mb-5 m-5">
+  <div class="section bg-light mt-5 mb-5 m-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
