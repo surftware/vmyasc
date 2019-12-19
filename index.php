@@ -58,9 +58,9 @@
       <div class="row">
 
         <div class="col-sm-12 col-md-8 ptb-100">
-          <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
+          <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+          <p class="m-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
             fecha
             desde
@@ -68,16 +68,16 @@
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
 
-          <p> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en diferentes ramas y
+          <p class="m-5"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
+            diferentes ramas y
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
-
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
-            <p class="captionBtn mb-0"> Saber m&aacute;s</p>
+          <a href="conocenos.php">
+            <button class="button button_agua button_medium mb-5 ml-5" type="submit">Saber m&aacute;s
+            </button>
           </a>
-
         </div>
 
         <div class="col-sm-12 col-md-4">
@@ -144,12 +144,12 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ptb-50">
+        <div class="col-md-6 col-sm-12 ptb-50 text-center">
 
-          <div class="row ml-5 mt-5">
-            <h1 class="h1-section"> Servicios</h1>
+          <div class="row ml-5 mt-5 ">
+            <h1 class="h1-section  text-center "> Servicios</h1>
 
-            <div class="col-md-12">
+            <div class="col-md-12 ">
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
@@ -269,7 +269,7 @@
             legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
             realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
-            <p class="text-center"><img src="img/abogado6.png"
+          <p class="text-center"><img src="img/abogado6.png"
               class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
