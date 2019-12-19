@@ -49,12 +49,9 @@ Ultima Actualización: Noviembre 2019
   <!-- wow -->
   <link rel="stylesheet" href="css/animate.css" />
  
-  <!-- flexslider -->
-  <link rel="stylesheet" href="css/flexslider.css" type="text/css">
-
-<!-- Owl Carousel 2 -->
-<link rel="stylesheet" href="olwCarousel/owl.carousel.min.css" type="text/css">
-<link rel="stylesheet" href="olwCarousel/owl.theme.default.min.css" type="text/css">
+   <!-- owl Carousel 2.3.4 -->
+   <link rel="stylesheet" href="css/owl.carousel.min.css">
+   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 

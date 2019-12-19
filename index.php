@@ -20,9 +20,10 @@
     </ol>
     <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/1.jpg" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
@@ -220,50 +221,34 @@
     </div>
   </div>
   <!-- Termina Servicios-->
-
+  <!-- Inicia Principales mie-->
   <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
-
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center ptb-100"> Nuestros Litigantes </h1>
-          <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
-            proyecto
+          <h1 class="h1-section text-center ptb-100"> Nuestros litigantes </h1>
+          <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
-          <!-- Place somewhere in the <body> of your page -->
-          <div class="flexslider carousel">
-            <ul class="slides">
-              <li>
-                <img src="img/ab01.png" />
-                <div class="transparencia2">
-                  <h5>Presidente de la Firma<h5>
-                </div>
-              </li>
-              <li>
-                <img src="img/ab02.png" />
-
-              </li>
-              <li>
-                <img src="img/ab03.png" />
-              </li>
-              <li>
-                <img src="img/ab04.png" />
-              </li>
-              <li>
-                <img src="img/ab05.png" />
-              </li>
-              <li>
-                <img src="img/ab06.png" />
-              </li>
-
-
-              <!-- items mirrored twice, total of 12 -->
-            </ul>
-
+          <div class="owl-carousel owl-theme">
+            <div class="item"><img src="img/abogado8.png">
+            <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+          </div>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>2</h4>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>3</h4>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>4</h4>
+            </div>
+          
+            </div>
           </div>
         </div>
       </div>
-
     </div>
   </div>
   <!-- Termina Principales miembros-->

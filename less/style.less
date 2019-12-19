@@ -15,6 +15,9 @@
 
 @colorLetra: #637280;
 
+@carousel-caption-width:900;
+@carousel-caption-color:rgba(255, 255, 255, 1);
+
 /*-----------------------------       Fuentes       --------------------------*/
 
 @font-face {
@@ -205,7 +208,7 @@ a {
 
   width: 100%;
   height: 100%;
-  background-color: rgba(36, 28, 28, 0.1);
+  background-color:rgba(0, 0, 0, 0.4);/* rgba(36, 28, 28, 0.3);*/
   /*bottom:300px;*/
   top: 0px;
   right: 0px;
@@ -220,6 +223,33 @@ a {
   /*top:0px;*/
   /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
 }
+
+.h1-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 45%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
+
+}
+
+.p-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 55%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
+
+}
+
 
 
 .transparenciaImg {
