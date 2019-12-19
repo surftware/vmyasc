@@ -48,7 +48,7 @@
     </a>
   </div>
 
-  <!-- Termina Carrusel index-->
+  <!-- Termina Carrusel index -->
 
   <!-- Inicia Conozca nuestro despacho-->
   <div class="section m-5 " id="Conozca">
@@ -72,9 +72,9 @@
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
-
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
+
+          <a href="conocenos.php" class="btn btn-sm botones rounded-pill text-center my-5" role="button">
             <p class="captionBtn mb-0"> Saber m&aacute;s</p>
           </a>
 
@@ -222,7 +222,6 @@
               </li>
               <li>
                 <img src="img/ab02.png" />
-
               </li>
               <li>
                 <img src="img/ab03.png" />
@@ -269,7 +268,7 @@
             legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
             realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
-            <p class="text-center"><img src="img/abogado6.png"
+          <p class="text-center"><img src="img/abogado6.png"
               class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
@@ -285,8 +284,7 @@
             duda en recomendar su despacho si conozco a alguien que lo necesite."
           </p>
 
-          <p class="text-center"><img src="img/abogado6.png"
-              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+          <p class="text-center"><img src="img/abogado6.png" class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
 
