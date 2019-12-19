@@ -109,54 +109,54 @@
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
-              </a>  
+              <a href="servicios.php">
+                <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <a href="servicios.php">
-              <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
-              </a> 
+              <a href="servicios.php">
+                <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
-            </a> 
+              <a href="servicios.php">
+                <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
-              </a> 
+              <a href="servicios.php">
+                <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
-              </a> 
+              <a href="servicios.php">
+                <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
           </div>
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <a href="servicios.php">
-              <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="servicios.php">
-              <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
           </div>
@@ -166,10 +166,10 @@
         <div class="col-md-6 col-sm-12 ptb-50">
 
           <div class="row ml-5 mt-5 ">
-            
+
 
             <div class="col-md-12 ">
-            <h1 class="h1-section  text-center "> Servicios</h1>
+              <h1 class="h1-section  text-center mb-5 "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
@@ -231,9 +231,9 @@
           </p>
           <div class="owl-carousel owl-theme">
             <div class="item"><img src="img/abogado8.png">
-            <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
-          </div>
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
             </div>
             <div class="item"><img src="img/abogado8.png">
               <h4>2</h4>
@@ -244,29 +244,15 @@
             <div class="item"><img src="img/abogado8.png">
               <h4>4</h4>
             </div>
-          
-            </div>
+
           </div>
         </div>
       </div>
     </div>
   </div>
+  </div>
   <!-- Termina Principales miembros-->
-    <!-- Termina Principales CCARROUSEL OWL-->
-    <div class="owl-carousel owl-theme">
-    <div class="item"><h4>1</h4></div>
-    <div class="item"><h4>2</h4></div>
-    <div class="item"><h4>3</h4></div>
-    <div class="item"><h4>4</h4></div>
-    <div class="item"><h4>5</h4></div>
-    <div class="item"><h4>6</h4></div>
-    <div class="item"><h4>7</h4></div>
-    <div class="item"><h4>8</h4></div>
-    <div class="item"><h4>9</h4></div>
-    <div class="item"><h4>10</h4></div>
-    <div class="item"><h4>11</h4></div>
-    <div class="item"><h4>12</h4></div>
-</div>
+  
 
   <!-- Inicia Testimonios-->
   <div class="section bg-light mt-5 mb-5 " id="Testimonios">
