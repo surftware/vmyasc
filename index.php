@@ -144,12 +144,13 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ptb-50 text-center">
+        <div class="col-md-6 col-sm-12 ptb-50">
 
           <div class="row ml-5 mt-5 ">
-            <h1 class="h1-section  text-center "> Servicios</h1>
+            
 
             <div class="col-md-12 ">
+            <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
@@ -248,6 +249,21 @@
     </div>
   </div>
   <!-- Termina Principales miembros-->
+    <!-- Termina Principales CCARROUSEL OWL-->
+    <div class="owl-carousel owl-theme">
+    <div class="item"><h4>1</h4></div>
+    <div class="item"><h4>2</h4></div>
+    <div class="item"><h4>3</h4></div>
+    <div class="item"><h4>4</h4></div>
+    <div class="item"><h4>5</h4></div>
+    <div class="item"><h4>6</h4></div>
+    <div class="item"><h4>7</h4></div>
+    <div class="item"><h4>8</h4></div>
+    <div class="item"><h4>9</h4></div>
+    <div class="item"><h4>10</h4></div>
+    <div class="item"><h4>11</h4></div>
+    <div class="item"><h4>12</h4></div>
+</div>
 
   <!-- Inicia Testimonios-->
   <div class="section bg-light mt-5 mb-5 " id="Testimonios">

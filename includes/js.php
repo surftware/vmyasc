@@ -1,5 +1,7 @@
  <!-- jquery -->
  <script src="js/jquery.min.js"></script>
+<!-- Owl Carousel 2 -->
+<script src="olwCarousel/owl.carousel.min.js"></script>
 
  <!-- custom script -->
  <script src="js/myscript.js"></script>

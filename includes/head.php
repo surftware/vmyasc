@@ -52,7 +52,9 @@ Ultima Actualización: Noviembre 2019
   <!-- flexslider -->
   <link rel="stylesheet" href="css/flexslider.css" type="text/css">
 
-
+<!-- Owl Carousel 2 -->
+<link rel="stylesheet" href="olwCarousel/owl.carousel.min.css" type="text/css">
+<link rel="stylesheet" href="olwCarousel/owl.theme.default.min.css" type="text/css">
   <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 
