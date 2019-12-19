@@ -108,17 +108,17 @@
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
               </a>  
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
               </a> 
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
             </a> 
             </div>
@@ -126,17 +126,17 @@
 
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
               </a> 
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
               </a> 
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
@@ -144,17 +144,17 @@
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <a href="contacto.php">
+            <a href="servicios.php">
               <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
