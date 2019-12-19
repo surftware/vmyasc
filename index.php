@@ -29,13 +29,15 @@
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+        <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
