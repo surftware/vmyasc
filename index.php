@@ -201,6 +201,7 @@
     </div>
   </div>
   <!-- Termina Servicios-->
+  <!-- Inicia Principales mie-->
 
   <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
@@ -215,14 +216,10 @@
           <div class="flexslider carousel">
             <ul class="slides">
               <li>
-                <img src="img/ab01.png" />
-                <div class="transparencia2">
-                  <h5>Presidente de la Firma<h5>
-                </div>
+                <img src="img/ab01.png" />                
               </li>
               <li>
                 <img src="img/ab02.png" />
-
               </li>
               <li>
                 <img src="img/ab03.png" />
@@ -236,8 +233,9 @@
               <li>
                 <img src="img/ab06.png" />
               </li>
-
-
+              <li>
+                <img src="img/ab06.png" />
+              </li>
               <!-- items mirrored twice, total of 12 -->
             </ul>
 
