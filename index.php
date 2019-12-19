@@ -58,7 +58,7 @@
       <div class="row">
 
         <div class="col-sm-12 col-md-8 ptb-100">
-          <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
+          <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
@@ -147,7 +147,7 @@
         <div class="col-md-6 col-sm-12 ptb-50">
 
           <div class="row ml-5 mt-5">
-            <h1 class="h1-section"> Servicios</h1>
+            <h1 class="h1-section text-center"> Servicios</h1>
 
             <div class="col-md-12">
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
@@ -202,47 +202,33 @@
   </div>
   <!-- Termina Servicios-->
   <!-- Inicia Principales mie-->
-
   <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
-
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center ptb-100"> Nuestros Litigantes </h1>
-          <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
-            proyecto
+          <h1 class="h1-section text-center ptb-100"> Nuestros litigantes </h1>
+          <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
-          <!-- Place somewhere in the <body> of your page -->
-          <div class="flexslider carousel">
-            <ul class="slides">
-              <li>
-                <img src="img/ab01.png" />                
-              </li>
-              <li>
-                <img src="img/ab02.png" />
-              </li>
-              <li>
-                <img src="img/ab03.png" />
-              </li>
-              <li>
-                <img src="img/ab04.png" />
-              </li>
-              <li>
-                <img src="img/ab05.png" />
-              </li>
-              <li>
-                <img src="img/ab06.png" />
-              </li>
-              <li>
-                <img src="img/ab06.png" />
-              </li>
-              <!-- items mirrored twice, total of 12 -->
-            </ul>
-
+          <div class="owl-carousel owl-theme">
+            <div class="item"><img src="img/abogado8.png">
+            <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+          </div>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>2</h4>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>3</h4>
+            </div>
+            <div class="item"><img src="img/abogado8.png">
+              <h4>4</h4>
+            </div>
+          
+            </div>
           </div>
         </div>
       </div>
-
     </div>
   </div>
   <!-- Termina Principales miembros-->
@@ -267,7 +253,7 @@
             legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
             realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
-            <p class="text-center"><img src="img/abogado6.png"
+          <p class="text-center"><img src="img/abogado6.png"
               class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
