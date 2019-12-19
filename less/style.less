@@ -206,7 +206,7 @@ a {
 
 .transparencia1 {
 
-  width: 100%;
+  width: 50%;
   height: 100%;
   background-color:rgba(0, 0, 0, 0.4);/* rgba(36, 28, 28, 0.3);*/
   /*bottom:300px;*/
@@ -234,7 +234,6 @@ a {
   padding-bottom: 20px;
   color: @carousel-caption-color;
   text-align: center;
-
 }
 
 .p-caption{
@@ -484,8 +483,8 @@ footer {
 }
 .button_agua {
   color: #fff;
-  background: @color3;
-  border-color:@color3;
+  background: @color2;
+  border-color:@color2;
 }
 .contacts .form ::-moz-placeholder {
   color: @color9;
@@ -529,24 +528,39 @@ footer {
 Contacto final*/
 
 
-/*RESPONSIVE CARROUSEL OWL*/
-responsive : {
-  // breakpoint from 0 up
-  0 : {
-      option1 : value,
-      option2 : value,
-      ...
-  },
-  // breakpoint from 480 up
-  480 : {
-      option1 : value,
-      option2 : value,
-      ...
-  },
-  // breakpoint from 768 up
-  768 : {
-      option1 : value,
-      option2 : value,
-      ...
-  }
+/*Transparencia imagenes solas cono,ser,cont por ceci*/
+.transOtra {
+
+  width: 80%;
+  height: 100%;
+  background-color:rgba(15, 15, 15, 0.3);/* rgba(36, 28, 28, 0.3);*/
+  /*bottom:300px;*/
+  top: 10px;
+  right: 0px;
+  left: 0px;
+  /*border-radius: 15px !important;*/
+  font-family: "ubuntu";
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  position: absolute;
+  /*top:0px;*/
+  /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
+}
+.button_verde {
+  color: #82b085;
+  background-color: #82b085;
+}
+ /*poniendo ESCUDO CAPTION*/
+ .h1-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 45%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
 }
