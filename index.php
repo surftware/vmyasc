@@ -232,10 +232,10 @@
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
           <div class="owl-carousel owl-theme">
-            <div class="item"><img src="img/ab01.png">
-              <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
-              </div>
+            <div class="item"><img src="img/abogado8.png">
+            <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+          </div>
             </div>
             <div class="item"><img src="img/ab02.png">
               <div class="transparenciaImg d-block mx-auto">
@@ -252,17 +252,8 @@
                 <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
               </div>
             </div>
-            <div class="item"><img src="img/ab05.png">
-              <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
-              </div>
+          
             </div>
-            <div class="item"><img src="img/ab06.png">
-              <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
-              </div>
-            </div>
-
           </div>
         </div>
       </div>
@@ -270,45 +261,21 @@
   </div>
   </div>
   <!-- Termina Principales miembros-->
-  <!-- Termina Principales CCARROUSEL OWL-->
-  <div class="owl-carousel owl-theme">
-    <div class="item">
-      <h4>1</h4>
-    </div>
-    <div class="item">
-      <h4>2</h4>
-    </div>
-    <div class="item">
-      <h4>3</h4>
-    </div>
-    <div class="item">
-      <h4>4</h4>
-    </div>
-    <div class="item">
-      <h4>5</h4>
-    </div>
-    <div class="item">
-      <h4>6</h4>
-    </div>
-    <div class="item">
-      <h4>7</h4>
-    </div>
-    <div class="item">
-      <h4>8</h4>
-    </div>
-    <div class="item">
-      <h4>9</h4>
-    </div>
-    <div class="item">
-      <h4>10</h4>
-    </div>
-    <div class="item">
-      <h4>11</h4>
-    </div>
-    <div class="item">
-      <h4>12</h4>
-    </div>
-  </div>
+    <!-- Termina Principales CCARROUSEL OWL-->
+    <div class="owl-carousel owl-theme">
+    <div class="item"><h4>1</h4></div>
+    <div class="item"><h4>2</h4></div>
+    <div class="item"><h4>3</h4></div>
+    <div class="item"><h4>4</h4></div>
+    <div class="item"><h4>5</h4></div>
+    <div class="item"><h4>6</h4></div>
+    <div class="item"><h4>7</h4></div>
+    <div class="item"><h4>8</h4></div>
+    <div class="item"><h4>9</h4></div>
+    <div class="item"><h4>10</h4></div>
+    <div class="item"><h4>11</h4></div>
+    <div class="item"><h4>12</h4></div>
+</div>
 
   <!-- Inicia Testimonios-->
   <div class="section bg-light mt-5 mb-5 " id="Testimonios">
