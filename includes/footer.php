@@ -44,6 +44,7 @@
               <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
             </a>
           </p>
+          
           <p class="text-footer mb-1">
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>

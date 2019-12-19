@@ -13,7 +13,7 @@
 
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
 
-        <ul class="navbar-nav d-block mx-auto">
+        <ul class="navbar-nav d-block mx-auto centradoM ">
 
             <li class="menuResp nav-item active dropdown">
                 <a href="index.php">
@@ -22,7 +22,7 @@
                 </a>
                 <div class="dropdown-content">
                     <a href="index.php#Conozca">
-                        <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp; Conozca nustro
+                        <p class="p-dropdown"><i class="fas fa-users" aria-hidden="true"></i>&nbsp; Conozca nuestro
                             despacho</p>
                     </a>
                     <a href="index.php#Servicios">
@@ -59,7 +59,7 @@
                     <span class="span-menus">Servicios</span>
                 </a>
                 <div class="dropdown-content ">
-                    <p class="p-dropdown"><i class="fas fa-stamp"" aria-hidden=" true"></i>&nbsp; Derecho Penal</p>
+                    <p class="p-dropdown"><i class="fas fa-stamp" aria-hidden=" true"></i>&nbsp; Derecho Penal</p>
                     <p class="p-dropdown"><i class="fas fa-fist-raised" aria-hidden="true"></i>&nbsp; Derecho Civil</p>
                     <p class="p-dropdown"><i class="fas fa-coins" aria-hidden="true"></i>&nbsp; Derecho Mercantil</p>
                 </div>

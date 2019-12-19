@@ -21,7 +21,7 @@ Ultima Actualización: Noviembre 2019
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta charset="utf-8">
   <meta name="description" content="" />
-  <link rel="canonical" href="">
+  <link rel="canonical" href="http://vmyasc.com.mx/index.php">
   <meta name="author" content="surftware" />
   <meta name="copyright" content="Surftware" />
 

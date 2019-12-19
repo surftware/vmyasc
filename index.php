@@ -58,7 +58,7 @@
       <div class="row">
 
         <div class="col-sm-12 col-md-8 ptb-100">
-          <h1 class="h1-section" mb-4 id="Conozca"> Conozca nuestro despacho</h1>
+          <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
 
           <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
@@ -174,7 +174,6 @@
                 </li>
                 <li class="cLetra">
                   Seguros: incumplimientos, reclamaciones a aseguradora.
-                </li>
                 </li>
               </ul>
             </div>
