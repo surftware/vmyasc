@@ -20,21 +20,24 @@
     </ol>
     <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/1.jpg" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
@@ -58,9 +61,9 @@
       <div class="row">
 
         <div class="col-sm-12 col-md-8 ptb-100">
-          <h1 class="h1-section mb-4"> Conozca nuestro despacho</h1>
+          <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+          <p class="m-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
             fecha
             desde
@@ -68,16 +71,16 @@
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
 
-          <p> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en diferentes ramas y
+          <p class="m-5"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
+            diferentes ramas y
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
-
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
-            <p class="captionBtn mb-0"> Saber m&aacute;s</p>
+          <a href="conocenos.php">
+            <button class="button button_agua button_medium mb-5 ml-5">Saber m&aacute;s
+            </button>
           </a>
-
         </div>
 
         <div class="col-sm-12 col-md-4">
@@ -108,37 +111,55 @@
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-              <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-              <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-              <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
@@ -146,10 +167,11 @@
 
         <div class="col-md-6 col-sm-12 ptb-50">
 
-          <div class="row ml-5 mt-5">
-            <h1 class="h1-section"> Servicios</h1>
+          <div class="row ml-5 mt-5 ">
+            
 
-            <div class="col-md-12">
+            <div class="col-md-12 text-left">
+            <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
@@ -201,53 +223,53 @@
     </div>
   </div>
   <!-- Termina Servicios-->
-
+  <!-- Inicia Principales mie-->
   <div class="section mt-5 mb-5" id="Nuestros">
     <div class="container">
-
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center ptb-100"> Nuestros Litigantes </h1>
-          <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
-            proyecto
+          <h1 class="h1-section text-center ptb-100"> Nuestros litigantes </h1>
+          <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
-          <!-- Place somewhere in the <body> of your page -->
-          <div class="flexslider carousel">
-            <ul class="slides">
-              <li>
-                <img src="img/ab01.png" />
-                <div class="transparencia2">
-                  <h5>Presidente de la Firma<h5>
-                </div>
-              </li>
-              <li>
-                <img src="img/ab02.png" />
-
-              </li>
-              <li>
-                <img src="img/ab03.png" />
-              </li>
-              <li>
-                <img src="img/ab04.png" />
-              </li>
-              <li>
-                <img src="img/ab05.png" />
-              </li>
-              <li>
-                <img src="img/ab06.png" />
-              </li>
-
-
-              <!-- items mirrored twice, total of 12 -->
-            </ul>
-
+          <div class="owl-carousel owl-theme">
+            <div class="item"><img src="img/ab01.png">
+            <div class="transparenciaImg d-block mx-auto">
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+          </div>
+            </div>
+            <div class="item"><img src="img/ab02.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab03.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab04.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab05.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab06.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+          
+            </div>
           </div>
         </div>
       </div>
-
     </div>
   </div>
-  <!-- Termina Principales miembros-->
+  </div>
 
   <!-- Inicia Testimonios-->
   <div class="section bg-light mt-5 mb-5 " id="Testimonios">
@@ -269,7 +291,7 @@
             legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
             realizan, y por supuesto much&iacute;simas GRACIAS." </p>
 
-            <p class="text-center"><img src="img/abogado6.png"
+          <p class="text-center"><img src="img/abogado6.png"
               class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
