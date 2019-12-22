@@ -145,12 +145,13 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ptb-50 text-center">
+        <div class="col-md-6 col-sm-12 ptb-50">
 
           <div class="row ml-5 mt-5 ">
-            <h1 class="h1-section  text-center "> Servicios</h1>
+            
 
-            <div class="col-md-12 ">
+            <div class="col-md-12 text-left">
+            <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
