@@ -13,14 +13,24 @@
  ?>
  <!-- Prueba Imagen Contacto-->
 
- <img class="d-block w-100 img-fluid carrusel-inner transparencia2" src="img/carrusel/3.jpg">
- <!-- Probar transOtra en lugar de transparencia2 para ver error de la altura de la capa-->
-  <div class="transOtra d-block mx-auto">
-    <h1 class="h1-caption">Contacto</h1>
-    <p class="p-caption">Despacho jur&iacute;dico</p>
+<div id="carouselContacto" class="carousel slide carousel-fade" data-ride="carousel">
+
+<div class="carousel-inner carrusel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-conocenos.png" alt="First slide">
+    <div class="transparencia1 d-block mx-auto">
+      <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+      <p class="p-caption">Contacto</p>
+    </div>
   </div>
-  <!-- Prueba Imagen Contacto-->
+</div>
+</div>
+
+<!-- Termina banner-->
+
+
   
+
   <!-- contacts area start -->
   <div class="contacts ptb-100" id="contacts">
     <div class="container">
