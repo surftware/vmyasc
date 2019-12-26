@@ -272,7 +272,7 @@
   </div>
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light mt-5 mb-5 " id="Testimonios">
+  <div class="section bg-light cajaP mb-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
@@ -281,53 +281,25 @@
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
       </div>
-
-      <div class="row">
-        <div class="col-sm-12 col-md-4 text-justify ">
-          <p class="heightTest"> "Estoy encantada con sus servicios. Han demostrado un trato humano hacia mi
-            persona. La firma se ha preocupado en todo momento por todo, me han atendido con gran amabilidad y
-            profesionalidad
-            en todo momento. Espero no tener que necesitarles en breve, pero ante cualquier problema
-            legal no dudar&eacute; en volver a contar con sus servicios. Enhorabuena por el trabajo que
-            realizan, y por supuesto much&iacute;simas GRACIAS." </p>
-
-          <p class="text-center"><img src="img/abogado6.png"
-              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
-            <b>Armando Arciniega</b>
-          </p>
-
-        </div>
-
-        <div class="col-sm-12 col-md-4 text-justify">
-          <p class="heightTest"> "Mi experiencia fue buena . Quiero resaltar en especial el trato que me
-            di&oacute; el Lic. V&iacute;ctor Montes, ya que desde el primer d&iacute;a puso inter&eacute;s por mi causa
-            y me informaba
-            de los pasos a seguir ,los avances de mi caso y con optimismo me ayudo a resolver la situaci&oacute;n
-            problem&aacute;tica que se me habia presentado, puedo decir que es una excelente profesional.No tengo
-            duda en recomendar su despacho si conozco a alguien que lo necesite."
-          </p>
-
-          <p class="text-center"><img src="img/abogado6.png"
-              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
-            <b>Armando Arciniega</b>
-          </p>
-
-        </div>
-
-        <div class="col-sm-12 col-md-4 text-justify">
-
-          <p class="heightTest"> "Yo que conozco el mundo de los abogados,
+        <div class=" text-center">
+          <div class="row">
+          <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
             tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
             al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
             caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
             resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
-          <p class="text-center"><img src="img/abogado6.png"
+          <p class="text-center col-sm-12 col-md-12"><img src="img/abogado6.png"
               class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
             <b>Armando Arciniega</b>
           </p>
-
+          <div class="text-center col-sm-12 col-md-12">
+          <a href="conocenos.php">
+            <button class="button button_agua button_medium d-block mx-auto">Saber m&aacute;s
+            </button>
+          </a>
+          </div>
         </div>
       </div>
 
