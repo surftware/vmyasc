@@ -281,7 +281,7 @@
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
         </div>
       </div>
-        <div class=" text-center">
+        
           <div class="row">
           <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
