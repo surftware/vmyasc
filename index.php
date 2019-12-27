@@ -50,7 +50,6 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-
   <!-- Termina Carrusel index-->
 
   <!-- Inicia Conozca nuestro despacho-->
@@ -60,7 +59,7 @@
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-8 ptb-100">
+        <div class="col-sm-12 col-md-8 ">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
           <p class="m-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
@@ -85,7 +84,7 @@
 
         <div class="col-sm-12 col-md-4">
 
-          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid ptb-100">
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid ">
           <div class="transparenciaImg d-block mx-auto">
             <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
@@ -107,7 +106,7 @@
 
       <div class="row">
 
-        <div class="col-md-6 col-sm-12 ptb-100">
+        <div class="col-md-6 col-sm-12 ">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
@@ -165,13 +164,13 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ptb-50">
+        <div class="col-md-6 col-sm-12 ">
 
           <div class="row ml-5 mt-5 ">
-            
+
 
             <div class="col-md-12 text-left">
-            <h1 class="h1-section  text-center "> Servicios</h1>
+              <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
               </p>
@@ -223,19 +222,20 @@
     </div>
   </div>
   <!-- Termina Servicios-->
-  <!-- Inicia Principales mie-->
-  <div class="section mt-5 mb-5" id="Nuestros">
+
+  <!-- Inicia Principales Miembros-->
+  <div class="section m-5" id="Nuestros">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center ptb-100"> Nuestros litigantes </h1>
+          <h1 class="h1-section text-center "> Nuestros litigantes </h1>
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
           <div class="owl-carousel owl-theme">
             <div class="item"><img src="img/ab01.png">
-            <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
-          </div>
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
             </div>
             <div class="item"><img src="img/ab02.png">
               <div class="transparenciaImg d-block mx-auto">
@@ -262,27 +262,25 @@
                 <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
               </div>
             </div>
-          
-            </div>
+
           </div>
         </div>
       </div>
     </div>
   </div>
-  </div>
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light cajaP mb-5 " id="Testimonios">
+  <div class="section m-5" id="Testimonios">
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center mt-5 ptb-50">
+
+        <div class="col-sm-12 col-md-6 offset-md-3 text-center bg-light ">
+
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
-        </div>
-      </div>
-        
-          <div class="row">
+
+
           <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
             tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
@@ -290,23 +288,28 @@
             caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
             resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
-          <p class="text-center col-sm-12 col-md-12"><img src="img/abogado6.png"
-              class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
-            <b>Armando Arciniega</b>
-          </p>
-          <div class="text-center col-sm-12 col-md-12">
-          <a href="conocenos.php">
-            <button class="button button_agua button_medium d-block mx-auto">Saber m&aacute;s
+
+          <img src="img/abogado6.png"
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+          <h1 class="h1-caption">Raúl Pérez</h1>
+
+
+          <a href="conocenos.php" class="d-block mx-auto">
+            <button class="button button_agua button_medium">Saber m&aacute;s
             </button>
           </a>
-          </div>
+
         </div>
       </div>
+
+
 
 
     </div>
   </div>
   <!-- Termina Testimonios-->
+
+
   <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");  
