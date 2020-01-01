@@ -44,11 +44,10 @@
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
           <div class="form">
             <form action="contacto.php" class="form form--contacts" method="post">
-              <input type="text" class="form_field" placeholder="Escriba su nombre" required="" name="nombre">
-              <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required="" name="telefono">
-              <input type="text" class="form_field" placeholder="Escriba su correo electr&oacute;nico" required="" name="correo">
-              <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" name="mensaje">
-              </textarea>
+              <input type="text" class="form_field" placeholder="Escriba su nombre"                     required=""  name="nombre">
+              <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono"     required=""  name="telefono">
+              <input type="text" class="form_field" placeholder="Escriba su correo electr&oacute;nico"  required=""  name="correo">
+              <textarea class="form_textarea"       placeholder="Escr&iacute;banos aqui su mensaje"     required=""  name="mensaje"></textarea>
               <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
             </form>
           </div>
