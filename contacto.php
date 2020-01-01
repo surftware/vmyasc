@@ -60,8 +60,8 @@
   <?php
 
     $remitente = $_POST['correo'];
-    $destinatario = 'and_3406@hotmail.com'; // en esta línea va el mail del destinatario.
-    $asunto = 'E-mail enviado desde la página principal vmyasc.com'; // acá se puede modificar el asunto del mail
+    $destinatario = 'vicmont@prodigy.net.mx'; // en esta línea va el mail del destinatario.
+    $asunto = 'E-mail enviado desde la página web vmyasc.com.mx. Contestar a la brevedad.'; // acá se puede modificar el asunto del mail
     if (!$_POST)
     {      
 

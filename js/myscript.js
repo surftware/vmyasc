@@ -15,16 +15,17 @@ $(document).ready(function(){
                 items:5
             }
         }
-    })
-    
-    
-    $("form").submit(function () {
-        alert("¡Su mensaje ha sido enviado!, Gracias por comunciarse con nosotros.");
-    });
+    })   
+   
 
 
 
  }); 
+
+
+ $("form").submit(function () {
+    alert("¡Su mensaje ha sido enviado!, Gracias por comunciarse con nosotros.");
+});
 
 
 
