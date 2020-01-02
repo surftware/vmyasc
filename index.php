@@ -104,7 +104,7 @@
   <div class="section m-5" id="Servicios">
     <div class="container">
 
-      <div class="row">
+      <div class="row flexresponsive">
 
         <div class="col-md-6 col-sm-12 ">
 
@@ -166,10 +166,10 @@
 
         <div class="col-md-6 col-sm-12 ">
 
-          <div class="row ml-5 mt-5 ">
+          <div class="row mt-5 ">
 
 
-            <div class="col-md-12 text-left">
+            <div class="col-md-6 col-sm-12 text-left mx-3">
               <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
@@ -182,9 +182,9 @@
 
           </div>
 
-          <div class="row ml-5 mt-3">
+          <div class="row mx-3 mt-3">
 
-            <div class="col-md-6">
+            <div class="col-md-6 col-sm-6">
               <ul>
                 <li class="cLetra">
                   Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
@@ -198,7 +198,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-sm-6">
               <ul>
                 <li class="cLetra">
                   Reclamaci&oacute;n de Gastos Hipotecarios.
@@ -227,7 +227,7 @@
   <div class="section m-5" id="Nuestros">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 ">
           <h1 class="h1-section text-center "> Nuestros litigantes </h1>
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
@@ -277,7 +277,7 @@
 
         <div class="col-sm-6 offset-sm-3 col-md-6 offset-md-3 text-center bg-light centradoM">
 
-          <h1 class="h1-section text-center centroM"> Testimonios </h1>
+          <h1 class="h1-section text-center centroM mt-3"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
 
 
@@ -290,7 +290,7 @@
 
 
           <img src="img/abogado6.png"
-            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM cel " alt="">
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid  cel " alt="">
           
 
 
