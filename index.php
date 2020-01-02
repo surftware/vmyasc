@@ -275,30 +275,38 @@
 
       <div class="row">
 
-        <div class="col-sm-6 offset-sm-3 col-md-6 offset-md-3 text-center bg-light centradoM">
+        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light centradoM">
 
+<<<<<<< HEAD
           <h1 class="h1-section text-center centroM mt-3"> Testimonios </h1>
+=======
+          <h1 class="h1-section text-center centroM mt-4"> Testimonios </h1>
+>>>>>>> 066dcb54dc8b8b397b9028fe13dd79d022ed764d
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
 
 
-          <p class="heightTest text-justify mx-5 "> "Yo que conozco el mundo de los abogados,
+          <p class="text-justify mx-5 "> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
             tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
             al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
             caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
             resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
-
-
+                    
           <img src="img/abogado6.png"
+<<<<<<< HEAD
             class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid  cel " alt="">
           
 
 
+=======
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM" alt="">
+>>>>>>> 066dcb54dc8b8b397b9028fe13dd79d022ed764d
           <a href="conocenos.php" class="d-block mx-auto">
             <h5>Raúl Pérez</h5>
-            <button class="button button_agua button_medium">Saber m&aacute;s
+            <button class="button button_agua button_medium mb-4">Leer m&aacute;s
             </button>
           </a>
+          
 
         </div>
       </div>
