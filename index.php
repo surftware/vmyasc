@@ -270,18 +270,18 @@
   </div>
 
   <!-- Inicia Testimonios-->
-  <div class="section m-5" id="Testimonios">
+  <div class="section  mb-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6 offset-md-3 text-center bg-light ">
+        <div class="col-sm-6 offset-sm-3 col-md-6 offset-md-3 text-center bg-light centradoM">
 
-          <h1 class="h1-section text-center"> Testimonios </h1>
+          <h1 class="h1-section text-center centroM"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
 
 
-          <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
+          <p class="heightTest text-justify mx-5 "> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
             tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
             al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
@@ -290,11 +290,12 @@
 
 
           <img src="img/abogado6.png"
-            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
-          <h1 class="h1-caption">Raúl Pérez</h1>
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM cel " alt="">
+          
 
 
           <a href="conocenos.php" class="d-block mx-auto">
+            <h5>Raúl Pérez</h5>
             <button class="button button_agua button_medium">Saber m&aacute;s
             </button>
           </a>

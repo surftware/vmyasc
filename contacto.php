@@ -72,7 +72,9 @@
       $cuerpo .= "Teléfono: " . $_POST["telefono"]  . "\r\n";
       $cuerpo .= "Email:    " . $_POST["correo"]    . "\r\n";
       $cuerpo .= "Mensaje:  " . $_POST["mensaje"]   . "\r\n";
-      //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
+
+      //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir
+      // con el "name" de cada campo del formulario.
 	    // Si se agrega un campo al formulario, hay que agregarlo acá.
 
       $headers  = "MIME-Version: 1.0\n";
