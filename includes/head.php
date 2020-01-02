@@ -21,7 +21,7 @@ Ultima Actualización: Noviembre 2019
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta charset="utf-8">
   <meta name="description" content="" />
-  <link rel="canonical" href="">
+  <link rel="canonical" href="http://vmyasc.com.mx/index.php">
   <meta name="author" content="surftware" />
   <meta name="copyright" content="Surftware" />
 
@@ -49,10 +49,9 @@ Ultima Actualización: Noviembre 2019
   <!-- wow -->
   <link rel="stylesheet" href="css/animate.css" />
  
-  <!-- flexslider -->
-  <link rel="stylesheet" href="css/flexslider.css" type="text/css">
-
-
+   <!-- owl Carousel 2.3.4 -->
+   <link rel="stylesheet" href="css/owl.carousel.min.css">
+   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 

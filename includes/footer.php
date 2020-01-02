@@ -13,7 +13,7 @@
             </p>
             <p class="mb-1">
               <i class="fas fa-play-circle mr-1"></i>
-              <a href="conocenos.php" class=""><span class="text-footer">Conócenos</span></a>
+              <a href="conocenos.php" class=""><span class="text-footer">Con&oacute;cenos</span></a>
             </p>
             <p class="mb-1">
               <i class="fas fa-gavel mr-1"></i>
@@ -44,6 +44,7 @@
               <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
             </a>
           </p>
+          
           <p class="text-footer mb-1">
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>
@@ -67,7 +68,7 @@
 
         <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
-            <h1 class=" h1-footer">VÍCTOR MONTES Y ASOCIADOS</h1>
+            <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
             <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
             <img src="img/logoFooter.png" class="logo-footer" alt="logo">
           </a>
@@ -80,12 +81,12 @@
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
           <a href="https://surftware.me" class="surftware" target="_blank">
-            <p class=""><i class="fas fa-copyright"></i> Página diseñada por Surftware </p>
+            <p class=""><i class="fas fa-copyright"></i> P&aacute;gina dise&ntilde;ada por Surftware </p>
           </a>
         </div>
       </div>
 
-    
-  </div>
+
+    </div>
   </div>
 </footer>

@@ -20,21 +20,24 @@
     </ol>
     <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/1.jpg" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-          <p class="carousel-caption">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
+          <p class="p-caption">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
@@ -47,43 +50,48 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-
   <!-- Termina Carrusel index-->
 
   <!-- Inicia Conozca nuestro despacho-->
-  <div class="section m-5 ">
+  <div class="section m-5 " id="Conozca">
     <div class="container">
 
 
       <div class="row">
 
+<<<<<<< HEAD
         <div class="col-sm-12 col-md-8">
           <h1 class="h1-section mb-4 "> Conozca nuestro despacho</h1>
+=======
+        <div class="col-sm-12 col-md-8 ">
+          <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
+>>>>>>> back
 
-          <p class=""> Somos una firma de abogados formada en el año de 1986, por el Lic. Víctor Raúl Montes Martínez,
+          <p class="m-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+            Montes Mart&iacute;nez,
             fecha
             desde
             la cual los profesionistas que en ella han colaborado, ejercen ante los Tribunales en los cuales se
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
 
-          <p> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en diferentes ramas y
+          <p class="m-5"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
+            diferentes ramas y
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
-
           </p>
-          <a href="conocenos.php " class="btn btn-sm botones rounded-pill text-center my-5" role="button">
-            <p class="captionBtn mb-0"> Saber m&aacute;s</p>
+          <a href="conocenos.php">
+            <button class="button button_agua button_medium mb-5 ml-5">Saber m&aacute;s
+            </button>
           </a>
-
         </div>
 
         <div class="col-sm-12 col-md-4">
 
-          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid">
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid ">
           <div class="transparenciaImg d-block mx-auto">
-            <p class="captionImg my-0">Lic. Víctor Montes</p>
+            <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
 
 
@@ -98,93 +106,114 @@
   <!-- Termina Conozca nuestro despacho-->
 
   <!-- Inicia Servicios-->
-  <div class="section m-5 ">
+  <div class="section m-5" id="Servicios">
     <div class="container">
 
       <div class="row">
 
-        <div class="col-md-6 col-sm-12">          
+        <div class="col-md-6 col-sm-12 ">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
-            <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
-            <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              <a href="servicios.php">
+                <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+              </a>
             </div>
           </div>
 
         </div>
 
-        <div class="col-md-6 col-sm-12">
+        <div class="col-md-6 col-sm-12 ">
 
-          <div class="row ml-5 mt-5">
-            <h1 class="h1-section"> Servicios</h1>
+          <div class="row ml-5 mt-5 ">
 
-            <div class="col-md-12">
-              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios 
-              que ofrecemos para la Prevención de Lavado de Dinero
+
+            <div class="col-md-12 text-left">
+              <h1 class="h1-section  text-center "> Servicios</h1>
+              <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
+                que ofrecemos para la Prevención de Lavado de Dinero
               </p>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
-               que ofrecemos para la Prevención de Lavado de Dinero
+                que ofrecemos para la Prevenci&oacute;n de Lavado de Dinero
               </p>
             </div>
-            
+
 
           </div>
-          
+
           <div class="row ml-5 mt-3">
 
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 1
+                  Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
                 </li>
                 <li class="cLetra">
-                  Servicio 2
+                  Laboral: Despidos, excedencias,sanciones, accidente de trabajo,
+                  enfermedad profesional, Seguridad Social.
                 </li>
                 <li class="cLetra">
-                  Servicio 3
+                  Seguros: incumplimientos, reclamaciones a aseguradora.
                 </li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul>
                 <li class="cLetra">
-                  Servicio 4
+                  Reclamaci&oacute;n de Gastos Hipotecarios.
                 </li>
                 <li class="cLetra">
-                  Servicio 5
+                  Bancos: Cuestiones relacionadas con la contrataci&oacute;n de cuentas corrientes,
+                  tarjetas de cr&eacute;dito, pr&eacute;stamos, comisiones.
                 </li>
                 <li class="cLetra">
-                  Servicio 6
+                  Vivienda habitual:Compra ,alquiler,deducciones,impuestos,etc.
                 </li>
               </ul>
             </div>
@@ -199,116 +228,93 @@
   </div>
   <!-- Termina Servicios-->
 
-  <div class="section mt-5 mb-5">
+  <!-- Inicia Principales Miembros-->
+  <div class="section m-5" id="Nuestros">
     <div class="container">
-
       <div class="row">
         <div class="col-md-12">
-          <h1 class="h1-section text-center"> Principales miembros </h1>
-          <p class="text-center"> El conocimiento, asesoramiento y apoyo de miembros expertos para enriquecer el
-            proyecto
+          <h1 class="h1-section text-center "> Nuestros litigantes </h1>
+          <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
-          <!-- Place somewhere in the <body> of your page -->
-          <div class="flexslider carousel">
-            <ul class="slides">
-              <li>
-                <img src="img/ab01.png" />
-                <div class="transparencia2">
-                  <h5>Presidente de la Fimar<h5>
-                </div>
-              </li>
-              <li>
-                <img src="img/ab02.png" />
-
-              </li>
-              <li>
-                <img src="img/ab03.png" />
-              </li>
-              <li>
-                <img src="img/ab04.png" />
-              </li>
-              <li>
-                <img src="img/ab05.png" />
-              </li>
-              <li>
-                <img src="img/ab06.png" />
-              </li>
-              <li>
-                <img src="img/ab07.png" />
-              </li>
-              <!-- items mirrored twice, total of 12 -->
-            </ul>
+          <div class="owl-carousel owl-theme">
+            <div class="item"><img src="img/ab01.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab02.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab03.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab04.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab05.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
+            <div class="item"><img src="img/ab06.png">
+              <div class="transparenciaImg d-block mx-auto">
+                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+              </div>
+            </div>
 
           </div>
         </div>
       </div>
-
     </div>
   </div>
-  <!-- Termina Principales miembros-->
 
   <!-- Inicia Testimonios-->
-  <div class="section bg-light mt-5 mb-5 m-5">
+  <div class="section m-5" id="Testimonios">
     <div class="container">
 
       <div class="row">
-        <div class="col-sm-12 col-md-12 text-center mt-5">
+
+        <div class="col-sm-12 col-md-6 offset-md-3 text-center bg-light ">
+
           <h1 class="h1-section text-center"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-sm-12 col-md-4 text-justify ">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
-
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle  " alt="">
 
 
-          <p><b>Marcos Czacki</b></p>
-
-        </div>
-
-        <div class="col-sm-12 col-md-4 text-justify">
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional."
-          </p>
-
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle " alt="">
+          <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
+            puedo asegurar que nunca he visto una atenci&oacute;n al cliente
+            tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
+            al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
+            caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
+            resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
 
 
-          <p><b>Marcos Czacki</b></p>
+          <img src="img/abogado6.png"
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
+          <h1 class="h1-caption">Raúl Pérez</h1>
 
-        </div>
 
-        <div class="col-sm-12 col-md-4 text-justify">
-
-          <p class=""> "Ante una realidad cada vez más exigente y
-            riesgosa en materia de cumplimiento normativo y frente a los complejos
-            atajos que toma la delincuencia organizada para mover sus fondos ilegales
-            es encomiable el surgimiento de una organización dedicada a la profesionalización
-            de todos los actores encargados de detectar, prevneir y controlar los delitos financieros,
-            que van desde el lavado de dinero hasta la corrupción internacional." </p>
-
-          <img src="img/abogado7.png" class="imgServicios mb-3 ml-1 border-light rounded-circle" alt="">
-          <p><b>Armando Arciniega</b></p>
+          <a href="conocenos.php" class="d-block mx-auto">
+            <button class="button button_agua button_medium">Saber m&aacute;s
+            </button>
+          </a>
 
         </div>
       </div>
+
+
 
 
     </div>
   </div>
   <!-- Termina Testimonios-->
+
+
   <?php
   include_once ("includes/footer.php");
   include_once ("includes/js.php");  

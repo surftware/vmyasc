@@ -15,6 +15,9 @@
 
 @colorLetra: #637280;
 
+@carousel-caption-width:900;
+@carousel-caption-color:rgba(255, 255, 255, 1);
+
 /*-----------------------------       Fuentes       --------------------------*/
 
 @font-face {
@@ -51,6 +54,7 @@ h5 {
 p {
   font-family: "ubuntu";
   color: @colorLetra;
+  font-weight: normal;
 }
 
 a {
@@ -128,7 +132,7 @@ a {
   font-weight: lighter;
   text-align: left;
   color: rgba(0, 0, 0, 1);
-  font-size: 12px;
+  font-size: 14px;
 
 }
 
@@ -144,7 +148,7 @@ a {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: rgba(112, 145, 118, 0.8) !important;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   padding: 12px 16px;
@@ -204,7 +208,7 @@ a {
 
   width: 100%;
   height: 100%;
-  background-color: rgba(36, 28, 28, 0.1);
+  background-color:rgba(0, 0, 0, 0.4);/* rgba(36, 28, 28, 0.3);*/
   /*bottom:300px;*/
   top: 0px;
   right: 0px;
@@ -219,6 +223,32 @@ a {
   /*top:0px;*/
   /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
 }
+
+.h1-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 45%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
+}
+
+.p-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 55%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
+
+}
+
 
 
 .transparenciaImg {
@@ -237,6 +267,8 @@ a {
 
 
 }
+
+
 
 .captionImg {
   color: @color7;
@@ -374,9 +406,12 @@ footer {
 
 .imgServicios {
   
-  height: 140px;
+  height: 150px;
 }
 
+.heightTest{
+  height: 200px;
+}
 
 @media screen and (max-width: 992px) {
   .barra {
@@ -448,8 +483,8 @@ footer {
 }
 .button_agua {
   color: #fff;
-  background: @color3;
-  border-color:@color3;
+  background: @color2;
+  border-color:@color2;
 }
 .contacts .form ::-moz-placeholder {
   color: @color9;
@@ -478,13 +513,56 @@ footer {
   text-align: center;
 }
 .ptb-100 {
-  padding: 100px 0;
+  padding: 100px 0px 100px 0px;
 }
 .container {
   max-width: 100%;
 }
 
+.ptb-50 {
+  padding: 50px 0px 50px 0px;
+}
 
 /*Contacto.php inicio
 
 Contacto final*/
+
+
+/*Transparencia imagenes solas cono,ser,cont por ceci*/
+.transOtra {
+
+  width: 80%;
+  height: 100%;
+  background-color:rgba(15, 15, 15, 0.3);/* rgba(36, 28, 28, 0.3);*/
+  /*bottom:300px;*/
+  top: 10px;
+  right: 0px;
+  left: 0px;
+  /*border-radius: 15px !important;*/
+  font-family: "ubuntu";
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  position: absolute;
+  /*top:0px;*/
+  /*poniendo esta propiedad en cero la transparencia pasa a la parte de arriba*/
+}
+.button_verde {
+  color: #82b085;
+  background-color: #82b085;
+}
+ /*poniendo ESCUDO CAPTION*/
+ .h1-caption{
+  position: absolute;
+  right: (100% - @carousel-caption-width) / 2;
+  top: 45%;
+  left: (100% - @carousel-caption-width) / 2;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: @carousel-caption-color;
+  text-align: center;
+}
+
+
