@@ -62,7 +62,7 @@
         <div class="col-sm-12 col-md-8 ">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
-          <p class="m-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+          <p class="m-5 text-justify"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
             fecha
             desde
@@ -70,7 +70,7 @@
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
 
-          <p class="m-5"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
+          <p class="m-5 text-justify"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
             diferentes ramas y
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
@@ -106,7 +106,7 @@
 
       <div class="row flexresponsive">
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 longMax ">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
@@ -164,12 +164,11 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 longMax ">
 
           <div class="row mt-5 ">
 
-
-            <div class="col-md-6 col-sm-12 text-left mx-3">
+            <div class="col-md-12 col-sm-12 mx-4 text-justify">
               <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
@@ -179,12 +178,11 @@
               </p>
             </div>
 
-
           </div>
 
-          <div class="row mx-3 mt-3">
+          <div class="row mt-3">
 
-            <div class="col-md-6 col-sm-6">
+            <div class="col-md-6 col-sm-6 text-left">
               <ul>
                 <li class="cLetra">
                   Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
@@ -198,7 +196,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-md-6 col-sm-6">
+            <div class="col-md-6 col-sm-6 text-left">
               <ul>
                 <li class="cLetra">
                   Reclamaci&oacute;n de Gastos Hipotecarios.
@@ -277,11 +275,7 @@
 
         <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light centradoM">
 
-<<<<<<< HEAD
-          <h1 class="h1-section text-center centroM mt-3"> Testimonios </h1>
-=======
           <h1 class="h1-section text-center centroM mt-4"> Testimonios </h1>
->>>>>>> 066dcb54dc8b8b397b9028fe13dd79d022ed764d
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
 
 
@@ -293,14 +287,7 @@
             resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
                     
           <img src="img/abogado6.png"
-<<<<<<< HEAD
-            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid  cel " alt="">
-          
-
-
-=======
             class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM" alt="">
->>>>>>> 066dcb54dc8b8b397b9028fe13dd79d022ed764d
           <a href="conocenos.php" class="d-block mx-auto">
             <h5>Raúl Pérez</h5>
             <button class="button button_agua button_medium mb-4">Leer m&aacute;s
