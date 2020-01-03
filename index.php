@@ -82,7 +82,7 @@
           </a>
         </div>
 
-        <div class="col-sm-12 col-md-4 imgresponsive">
+        <div class="col-sm-12 col-md-4 imgresponsive text-extrasm2">
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm2 ">
           <div class="transparenciaImg d-block mx-auto">
