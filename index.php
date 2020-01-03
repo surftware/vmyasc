@@ -273,7 +273,7 @@
 
       <div class="row">
 
-        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light centradoM">
+        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light">
 
           <h1 class="h1-section text-center centroM mt-4"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
