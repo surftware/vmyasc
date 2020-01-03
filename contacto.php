@@ -61,7 +61,8 @@
               <div class="col-sm-12 col-md-12">
                 <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
                   name="mensaje"></textarea>
-                <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
+                <button class="button button_agua button_medium mb-5" type="submit">ENVIAR
+                <span class="spinner-grow spinner-grow-sm"></span></button>
               </div>
             </div>
             <!-- termina segundo row de columnas-->
