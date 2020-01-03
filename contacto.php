@@ -39,33 +39,36 @@
       </div>
 
       <div class="row justify-content-center">
+        <div class="col-md-8">
 
-        <form action="contacto.php" class="form form--contacts" method="post">
-          <div class="row">
-            <div class="col-sm-12 col-md-6">
-              <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre">
+          <form action="contacto.php" class="form form--contacts" method="post">
+            <!-- inicia primer row de columnas-->
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre">
+              </div>
+              <div class="col-sm-12 col-md-6">
+                <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required=""
+                  name="telefono">
+              </div>
             </div>
-            <div class="col-sm-12 col-md-6">
-              <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required=""
-                name="telefono">
+            <!-- termina primer row de columnas-->
+            <!-- inicia segundo row de columnas-->
+            <div class="row">
+              <div class="col-sm-12 col-md-12">
+                <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo">
+              </div>
+              <div class="col-sm-12 col-md-12">
+                <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
+                  name="mensaje"></textarea>
+                <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
+              </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-12 col-md-12">
-              <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo">
-            </div>
-            <div class="col-sm-12 col-md-12">
-              <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
-                name="mensaje"></textarea>
-              <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
-            </div>
-          </div>
-          
-        </form>
+            <!-- termina segundo row de columnas-->
+          </form>
 
-
+        </div>
       </div>
-
     </div>
   </div>
   <!-- contacts area end -->
@@ -102,14 +105,16 @@
 ?>
 
   <!-- Inicia Mapa  -->
-  <div class="section" id="ubicacion">
+  <div class="section ptb-50" id="ubicacion">
     <div class="container justify-content-center">
 
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
           <h1 class="h1-section">Mapa de Ubicaci&oacute;n</h1>
-          <p> Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
-            brindada personalmente . </p>
+          <p class="mb-0">
+            Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
+            brindada personalmente .
+          </p>
           <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
         </div>
       </div>
