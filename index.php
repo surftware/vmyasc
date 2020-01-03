@@ -57,9 +57,9 @@
     <div class="container">
 
 
-      <div class="row">
+      <div class="row flexresponsive2 align-items-sm-center">
 
-        <div class="col-sm-12 col-md-8 text-justify ">
+        <div class="col-sm-12 col-md-8 text-justify longMax">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
           <p class="my-3 mx-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
@@ -77,14 +77,14 @@
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
           <a href="conocenos.php">
-            <button class="button button_agua button_medium mb-5 ml-5">Saber m&aacute;s
+            <button class="button button_agua button_medium mb-5 ml-5 ">Saber m&aacute;s
             </button>
           </a>
         </div>
 
         <div class="col-sm-12 col-md-4">
 
-          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid ">
+          <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">
             <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
           </div>
