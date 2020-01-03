@@ -104,9 +104,9 @@
   <div class="section m-5" id="Servicios">
     <div class="container">
 
-      <div class="row">
+      <div class="row flexresponsive">
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 longMax ">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 ">
@@ -164,12 +164,11 @@
 
         </div>
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 longMax ">
 
-          <div class="row ml-5 mt-5 ">
+          <div class="row mt-5 ">
 
-
-            <div class="col-md-12 text-left">
+            <div class="col-md-12 col-sm-12 mx-4 text-justify">
               <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
@@ -179,12 +178,11 @@
               </p>
             </div>
 
-
           </div>
 
-          <div class="row ml-5 mt-3">
+          <div class="row mt-3">
 
-            <div class="col-md-6">
+            <div class="col-md-6 col-sm-6 text-left">
               <ul>
                 <li class="cLetra">
                   Revisi&oacute;n y redacci&oacute;n de documentos extrajudiciales.
@@ -198,7 +196,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-sm-6 text-left">
               <ul>
                 <li class="cLetra">
                   Reclamaci&oacute;n de Gastos Hipotecarios.
@@ -227,7 +225,7 @@
   <div class="section m-5" id="Nuestros">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 ">
           <h1 class="h1-section text-center "> Nuestros litigantes </h1>
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
@@ -270,34 +268,32 @@
   </div>
 
   <!-- Inicia Testimonios-->
-  <div class="section m-5" id="Testimonios">
+  <div class="section  mb-5 " id="Testimonios">
     <div class="container">
 
       <div class="row">
 
-        <div class="col-sm-12 col-md-6 offset-md-3 text-center bg-light ">
+        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light">
 
-          <h1 class="h1-section text-center"> Testimonios </h1>
+          <h1 class="h1-section text-center centroM mt-4"> Testimonios </h1>
           <p class="text-center"> La experiencia de nuestros miembros asesores </p>
 
 
-          <p class="heightTest text-justify m-5"> "Yo que conozco el mundo de los abogados,
+          <p class="text-justify mx-5 "> "Yo que conozco el mundo de los abogados,
             puedo asegurar que nunca he visto una atenci&oacute;n al cliente
             tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
             al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
             caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
             resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
-
-
+                    
           <img src="img/abogado6.png"
-            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid" alt="">
-          <h1 class="h1-caption">Raúl Pérez</h1>
-
-
+            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM" alt="">
           <a href="conocenos.php" class="d-block mx-auto">
-            <button class="button button_agua button_medium">Saber m&aacute;s
+            <h5>Raúl Pérez</h5>
+            <button class="button button_agua button_medium mb-4">Leer m&aacute;s
             </button>
           </a>
+          
 
         </div>
       </div>
