@@ -111,7 +111,7 @@
           <div class="row">
             <div class="col-sm-4 col-md-4 align-items-sm-center">
               <a href="servicios.php">
-                <img src="img/abogado1.png" class="imgServicios img-fluid " alt="">
+                <img src="img/abogado1.png " title="Conocenos" class="imgServicios img-fluid " alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
@@ -129,7 +129,7 @@
           <div class="row my-4">
             <div class="col-sm-4 col-md-4 align-items-sm-center ">
               <a href="servicios.php">
-                <img src="img/abogado4.png" class="imgServicios img-fluid " alt="Servicios">
+                <img src="img/abogado4.png"title="Servicios" class="imgServicios img-fluid " alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
@@ -146,8 +146,8 @@
 
           <div class="row">
             <div class="col-sm-4 col-md-4 align-items-sm-center">
-              <a href="servicios.php">
-                <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
+              <a href="contacto.php">
+                <img src="img/abogado7.png" title="Contacto"class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
