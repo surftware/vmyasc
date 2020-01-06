@@ -109,55 +109,55 @@
         <div class="col-md-6 col-sm-12 longMax ">
 
           <div class="row">
-            <div class="col-sm-4 col-md-4 ">
+            <div class="col-sm-4 col-md-4 align-items-sm-center">
               <a href="servicios.php">
-                <img src="img/abogado1.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado1.png" class="imgServicios img-fluid " alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
               <a href="servicios.php">
-                <img src="img/abogado2.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado2.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
               <a href="servicios.php">
-                <img src="img/abogado3.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado3.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
           </div>
 
           <div class="row my-4">
-            <div class="col-sm-4 col-md-4 ">
+            <div class="col-sm-4 col-md-4 align-items-sm-center ">
               <a href="servicios.php">
-                <img src="img/abogado4.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado4.png" class="imgServicios img-fluid " alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
               <a href="servicios.php">
-                <img src="img/abogado5.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado5.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
               <a href="servicios.php">
-                <img src="img/abogado10.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado10.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
           </div>
 
           <div class="row">
-            <div class="col-sm-4 col-md-4 ">
+            <div class="col-sm-4 col-md-4 align-items-sm-center">
               <a href="servicios.php">
                 <img src="img/abogado7.png" class="imgServicios img-fluid" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4  ">
               <a href="servicios.php">
-                <img src="img/abogado8.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado8.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
             <div class="col-sm-4 col-md-4 ">
               <a href="servicios.php">
-                <img src="img/abogado9.png" class="imgServicios img-fluid" alt="">
+                <img src="img/abogado9.png" class="imgServicios img-fluid imagenNO" alt="">
               </a>
             </div>
           </div>
