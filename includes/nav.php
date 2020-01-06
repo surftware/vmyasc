@@ -72,11 +72,12 @@
                 </a>
                 <div class="dropdown-content ">
                     <a href="contacto.php#contacts">
-                        <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp; Mensaje</p>
+                        <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp;
+                        Formulario contacto</p>
                     </a>
                     <a href="contacto.php#ubicacion">
                         <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true "></i>&nbsp;
-                            Ubicaci&oacute;n</p>
+                            Mapa ubicaci&oacute;n</p>
                     </a>
                 </div>
 
