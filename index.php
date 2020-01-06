@@ -77,12 +77,12 @@
             Financieras, Uniones de Crédito, Empresas de Servicios y Personas Físicas y Morales entre otros.
           </p>
           <a href="conocenos.php">
-            <button class="button button_agua button_medium mb-5 ml-5">Saber m&aacute;s
+            <button class="button button_agua button_medium mb-5 ml-5 text-extrasm">Saber m&aacute;s
             </button>
           </a>
         </div>
 
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-4 imagen_r ">
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">
