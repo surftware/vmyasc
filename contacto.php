@@ -29,31 +29,47 @@
 
   <!-- contacts area start -->
   <div class="section contacts ptb-50" id="contacts">
-    <div class="container">
+    <div class="container ">
 
       <div class="row justify-content-center">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-          <h1 class="h1-section text-center ">
-            Formulario de Contacto
-          </h1>
-          <p class="text-center">Cont&aacute;ctanos, contestaremos a la brevedad.</p>
+        <div class="col-sm-12 col-md-12">
+          <h1 class="h1-section text-center ">Formulario de Contacto</h1>
+          <p class="text-center">Env&iacute;anos un mensaje, contestaremos a la brevedad.</p>
         </div>
       </div>
 
       <div class="row justify-content-center">
-        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
-          <div class="form">
-            <form action="contacto.php" class="form form--contacts" method="post">
-              <input type="text" class="form_field" placeholder="Nombre completo"                     required=""  name="nombre">
-              <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono"     required=""  name="telefono">
-              <input type="text" class="form_field" placeholder="Correo electr&oacute;nico"  required=""  name="correo">
-              <textarea class="form_textarea"       placeholder="Escr&iacute;banos aqui su mensaje"     required=""  name="mensaje"></textarea>
-              <button class="button button_agua button_medium mb-5" type="submit">ENVIAR</button>
-            </form>
-          </div>
+        <div class="col-md-8">
+
+          <form action="contacto.php" class="form form--contacts" method="post">
+            <!-- inicia primer row de columnas-->
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre">
+              </div>
+              <div class="col-sm-12 col-md-6">
+                <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required=""
+                  name="telefono">
+              </div>
+            </div>
+            <!-- termina primer row de columnas-->
+            <!-- inicia segundo row de columnas-->
+            <div class="row">
+              <div class="col-sm-12 col-md-12">
+                <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo">
+              </div>
+              <div class="col-sm-12 col-md-12">
+                <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
+                  name="mensaje"></textarea>
+                <button class="button button_agua button_medium mb-5" type="submit">ENVIAR
+                <span class="spinner-grow spinner-grow-sm"></span></button>
+              </div>
+            </div>
+            <!-- termina segundo row de columnas-->
+          </form>
+
         </div>
       </div>
-
     </div>
   </div>
   <!-- contacts area end -->
@@ -90,15 +106,29 @@
 ?>
 
   <!-- Inicia Mapa  -->
-  <div class="text-center mb-5 ptb-50" id="ubicacion">
-    <h1 class="h1-section text-center"> Mapa de Ubicaci&oacute;n </h1>
-    <p class="text-center"> Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
-      brindada personalmente . </p>
-    <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.553615587871!2d-99.17735778509469!3d19.34516698693408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44f731a01%3A0x5eba228778ee32ab!2sInterior%204%2C%20Kappa%2011%2C%20Romero%20de%20Terreros%2C%2004310%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1576175341286!5m2!1ses-419!2smx"
-      width="900" height="450" frameborder="0" style="border:0;" allowfullscreen="">
-    </iframe>
+  <div class="section ptb-50" id="ubicacion">
+    <div class="container justify-content-center">
+
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+          <h1 class="h1-section">Mapa de Ubicaci&oacute;n</h1>
+          <p class="mb-0">
+            Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
+            brindada personalmente .
+          </p>
+          <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
+        </div>
+      </div>
+
+      <div class="row text-center">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <iframe class="border rounded d-block mx-auto"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.553615587871!2d-99.17735778509469!3d19.34516698693408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44f731a01%3A0x5eba228778ee32ab!2sInterior%204%2C%20Kappa%2011%2C%20Romero%20de%20Terreros%2C%2004310%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1576175341286!5m2!1ses-419!2smx"
+            width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
+          </iframe>
+        </div>
+      </div>
+    </div>
   </div>
   <!-- Termina Mapa  -->
 
