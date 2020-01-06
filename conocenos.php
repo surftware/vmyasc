@@ -26,40 +26,166 @@
   </div>
   <!-- Termina banner-->
 
-   <!-- Inicia Tarjetas Equipo  -->
-   <div class="section ptb-50" id="ubicacion">
-    <div class="container justify-content-center">
+  <!-- Inicia Tarjetas Equipo  -->
+  <div class="section ptb-50" id="equipo">
+    <div class="container ">
 
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Mapa de Ubicaci&oacute;n</h1>
-          <p class="mb-0">
-            Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
-            brindada personalmente .
+          <h1 class="h1-section">Nuestro Equipo</h1>
+          <p class="text-center">
+            Conoce a nuestro quipo de Profesionistas, ellos estar&aacute;n para asesorarte
           </p>
-          <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
         </div>
       </div>
 
       <div class="row text-center">
-        <div class="col-sm-12 col-md-12 col-lg-12">
-          <iframe class="border rounded d-block mx-auto"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.553615587871!2d-99.17735778509469!3d19.34516698693408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44f731a01%3A0x5eba228778ee32ab!2sInterior%204%2C%20Kappa%2011%2C%20Romero%20de%20Terreros%2C%2004310%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1576175341286!5m2!1ses-419!2smx"
-            width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
-          </iframe>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-4 mr-2">
+            <img class="card-img-top cardImg" src="img/cards/ab06.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-2 mr-2">
+            <img class="card-img-top cardImg" src="img/cards/ab01.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. Alejandra Bernal</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-2 mr-4">
+            <img class="card-img-top cardImg" src="img/cards/ab03.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
         </div>
       </div>
+
+      <div class="row text-center mt-5">
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-4 mr-2">
+            <img class="card-img-top cardImg" src="img/cards/ab04.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-2 mr-2">
+            <img class="card-img-top cardImg" src="img/cards/ab04.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card ml-2 mr-4">
+            <img class="card-img-top cardImg" src="img/cards/ab03.png" alt="Card image">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-4 col-md-4">
+
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
+                  <p class="card-text">Perfil</p>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
-  <!-- Termina Tarjetas Equipo  -->
-
-
-
-
-
-
-
-
+  <!-- Termina Equipo de trabajo  -->
 
 
 
