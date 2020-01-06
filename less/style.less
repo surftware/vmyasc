@@ -395,7 +395,7 @@ footer {
 
 .imagen_m {
   height: 100%;
-  width: 100% !important;
+  width: 100%;
 
 }
 
@@ -471,20 +471,28 @@ footer {
   .longMax{
     max-width: 100% ;
   }
-
-}
   
-@media screen and (max-width: 1120px) and (min-width:375px){
+}
+@media screen and (max-width:1120px) and (min-width:375px){
+  .imagen_r {
+  max-width: 50.000%;
+  }
+}
+@media screen and (max-width: 1120px) and (min-width: 375px){
   .flexresponsive2{
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
   }
   .longMax{
     max-width: 100% ;
   }
-
+  
+}
+@media screen and (max-width: 575px) and (min-width: 375px){
+.imagenNO {
+    display:none;
+  }
 }
 
 .contacts .form_field {
