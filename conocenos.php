@@ -25,13 +25,6 @@
     </div>
   </div>
   <!-- Termina banner-->
-  <!-- Inicia Equipo de trabajo  -->
-  <div class="text-center mb-5 ptb-50" id="ubicacion">
-    <h1 class="h1-section text-center"> Nuestro Equipo </h1>
-    <p class="text-center"> Conoce a nuestro quipo de Profesionistas, ellos estar&aacute;n para asesorarte </p>    
-    
-  </div>
-  <!-- Termina Equipo de trabajo  -->
 
   <!-- Inicia Tarjetas Equipo  -->
   <div class="section ptb-50" id="equipo">
