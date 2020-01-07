@@ -25,6 +25,20 @@
     </div>
   </div>
   <!-- Termina banner-->
+  <!-- Inicia Logros  -->
+  <div class="section ptb-50" id="Logros">
+    <div class="container ">
+    <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+          <h1 class="h1-section">Logros Destacados </h1>
+          <p class="text-center">
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Termina Logros  -->
 
   <!-- Inicia Tarjetas Equipo  -->
   <div class="section ptb-50" id="Equipo">
@@ -186,6 +200,20 @@
     </div>
   </div>
   <!-- Termina Equipo de trabajo  -->
+   <!-- Inicia Fechas Importantes -->
+   <div class="section ptb-50" id="Fechas">
+    <div class="container ">
+    <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+          <h1 class="h1-section">Fechas Importantes </h1>
+          <p class="text-center">
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Termina Fechas Importantes  -->
 
 
 
