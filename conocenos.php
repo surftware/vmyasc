@@ -27,7 +27,7 @@
   <!-- Termina banner-->
 
   <!-- Inicia Tarjetas Equipo  -->
-  <div class="section ptb-50" id="equipo">
+  <div class="section ptb-50" id="Equipo">
     <div class="container ">
 
       <div class="row">
