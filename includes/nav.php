@@ -44,11 +44,9 @@
                 </a>
                 <div class="dropdown-content ">
 
-                    <p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp; Logros Destacados</p>
-                    <p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro Equipo
-                    </p>
-                    <p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas
-                        Importantes</p>
+                <a href="conocenos.php#Logros"><p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp; Logros Destacados</p></a>
+                <a href="conocenos.php#Equipo"><p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro Equipo</p></a>
+                <a href="conocenos.php#Fechas"><p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas Importantes</p></a>
 
                 </div>
             </li>
