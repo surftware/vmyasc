@@ -1,8 +1,14 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top barra">
-    <a class="navbar-brand ml-5 pl-5" href="index.php">
-        <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
-        <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
-        <p class="p-logo-base">Despacho legal</p>
+    <a class="navbar-brand" href="index.php">
+        <div class="row ml-5 pl-5">
+            <div class="col-md-2">
+                <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
+            </div>
+            <div class="col-md-10">
+                <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
+                <p class="p-logo-base text-center">Despacho legal</p>
+            </div>
+        </div>
     </a>
 
 
@@ -13,7 +19,7 @@
 
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
 
-        <ul class="navbar-nav d-block mx-auto centradoM ">
+        <ul class="navbar-nav d-block mx-auto">
 
             <li class="menuResp nav-item active dropdown">
                 <a href="index.php">
@@ -44,9 +50,18 @@
                 </a>
                 <div class="dropdown-content ">
 
-                <a href="conocenos.php#Logros"><p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp; Logros Destacados</p></a>
-                <a href="conocenos.php#Equipo"><p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro Equipo</p></a>
-                <a href="conocenos.php#Fechas"><p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas Importantes</p></a>
+                    <a href="conocenos.php#Logros">
+                        <p class="p-dropdown"><i class="fas fa-medal" aria-hidden="true"></i>&nbsp; Logros Destacados
+                        </p>
+                    </a>
+                    <a href="conocenos.php#Equipo">
+                        <p class="p-dropdown"><i class="fas fa-user-friends" aria-hidden="true"></i>&nbsp; Nuestro
+                            Equipo</p>
+                    </a>
+                    <a href="conocenos.php#Fechas">
+                        <p class="p-dropdown"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp; Fechas
+                            Importantes</p>
+                    </a>
 
                 </div>
             </li>
@@ -71,7 +86,7 @@
                 <div class="dropdown-content ">
                     <a href="contacto.php#contacts">
                         <p class="p-dropdown"><i class="far fa-comment-alt" aria-hidden="true"></i>&nbsp;
-                        Formulario contacto</p>
+                            Formulario contacto</p>
                     </a>
                     <a href="contacto.php#ubicacion">
                         <p class="p-dropdown"><i class="fas fa-map-marked-alt" aria-hidden="true "></i>&nbsp;
