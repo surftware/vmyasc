@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top barra">
     <a class="navbar-brand" href="index.php">
-        <div class="row ml-5 pl-5">
+        <div class="row ml-5 pl-5 margenRespLogo">
             <div class="col-md-2">
                 <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
             </div>
@@ -19,7 +19,7 @@
 
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
 
-        <ul class="navbar-nav d-block mx-auto">
+        <ul class="navbar-nav d-block mx-auto centradoM">
 
             <li class="menuResp nav-item active dropdown">
                 <a href="index.php">
