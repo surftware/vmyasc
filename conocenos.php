@@ -28,11 +28,11 @@
   <!-- Inicia Logros  -->
   <div class="section ptb-50" id="Logros">
     <div class="container ">
-    <div class="row">
+      <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
           <h1 class="h1-section">Logros Destacados </h1>
           <p class="text-center">
-            
+
           </p>
         </div>
       </div>
@@ -54,45 +54,21 @@
       </div>
 
       <div class="row text-center">
-        <div class="col-sm-12 col-md-4 col-lg-4">
-          <div class="card ml-4 mr-2">
-            <img class="card-img-top cardImg" src="img/cards/ab06.png" alt="Card image">
-            <div class="card-body">
-              <div class="row">
-                <div class="col-sm-4 col-md-4">
-
-                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
-                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
-                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
-                  <p class="p-card text-center">55 5555 55 55</p>
-                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
-                </div>
-                <div class="col-sm-8 col-md-8">
-                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
-                  <p class="card-text">Perfil</p>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="col-sm-12 col-md-6 col-lg-6">
           <div class="card ml-2 mr-2">
-            <img class="card-img-top cardImg" src="img/cards/ab01.png" alt="Card image">
             <div class="card-body">
               <div class="row">
                 <div class="col-sm-4 col-md-4">
-
-                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
-                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
-                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
-                  <p class="p-card text-center">55 5555 55 55</p>
-                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
+                  <img class="card-img-top cardImg rounded" src="img/cards/ab01.png" alt="Card image">
                 </div>
                 <div class="col-sm-8 col-md-8">
                   <h1 class="h2-section text-center"> Lic. Alejandra Bernal</h1>
                   <p class="card-text">Perfil</p>
+                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
+                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
+                  <p class="p-card text-center">55 5555 55 55</p>
+                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
                 </div>
               </div>
 
@@ -100,71 +76,44 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4 col-lg-4">
-          <div class="card ml-2 mr-4">
-            <img class="card-img-top cardImg" src="img/cards/ab03.png" alt="Card image">
+        <div class="col-sm-12 col-md-6 col-lg-6">
+          <div class="card ml-2 mr-2">
             <div class="card-body">
               <div class="row">
                 <div class="col-sm-4 col-md-4">
-
+                  <img class="card-img-top cardImg rounded" src="img/cards/ab01.png" alt="Card image">
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. Alejandra Bernal</h1>
+                  <p class="card-text">Perfil</p>
                   <img src="img/logoFooter.png" class="logo-footer" alt="logo">
                   <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
                   <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
                   <p class="p-card text-center">55 5555 55 55</p>
                   <p class="p-card text-center">vicmont@prodigy.net.mx</p>
                 </div>
-                <div class="col-sm-8 col-md-8">
-                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
-                  <p class="card-text">Perfil</p>
-                </div>
               </div>
-
-
             </div>
           </div>
         </div>
       </div>
 
-      <div class="row text-center mt-5">
-        <div class="col-sm-12 col-md-4 col-lg-4">
-          <div class="card ml-4 mr-2">
-            <img class="card-img-top cardImg" src="img/cards/ab04.png" alt="Card image">
-            <div class="card-body">
-              <div class="row">
-                <div class="col-sm-4 col-md-4">
-
-                  <img src="img/logoFooter.png" class="logo-footer" alt="logo">
-                  <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
-                  <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
-                  <p class="p-card text-center">55 5555 55 55</p>
-                  <p class="p-card text-center">vicmont@prodigy.net.mx</p>
-                </div>
-                <div class="col-sm-8 col-md-8">
-                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
-                  <p class="card-text">Perfil</p>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4 col-lg-4">
+      <div class="row text-center">
+        <div class="col-sm-12 col-md-6 col-lg-6">
           <div class="card ml-2 mr-2">
-            <img class="card-img-top cardImg" src="img/cards/ab04.png" alt="Card image">
             <div class="card-body">
               <div class="row">
                 <div class="col-sm-4 col-md-4">
-
+                  <img class="card-img-top cardImg rounded" src="img/cards/ab01.png" alt="Card image">
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. Alejandra Bernal</h1>
+                  <p class="card-text">Perfil</p>
                   <img src="img/logoFooter.png" class="logo-footer" alt="logo">
                   <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
                   <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
                   <p class="p-card text-center">55 5555 55 55</p>
                   <p class="p-card text-center">vicmont@prodigy.net.mx</p>
-                </div>
-                <div class="col-sm-8 col-md-8">
-                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
-                  <p class="card-text">Perfil</p>
                 </div>
               </div>
 
@@ -172,26 +121,23 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4 col-lg-4">
-          <div class="card ml-2 mr-4">
-            <img class="card-img-top cardImg" src="img/cards/ab03.png" alt="Card image">
+        <div class="col-sm-12 col-md-6 col-lg-6">
+          <div class="card ml-2 mr-2">
             <div class="card-body">
               <div class="row">
                 <div class="col-sm-4 col-md-4">
-
+                  <img class="card-img-top cardImg rounded" src="img/cards/ab01.png" alt="Card image">
+                </div>
+                <div class="col-sm-8 col-md-8">
+                  <h1 class="h2-section text-center"> Lic. Alejandra Bernal</h1>
+                  <p class="card-text">Perfil</p>
                   <img src="img/logoFooter.png" class="logo-footer" alt="logo">
                   <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
                   <h2 class="h2-footer footer-logo-base mb-5">Despacho Legal</h2>
                   <p class="p-card text-center">55 5555 55 55</p>
                   <p class="p-card text-center">vicmont@prodigy.net.mx</p>
                 </div>
-                <div class="col-sm-8 col-md-8">
-                  <h1 class="h2-section text-center"> Lic. V&iacute;ctor Montes</h1>
-                  <p class="card-text">Perfil</p>
-                </div>
               </div>
-
-
             </div>
           </div>
         </div>
@@ -200,14 +146,14 @@
     </div>
   </div>
   <!-- Termina Equipo de trabajo  -->
-   <!-- Inicia Fechas Importantes -->
-   <div class="section ptb-50" id="Fechas">
+  <!-- Inicia Fechas Importantes -->
+  <div class="section ptb-50" id="Fechas">
     <div class="container ">
-    <div class="row">
+      <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
           <h1 class="h1-section">Fechas Importantes </h1>
           <p class="text-center">
-            
+
           </p>
         </div>
       </div>
