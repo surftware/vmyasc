@@ -12,7 +12,7 @@
   include_once ("includes/nav.php");	  
  ?>
   <!-- Inicia Carrusel index-->
-  <div id="carouselndex" class="carousel slide carousel-fade" data-ride="carousel">
+  <div id="carouselndex" class="carousel slide carousel-fade ptb-50" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselndex" data-slide-to="0" class="active"></li>
       <li data-target="#carouselndex" data-slide-to="1"></li>
@@ -53,7 +53,7 @@
   <!-- Termina Carrusel index-->
 
   <!-- Inicia Conozca nuestro despacho-->
-  <div class="section m-5  " id="Conozca">
+  <div class="section m-5 ptb-50  " id="Conozca">
     <div class="container">
 
 
@@ -101,7 +101,7 @@
   <!-- Termina Conozca nuestro despacho-->
 
   <!-- Inicia Servicios-->
-  <div class="section m-5" id="Servicios">
+  <div class="section m-5 ptb-50" id="Servicios">
     <div class="container">
 
       <div class="row flexresponsive">
@@ -222,7 +222,7 @@
   <!-- Termina Servicios-->
 
   <!-- Inicia Principales Miembros-->
-  <div class="section m-5" id="Nuestros">
+  <div class="section m-5 ptb-50" id="Nuestros">
     <div class="container">
       <div class="row">
         <div class="col-md-12 ">
@@ -268,7 +268,7 @@
   </div>
 
   <!-- Inicia Testimonios-->
-  <div class="section  mb-5 " id="Testimonios">
+  <div class="section mb-5 ptb-50" id="Testimonios">
     <div class="container">
 
       <div class="row">
