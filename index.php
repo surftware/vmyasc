@@ -23,7 +23,7 @@
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
           <h1 class="h1-caption">Víctor Montes y Asociados</h1>
-          <p class="p-caption">Despacho jur&iacute;dico</p>
+          <p class="p-caption"> jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
