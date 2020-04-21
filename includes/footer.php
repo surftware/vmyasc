@@ -44,7 +44,7 @@
               <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
             </a>
           </p>
-          
+
           <p class="text-footer mb-1">
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>
@@ -57,11 +57,20 @@
         </div>
 
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
+        
+          <h2 class=" h1-footer m-4">Somos Profesionales en Derecho</h2>
+          <p class="text-footer mb-0 text-justify">
+            Conformamos una red de expertos en temas de Derecho, garantizando solución completa e integral
+            en sus asuntos.
+          </p>
           <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
           <p class="text-footer mb-0">
             Lunes a Viernes de: 10:00 am a 3:00 pm
             y 5:00 pm a 8:00 pm
           </p>
+
+
+
 
         </div>
 

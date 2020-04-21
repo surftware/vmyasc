@@ -18,8 +18,8 @@
       <div class="carousel-item active">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/banner02.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption">Víctor Montes y Asociados</h1>
-          <p class="p-caption">Servicios</p>
+          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption letra_res">Servicios</p>
         </div>
       </div>
     </div>

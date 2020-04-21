@@ -111,6 +111,17 @@ a {
 
 }
 
+.p-card {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: "ubuntu";
+  font-size: 12px;
+
+}
+
 .span-menus {
 
   margin-left: 0px;
@@ -140,7 +151,7 @@ a {
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-top: 30px;
+  //margin-top: 30px;
   margin-left: 10px;
 
 }
@@ -215,7 +226,7 @@ a {
   left: 0px;
   /*border-radius: 15px !important;*/
   font-family: "ubuntu";
-  font-size: 25px;
+  font-size: 40px;
   color: #ffffff;
   text-align: center;
   font-weight: bold;
@@ -249,6 +260,9 @@ a {
 
 }
 
+.cardImg{
+  height: 299px;
+}
 
 
 .transparenciaImg {
@@ -317,6 +331,12 @@ a {
   color: @color2;
 }
 
+.h2-section {
+  font-size: 22px;
+  color: @color2;
+  text-align: center;
+}
+
 
 .h1-footer {
   font-size: 15px;
@@ -375,7 +395,7 @@ footer {
 
 .imagen_m {
   height: 100%;
-  width: 100% !important;
+  width: 100%;
 
 }
 
@@ -438,11 +458,61 @@ footer {
   .menuResp {
     margin-left: 35%;
     margin-right: 25%;
+    margin-top:3%;
+  }
+
+  .margenRespLogo{
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+
   }
 
 
 }
 
+@media screen and (max-width: 1000px) and (min-width: 375px){
+  .flexresponsive{
+  flex-direction:column-reverse;
+  flex-wrap: wrap;
+  }
+  .longMax{
+    max-width: 100% ;
+  }
+  
+}
+@media screen and (max-width:1120px) and (min-width:375px){
+  .imagen_r {
+  max-width: 40.000%;
+  }
+}
+@media screen and (max-width: 1120px) and (min-width: 375px){
+  .flexresponsive2{
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+  .longMax{
+    max-width: 100% ;
+  }
+  
+}
+@media screen and (max-width: 575px){
+.imagenNO {
+    display:none;
+  }
+}
+@media screen and (max-width: 575px){
+.centradoser{
+margin-left: 80px;
+margin-bottom: 10px;
+}
+}
+  .letra_res {
+    font-size:78%;
+
+  }
 
 .contacts .form_field {
   display: block;
@@ -564,5 +634,3 @@ Contacto final*/
   color: @carousel-caption-color;
   text-align: center;
 }
-
-

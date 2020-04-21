@@ -25,6 +25,43 @@ Ultima Actualización: Noviembre 2019
   <meta name="author" content="surftware" />
   <meta name="copyright" content="Surftware" />
 
+  <meta name="keywords" content="" />
+  <meta name="keywords" content="" />
+  <meta name="keywords" content="" />
+  <meta name="keywords" content="" />
+  <meta name="keywords" content="" />
+
+
+  <!--Open Graphs Facebook Meta  -->
+  <meta property="og:locale" content="en_MX" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="V&iacute;ctor Montes y Asociados | Despacho Legal" />
+  <meta property="og:description"
+    content="V&iacute;ctor Montes y Asociados, el mejor despacho legal, solucionamos cualqueir asunto; con honestidad y eficientemente." />
+  <meta property="og:url" content="http://www.vmyasc.com.mx">
+  <meta property="og:site_name" content="V&iacute;ctor Montes y Asociados | Despacho Legal">
+  <meta property="og:image" content="http://www.vmyasc.com.mx/img/ab05.png" />
+  <meta property="og:image" content="http://www.vmyasc.com.mx/img/ab06.png" />
+
+  <!--Twitter Meta  -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="" />
+  <meta name="twitter:image" content="http://www.vmyasc.com.mx/img/ab05.png" />
+  <meta name="twitter:image" content="http://www.vmyasc.com.mx/img/ab06.png" />
+
+
+
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="favicon/site.webmanifest">
+  <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#fb7116">
+  <meta name="theme-color" content="#ffffff">
+
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
@@ -33,7 +70,7 @@ Ultima Actualización: Noviembre 2019
   <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#2b5797">
   <meta name="theme-color" content="#ffffff">
- 
+
   <!-- bootstrap 4 -->
   <link rel="stylesheet" href="css/bootstrap.min.css" />
 
@@ -48,10 +85,10 @@ Ultima Actualización: Noviembre 2019
 
   <!-- wow -->
   <link rel="stylesheet" href="css/animate.css" />
- 
-   <!-- owl Carousel 2.3.4 -->
-   <link rel="stylesheet" href="css/owl.carousel.min.css">
-   <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+  <!-- owl Carousel 2.3.4 -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 
