@@ -62,7 +62,7 @@
         <div class="col-sm-12 col-md-8 text-justify longMax">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
-          <p class="my-3 mx-5"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
+          <p class="my-3"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
             fecha
             desde
@@ -70,7 +70,7 @@
             desempeñan, litigando los negocios que nos encomiendan nuestros clientes.
           </p>
 
-          <p class="my-3 mx-5"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
+          <p class="my-3"> Nuestra firma legal esta integrada por profesionistas experimentados y capacitados en
             diferentes ramas y
             especialidades del Derecho. Cuenta con clientes de diversos tipos; tales como importantes Bancos,
             Corporativos de Industrias, Fabricas, Casas de Bolsa, Empresas de Factoraje Financiero, Arrendadoras
@@ -168,7 +168,7 @@
 
           <div class="row mt-5 ">
 
-            <div class="col-md-12 col-sm-12 mx-4 text-justify">
+            <div class="col-md-12 col-sm-12 text-justify">
               <h1 class="h1-section  text-center "> Servicios</h1>
               <p>Las opciones son variadas, el objetivo es el mismo Conoce las vertientes de los servicios
                 que ofrecemos para la Prevención de Lavado de Dinero
